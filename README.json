@@ -1,0 +1,3918 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T15:33:40Z",
+            "owner": "apache",
+            "repo": "flink",
+            "stars": 26261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dpark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-25T10:36:06Z",
+            "owner": "douban",
+            "repo": "dpark",
+            "stars": 2663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Hadoop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-04T23:40:50Z",
+            "owner": "mesos",
+            "repo": "hadoop",
+            "stars": 176
+          }
+        }
+      ],
+      "title": "Batch Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Heron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-03-01T15:11:08Z",
+            "owner": "apache",
+            "repo": "incubator-heron",
+            "stars": 3627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Storm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-17T05:28:43Z",
+            "owner": "mesos",
+            "repo": "storm",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabric",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-13T17:20:38Z",
+            "owner": "olacabs",
+            "repo": "fabric",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samza",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2021-03-25T21:19:37Z",
+            "owner": "Banno",
+            "repo": "samza-mesos",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Stream/Event Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Kafka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-05-03T14:14:05Z",
+            "owner": "mesos",
+            "repo": "kafka",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElasticSearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-19T23:16:14Z",
+            "owner": "mesos",
+            "repo": "elasticsearch",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Cassandra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-11-15T19:46:21Z",
+            "owner": "mesosphere-backup",
+            "repo": "cassandra-mesos-deprecated",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HDFS",
+          "description": "(and HDFS and HDFS)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2016-09-20T01:54:59Z",
+            "owner": "mesosphere-backup",
+            "repo": "hdfs-deprecated",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrRedis - Mesos runs Redis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-12-10T14:21:09Z",
+            "owner": "mesos",
+            "repo": "mr-redis",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tachyon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2014-08-25T23:37:56Z",
+            "owner": "d2iq-archive",
+            "repo": "tachyon-mesos",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-01-30T15:25:16Z",
+            "owner": "crate",
+            "repo": "crate-mesos-framework",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Accumulo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-27T13:17:25Z",
+            "owner": "aredee",
+            "repo": "accumulo-mesos",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-03-08T17:21:58Z",
+            "owner": "basho-labs",
+            "repo": "riak-mesos",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataStax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-05-25T10:11:33Z",
+            "owner": "elodina",
+            "repo": "datastax-enterprise-mesos",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Drill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-04-13T08:50:40Z",
+            "owner": "mhausenblas",
+            "repo": "dromedar",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2015-08-13T16:21:13Z",
+            "owner": "stealthly",
+            "repo": "phoenix",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kafaka -> Cassandra mirroring",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-04-29T14:23:15Z",
+            "owner": "elodina",
+            "repo": "stockpile",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kafka client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-04-06T16:43:15Z",
+            "owner": "elodina",
+            "repo": "go-kafka-client-mesos",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hemlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-02-25T05:56:09Z",
+            "owner": "spacejam",
+            "repo": "hemlock",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Ceph",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Storage and Serving"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ElasticJob",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-29T11:01:30Z",
+            "owner": "apache",
+            "repo": "shardingsphere-elasticjob",
+            "stars": 8210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2022-06-29T19:43:36Z",
+            "owner": "mesos",
+            "repo": "chronos",
+            "stars": 4375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2022-09-08T05:13:23Z",
+            "owner": "d2iq-archive",
+            "repo": "marathon",
+            "stars": 4029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Singularity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-02T15:34:03Z",
+            "owner": "HubSpot",
+            "repo": "Singularity",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-10-06T19:26:14Z",
+            "owner": "d2iq-archive",
+            "repo": "kubernetes-mesos",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-01-29T02:53:18Z",
+            "owner": "Dataman-Cloud",
+            "repo": "swan",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cook Scheduler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2023-04-24T19:14:38Z",
+            "owner": "twosigma",
+            "repo": "Cook",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myriad - Elastic YARN on Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-15T22:04:13Z",
+            "owner": "apache",
+            "repo": "incubator-myriad",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metronome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2022-10-05T22:47:19Z",
+            "owner": "dcos",
+            "repo": "metronome",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFoundry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-03-01T02:33:52Z",
+            "owner": "mesos",
+            "repo": "cloudfoundry-mesos",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scale",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-10T03:06:44Z",
+            "owner": "ngageoint",
+            "repo": "scale",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waiter - Runs, manages, and autoscales web services",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2023-03-22T21:56:20Z",
+            "owner": "twosigma",
+            "repo": "waiter",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Service/Meta Schedulers/ PaaS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Etcd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-04-27T14:34:07Z",
+            "owner": "mesosphere-backup",
+            "repo": "etcd-mesos",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZooKeeper",
+          "description": "and ZooKeeper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-05-18T12:30:46Z",
+            "owner": "CiscoCloud",
+            "repo": "exhibitor-mesos-framework",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Consensus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jenkins",
+          "description": "and Jenkins",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-09T11:03:12Z",
+            "owner": "jenkinsci",
+            "repo": "mesos-plugin",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teamcity Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-11-17T08:05:40Z",
+            "owner": "ankurcha",
+            "repo": "mesos-teamcity-plugin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitLab CI",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Continuous Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eremetic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-01T18:58:41Z",
+            "owner": "eremetic-framework",
+            "repo": "eremetic",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-02-02T14:04:58Z",
+            "owner": "MohamedBassem",
+            "repo": "r-cluster",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sprint",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "One-off tasks/commands"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Logstash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-06-29T09:40:23Z",
+            "owner": "mesos",
+            "repo": "logstash",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kibana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-04-14T07:49:45Z",
+            "owner": "mesos",
+            "repo": "kibana",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos slave metrics -> Kafka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-01-29T14:54:40Z",
+            "owner": "elodina",
+            "repo": "syscol",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Construct - Deploy a single task on all agents of the cluster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-06T13:18:01Z",
+            "owner": "ContainerSolutions",
+            "repo": "construct",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statsd -> Kafka",
+          "description": "and Statsd -> Kafka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-02-19T12:26:28Z",
+            "owner": "elodina",
+            "repo": "statsd-mesos-kafka",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go based Syslog service",
+          "description": "and Go based Syslog service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-04-22T09:26:08Z",
+            "owner": "elodina",
+            "repo": "syslog-service",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Metric collection, logging and visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hydra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-22T20:12:57Z",
+            "owner": "lake-lerna",
+            "repo": "hydra",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YCSB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-12-06T15:59:47Z",
+            "owner": "yanglei99",
+            "repo": "YCSB_Mesos",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Benchmarking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deimos",
+          "description": "(deprecated when native Docker support was added to Mesos v0.20)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-06T01:12:59Z",
+            "owner": "mesosphere-backup",
+            "repo": "deimos",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RENDLER",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-19T18:56:55Z",
+            "owner": "d2iq-archive",
+            "repo": "RENDLER",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Protocol Buffer",
+            "last_commit": "2016-08-22T07:12:49Z",
+            "owner": "VoltFramework",
+            "repo": "volt",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon ECS Integration (proof-of-concept)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-01-30T20:10:47Z",
+            "owner": "amazon-archives",
+            "repo": "ecs-mesos-scheduler-driver",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portainer",
+          "description": "builds docker images using Mesos cluster",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-02-28T17:15:49Z",
+            "owner": "duedil-ltd",
+            "repo": "portainer",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exelixi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2014-01-17T20:02:27Z",
+            "owner": "ceteri",
+            "repo": "exelixi",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin Miner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-12-06T06:30:15Z",
+            "owner": "derekchiang",
+            "repo": "Mesos-Bitcoin-Miner",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example Mesos framework in Java to launch Docker containers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-10-01T21:31:57Z",
+            "owner": "AgilData",
+            "repo": "mesos-docker-tutorial",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gozer",
+          "description": "Prototype with low-level go API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2014-11-17T18:18:49Z",
+            "owner": "twitter-archive",
+            "repo": "gozer",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSSP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2015-04-25T06:15:13Z",
+            "owner": "mesosphere-backup",
+            "repo": "sssp",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesosaurus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2016-03-02T14:06:47Z",
+            "owner": "d2iq-archive",
+            "repo": "mesosaurus",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OwlCrawler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2015-10-01T04:57:11Z",
+            "owner": "fmpwizard",
+            "repo": "owlcrawler",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastic Sentiment Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-03-16T14:08:24Z",
+            "owner": "mhausenblas",
+            "repo": "elsa",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satyr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-19T14:33:09Z",
+            "owner": "daskos",
+            "repo": "mentor",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-02-09T03:02:22Z",
+            "owner": "mesosphere-backup",
+            "repo": "mesos-hydra",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "distcc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-31T20:51:42Z",
+            "owner": "mesos",
+            "repo": "mesos-distcc",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example Python Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-08-28T08:26:51Z",
+            "owner": "tarnfeld",
+            "repo": "mesos-python-framework",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScaleIO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-02-28T17:30:17Z",
+            "owner": "thecodeteam",
+            "repo": "scaleio-framework",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-12-31T17:14:14Z",
+            "owner": "retz",
+            "repo": "retz",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinspider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-12-30T20:14:35Z",
+            "owner": "SwathiMystery",
+            "repo": "mesos-pinspider",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logo Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-19T10:43:09Z",
+            "owner": "remembertoplay",
+            "repo": "logo-generator",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Changes Mesos Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-11-05T21:29:35Z",
+            "owner": "dropbox",
+            "repo": "changes-mesos-framework",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example framework for Apache Mesos Essentials book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-07-03T21:55:04Z",
+            "owner": "dharmeshkakadia",
+            "repo": "MonteCarloArea",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openvdc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-10-09T05:22:32Z",
+            "owner": "axsh",
+            "repo": "openvdc",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charmander",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Protocol Buffer",
+            "last_commit": "2015-10-13T18:08:57Z",
+            "owner": "att-innovate",
+            "repo": "charmander-scheduler",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anagram Finder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-04-03T20:40:22Z",
+            "owner": "d2iq-archive",
+            "repo": "ANAGRAMMER",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QoSon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-08-24T17:48:23Z",
+            "owner": "akshshar",
+            "repo": "QoSon",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JobTree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-01-22T01:28:03Z",
+            "owner": "kellrott",
+            "repo": "jobTree-mesos",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jetty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2014-01-13T22:51:53Z",
+            "owner": "guenter",
+            "repo": "jetty-mesos",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoscaling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-08-25T17:48:05Z",
+            "owner": "sammyas",
+            "repo": "autoscaling",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkswarm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-09-05T01:01:39Z",
+            "owner": "mbabineau",
+            "repo": "checkswarm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-06-24T14:36:35Z",
+            "owner": "edpaget",
+            "repo": "hello-mesos",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inverse Offer Example Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-06-08T21:34:57Z",
+            "owner": "kaysoky",
+            "repo": "InverseOfferExampleFramework",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearchYA - simple distributed textual search engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-11-18T15:43:51Z",
+            "owner": "dulikvor",
+            "repo": "SearchYA",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sun Grid Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-03-22T07:28:53Z",
+            "owner": "kellrott",
+            "repo": "grid-framework",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wraxl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-31T13:34:15Z",
+            "owner": "kscherer",
+            "repo": "wraxl-scheduler",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rexe - Remote Execution tool for Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2018-08-04T12:07:02Z",
+            "owner": "skytix-dev",
+            "repo": "rexe",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Closest-pairs in 2D with divide-and-conquer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-06-17T17:42:23Z",
+            "owner": "chenlily",
+            "repo": "closest-pair",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chapel Parallel Programming Language",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "gasc - Generic Mesos Gang Scheduler for HPC tooling",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Slurm",
+          "description": "(deprecated)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "hippo - Mesos framework for eating tasks off queues",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Experimental/Example/Unsorted"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mesos-go-http",
+              "description": "HTTP Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2019-03-02T13:01:01Z",
+                "owner": "ondrej-smola",
+                "repo": "mesos-go-http",
+                "stars": 18
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-08-05T11:25:39Z",
+            "owner": "mesos",
+            "repo": "mesos-go",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-03-04T16:44:24Z",
+            "owner": "tobilg",
+            "repo": "mesos-framework",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2015-10-29T21:56:03Z",
+            "owner": "iand675",
+            "repo": "hs-mesos",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erlang",
+          "description": "with example framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-10-18T20:38:07Z",
+            "owner": "mdevilliers",
+            "repo": "erlang-mesos",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scala",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-09-02T09:35:28Z",
+            "owner": "nokia",
+            "repo": "mesos-scala-api",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2014-01-13T16:56:41Z",
+            "owner": "burke",
+            "repo": "mesos-ruby",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-12-19T22:45:00Z",
+            "owner": "bcrusu",
+            "repo": "mesos-net",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-09-03T22:31:43Z",
+            "owner": "mark-5",
+            "repo": "perl-mesos",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2016-04-19T21:32:15Z",
+            "owner": "iron-oxide",
+            "repo": "mesos-rust",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RxJava",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2019-05-10T22:08:36Z",
+                "owner": "d2iq-archive",
+                "repo": "mesos-rxjava",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Framework API",
+              "description": "Pure JVM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2014-07-19T01:14:44Z",
+                "owner": "kevints",
+                "repo": "mesos-framework-api",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jesos",
+              "description": "Pure Java",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pesos",
+              "description": "Pure Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2015-10-06T15:33:43Z",
+                "owner": "wickman",
+                "repo": "pesos",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python HTTP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-16T16:25:37Z",
+                "owner": "osallou",
+                "repo": "python-mesos-http",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pymesos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2014-09-11T05:41:25Z",
+                "owner": "dangra",
+                "repo": "pymesos",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Clojure",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mesomatic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Clojure",
+                "last_commit": "2018-07-13T17:02:56Z",
+                "owner": "clojusc",
+                "repo": "mesomatic",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clojure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Clojure",
+                "last_commit": "2015-11-05T17:51:50Z",
+                "owner": "dgrnbrg",
+                "repo": "clj-mesos",
+                "stars": 30
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Language Bindings"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mesos UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-07T19:50:05Z",
+            "owner": "Capgemini",
+            "repo": "mesos-ui",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Mesos Dasboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-01-07T14:39:34Z",
+            "owner": "bspaans",
+            "repo": "simple-mesos-dashboard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Visualizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-03-17T18:48:11Z",
+            "owner": "Clever",
+            "repo": "mesos-visualizer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-18T15:35:54Z",
+            "owner": "triforkse",
+            "repo": "mesos-ui",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Alternative UI/Dashboards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Example repository for creating Mesos modules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-07T18:30:38Z",
+            "owner": "mesos",
+            "repo": "modules",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xcode Workspace for Apache Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-05-21T21:26:04Z",
+            "owner": "tillt",
+            "repo": "xcode-mesos",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows support for Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2018-02-14T19:56:52Z",
+            "owner": "microsoft",
+            "repo": "mesos-log",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker image for Mesos modules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-03T16:51:56Z",
+            "owner": "bwplotka",
+            "repo": "mesos-modules-dev",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tools for Mesos Developers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fenzo - Cross framework pluggable task scheduling library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-03-31T20:53:21Z",
+            "owner": "Netflix",
+            "repo": "Fenzo",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mini-mesos - Testing infrastructure for Mesos frameworks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-06-22T11:52:25Z",
+            "owner": "ContainerSolutions",
+            "repo": "minimesos",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Customizable Mesos Executor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:36:19Z",
+            "owner": "allegro",
+            "repo": "mesos-executor",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot starter for Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-09T19:54:03Z",
+            "owner": "ContainerSolutions",
+            "repo": "mesos-starter",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akka Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2015-02-15T14:51:06Z",
+            "owner": "drexin",
+            "repo": "akka-mesos",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Write a Scala Mesos Framework in 7 Steps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2014-12-18T00:00:20Z",
+            "owner": "d2iq-archive",
+            "repo": "scala-sbt-mesos-framework.g8",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript framework boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-03-07T21:29:48Z",
+            "owner": "tobilg",
+            "repo": "mesos-framework-boilerplate",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-Mesos-Utils",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-04-22T09:18:37Z",
+            "owner": "elodina",
+            "repo": "go-mesos-utils",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos State Backed Collections",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2014-12-19T02:47:20Z",
+            "owner": "d2iq-archive",
+            "repo": "mesos-state-backed-collections",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Go Stateful",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-11-18T04:03:57Z",
+            "owner": "huawei-cloudfederation",
+            "repo": "mesos-go-stateful",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Framework SDK",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Tools for Mesos Framework Developers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mesosctl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-10-11T21:55:36Z",
+            "owner": "mesoshq",
+            "repo": "mesosctl",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mesos-tail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-01-04T14:23:59Z",
+            "owner": "felixb",
+            "repo": "mesos-tail",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Command line tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Playa Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2016-04-26T00:22:23Z",
+            "owner": "d2iq-archive",
+            "repo": "playa-mesos",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-06-15T16:05:41Z",
+            "owner": "everpeace",
+            "repo": "vagrant-mesos",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-07-14T22:48:48Z",
+            "owner": "ahunnargikar",
+            "repo": "vagrant-mesos",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Atlas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2015-06-15T15:06:26Z",
+            "owner": "Banno",
+            "repo": "vagrant-mesos",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos CentOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-02-18T01:36:39Z",
+            "owner": "rasputnik",
+            "repo": "mesos-centos",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoreOS Mesos Cluster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2016-03-24T09:16:42Z",
+            "owner": "tobilg",
+            "repo": "coreos-mesos-cluster",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Marathon Deimos Vagrant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-06-17T06:33:54Z",
+            "owner": "liubin",
+            "repo": "mesos-marathon-deimos-vagrant",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant Mesos Development Environment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-11-02T14:10:41Z",
+            "owner": "mdevilliers",
+            "repo": "vagrant-mesos-development-environment",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant Deimos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-05-18T22:22:31Z",
+            "owner": "bskaggs",
+            "repo": "vagrant-deimos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant Mesos Spark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2013-11-14T11:34:33Z",
+            "owner": "aharwood",
+            "repo": "vagrant-mesos-spark",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-03-04T21:17:06Z",
+            "owner": "antonlindstrom",
+            "repo": "mesos_playground",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Vagrant based setups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fig Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-12-17T21:13:29Z",
+            "owner": "HelloGrayson",
+            "repo": "compose-mesos",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compose Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2016-11-01T05:49:06Z",
+            "owner": "dontrebootme",
+            "repo": "compose-mesos",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesoscope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-09-18T19:07:49Z",
+            "owner": "schibsted",
+            "repo": "mesoscope",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-09-09T08:47:14Z",
+            "owner": "yaronr",
+            "repo": "docker-mesos",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-06-13T15:05:54Z",
+            "owner": "datastrophic",
+            "repo": "mesos-workshop",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Docker containers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-03-02T22:06:29Z",
+            "owner": "datastrophic",
+            "repo": "mesos-docker-containers",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Docker based setups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mesos tracing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-10-28T22:43:05Z",
+            "owner": "d2iq-archive",
+            "repo": "mesos-tracing",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos traces vis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-07-08T21:55:05Z",
+            "owner": "tnachen",
+            "repo": "mesos_traces_vis",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Trace Visualization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ansible Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-02-19T11:35:27Z",
+            "owner": "AnsibleShipyard",
+            "repo": "ansible-mesos",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anisble Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-10-18T13:35:53Z",
+            "owner": "AnsibleShipyard",
+            "repo": "ansible-marathon",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Mesos cluster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-10T05:12:02Z",
+            "owner": "frankhinek",
+            "repo": "ansible-mesos-cluster",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anisble Mesos Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-12-16T02:52:46Z",
+            "owner": "AnsibleShipyard",
+            "repo": "ansible-mesos-docker",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deploy apps on marathon from ansible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-18T16:47:14Z",
+            "owner": "Topface",
+            "repo": "ansible-marathon_app",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roger-mesos with Bamboo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-19T18:13:10Z",
+            "owner": "seomoz",
+            "repo": "roger-mesos",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Chronos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-04-20T04:46:43Z",
+            "owner": "AnsibleShipyard",
+            "repo": "ansible-chronos",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-11-04T06:43:17Z",
+            "owner": "fupelaqu",
+            "repo": "ansible-mesos",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible MMD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-09-05T01:35:10Z",
+            "owner": "ccollicutt",
+            "repo": "ansible-mmd",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Mesos playbook",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Ansible"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mesos Cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-06-25T09:18:35Z",
+            "owner": "mdsol",
+            "repo": "mesos_cookbook",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cookbook Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-10-06T07:17:02Z",
+            "owner": "everpeace",
+            "repo": "cookbook-mesos",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Chef"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mesos DEB packaging",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-11-25T00:06:09Z",
+            "owner": "d2iq-archive",
+            "repo": "mesos-deb-packaging",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos DEB packaging",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-05-05T18:15:20Z",
+            "owner": "deric",
+            "repo": "mesos-deb-packaging",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPM Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-08-06T16:13:58Z",
+            "owner": "nmilford",
+            "repo": "rpm-mesos",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos RPM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2016-01-20T23:58:54Z",
+            "owner": "berngp",
+            "repo": "mesos-rpm",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Packaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Satellite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2016-05-09T18:24:55Z",
+            "owner": "twosigma",
+            "repo": "satellite",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complainer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-24T00:41:28Z",
+            "owner": "cloudflare",
+            "repo": "complainer",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker CollecD Mesos",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2016-09-19T21:50:45Z",
+            "owner": "bobrik",
+            "repo": "docker-collectd-mesos",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2017-06-28T14:56:08Z",
+            "owner": "prometheus-junkyard",
+            "repo": "mesos_exporter",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marathon-slack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-02-20T21:30:49Z",
+            "owner": "tobilg",
+            "repo": "marathon-slack",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CollecD Mesos task",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-01T14:36:44Z",
+            "owner": "bobrik",
+            "repo": "collectd-mesos-tasks",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos InfluxDB Collector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-01-04T14:54:29Z",
+            "owner": "kpacha",
+            "repo": "mesos-influxdb-collector",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-01-21T09:22:56Z",
+            "owner": "wndhydrnt",
+            "repo": "mesos-task-exporter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nagios Mesos",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Monitoring and alerting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bamboo",
+          "description": "Automatically configuring HAProxy for Mesos+Marathon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-09-28T17:30:57Z",
+            "owner": "QubitProducts",
+            "repo": "bamboo",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNS based Service Discovery for Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-01-11T19:28:41Z",
+            "owner": "d2iq-archive",
+            "repo": "mesos-dns",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos-Consul",
+          "description": "and Service Discovery & Orchestration With Mesos and Consul",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-03-30T08:32:06Z",
+            "owner": "mantl",
+            "repo": "mesos-consul",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marathon-Consul",
+          "description": "Register Marathon Tasks as Consul Services for service discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-29T15:42:25Z",
+            "owner": "allegro",
+            "repo": "marathon-consul",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurproxy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-06-22T17:13:08Z",
+            "owner": "tellapart",
+            "repo": "aurproxy",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zoidberg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-08-29T15:41:57Z",
+            "owner": "bobrik",
+            "repo": "zoidberg",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated HAProxy reconfiguration for Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-08T00:50:43Z",
+            "owner": "Wizcorp",
+            "repo": "frontrunner",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marathoner",
+          "description": "Service discovery in Marathon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2015-08-25T09:04:28Z",
+            "owner": "bobrik",
+            "repo": "marathoner",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ralph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2015-03-01T16:07:12Z",
+            "owner": "bobrik",
+            "repo": "ralph",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Service Discovery script for Mesos and Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2014-10-09T13:23:10Z",
+            "owner": "opencredo",
+            "repo": "mesos_service_discovery",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "traefik",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T07:34:16Z",
+            "owner": "emilevauge",
+            "repo": "traefik",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sprinter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2020-02-24T18:21:41Z",
+            "owner": "lasp-lang",
+            "repo": "sprinter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roger-bamboo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-19T18:31:06Z",
+            "owner": "seomoz",
+            "repo": "roger-bamboo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surok",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-03-31T08:27:36Z",
+            "owner": "Difrex",
+            "repo": "surok",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Service discovery and Load balancing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker Volume Driver Isolator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-05-16T00:49:21Z",
+            "owner": "thecodeteam",
+            "repo": "mesos-module-dvdi",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serenity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2016-04-18T10:37:50Z",
+            "owner": "d2iq-archive",
+            "repo": "serenity",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metaswitch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-04-13T23:31:13Z",
+            "owner": "d2iq-archive",
+            "repo": "net-modules",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Isolator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-04-13T23:31:13Z",
+            "owner": "d2iq-archive",
+            "repo": "net-modules",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flocker volumes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-12-19T16:08:36Z",
+            "owner": "ClusterHQ",
+            "repo": "mesos-module-flocker",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threshold-based Mesos Oversubscription",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-14T11:41:12Z",
+            "owner": "blue-yonder",
+            "repo": "mesos-threshold-oversubscription",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A customer allocator module",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-07-03T03:11:42Z",
+            "owner": "elodina",
+            "repo": "alligator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Commands Execution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2016-02-13T17:30:50Z",
+            "owner": "massenz",
+            "repo": "execute-module",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allocator module with Offer Filtering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2017-05-02T15:50:10Z",
+            "owner": "gettyimages",
+            "repo": "mesos_offer_filtering_allocator_module",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mantl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-05-07T03:45:48Z",
+            "owner": "mantl",
+            "repo": "mantl",
+            "stars": 2974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaaSTA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:38:26Z",
+            "owner": "Yelp",
+            "repo": "paasta",
+            "stars": 1730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apollo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-03T21:43:36Z",
+            "owner": "Capgemini",
+            "repo": "Apollo",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peloton from Uber",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-20T20:09:21Z",
+            "owner": "uber",
+            "repo": "peloton",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanteraS",
+          "description": "PanteraS - Platform as a Service in a box",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-10-20T12:14:52Z",
+            "owner": "eBayClassifiedsGroup",
+            "repo": "PanteraS",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compute platform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-06-17T12:36:59Z",
+            "owner": "sttts",
+            "repo": "compute-platform",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appsoma Welder",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Platforms and microservice architectures"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "REX-Ray storage orchestration engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-02T05:53:33Z",
+            "owner": "rexray",
+            "repo": "rexray",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toil - workflow engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T22:54:41Z",
+            "owner": "DataBiosphere",
+            "repo": "toil",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2020-04-21T11:27:46Z",
+            "owner": "CircleCI-Archived",
+            "repo": "vamp",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universe",
+          "description": "Mesos package repository",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Mustache",
+            "last_commit": "2023-10-10T19:47:25Z",
+            "owner": "d2iq-archive",
+            "repo": "universe",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marathon Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-26T17:09:22Z",
+            "owner": "thefactory",
+            "repo": "marathon-python",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ochopod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-29T10:53:59Z",
+            "owner": "autodesk-cloud",
+            "repo": "ochopod",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-14T19:08:54Z",
+            "owner": "mesosphere-backup",
+            "repo": "mesos-cli",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigDataScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-03-31T12:23:13Z",
+            "owner": "pcingola",
+            "repo": "BigDataScript",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoscaling Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-22T16:08:06Z",
+            "owner": "thefactory",
+            "repo": "autoscale-python",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charmander",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-05-30T05:05:12Z",
+            "owner": "att-innovate",
+            "repo": "charmander",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoreOS Mesos Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-08-15T13:24:58Z",
+            "owner": "jwerak",
+            "repo": "coreos-mesos-marathon",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample FluentD on Mesos Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-12-20T20:16:13Z",
+            "owner": "riywo",
+            "repo": "sample-fluentd-on-mesos-docker",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "megos - Go(lang) client library for accessing information of a Apache Mesos cluster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-06-22T17:06:10Z",
+            "owner": "andygrunwald",
+            "repo": "megos",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundry bagrant Mesos Kafka cluster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-12-03T05:34:37Z",
+            "owner": "theclaymethod",
+            "repo": "Foundry-vagrant-mesos-kafka-cluster",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relay.Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-05-16T22:45:59Z",
+            "owner": "sailthru",
+            "repo": "relay.mesos",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2013-12-10T05:47:14Z",
+            "owner": "cashoefman",
+            "repo": "chronos",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compose-executor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-02-09T18:46:49Z",
+            "owner": "mohitsoni",
+            "repo": "compose-executor",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronos utils",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2014-01-27T19:38:00Z",
+            "owner": "d2iq-archive",
+            "repo": "chronos-utils",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presto Marathon Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-03-07T11:11:22Z",
+            "owner": "sheepkiller",
+            "repo": "presto-marathon-docker",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dask Mesos backend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-19T14:36:40Z",
+            "owner": "daskos",
+            "repo": "daskos",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos BOSHrelease",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-11-12T16:03:39Z",
+            "owner": "vmware-archive",
+            "repo": "mesos-boshrelease",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Utils",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2018-08-25T20:25:22Z",
+            "owner": "d2iq-archive",
+            "repo": "mesos-utils",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Mesos Platform as a Service Deploy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-05-26T08:57:09Z",
+            "owner": "elodina",
+            "repo": "stack-deploy",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoMarathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-01-24T17:35:43Z",
+            "owner": "jbdalido",
+            "repo": "gomarathon",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triathlon - Marathon wrapper for distributed Mesos cluster selection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2015-08-21T12:04:02Z",
+            "owner": "schibsted",
+            "repo": "triathlon",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos BOSHrelease",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-08-16T15:34:27Z",
+            "owner": "CloudCredo",
+            "repo": "mesos-boshrelease",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesosphere pkg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-09-19T16:34:09Z",
+            "owner": "d2iq-archive",
+            "repo": "marathon-pkg",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deathnode - Gracefully kill Mesos nodes for autoscaling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-02-14T14:20:40Z",
+            "owner": "alanbover",
+            "repo": "deathnode",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marathon Logger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-07-03T22:36:57Z",
+            "owner": "thefactory",
+            "repo": "marathon-logger",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos on Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2015-03-11T18:57:16Z",
+            "owner": "d2iq-archive",
+            "repo": "mom",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStack Kolla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-09-26T14:28:21Z",
+            "owner": "openstack-archive",
+            "repo": "kolla-mesos",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Mesos Executor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2013-07-15T23:20:25Z",
+            "owner": "d2iq-archive",
+            "repo": "sample_mesos_executor",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CDH patched for Mesos",
+          "description": "old",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2011-11-06T01:54:20Z",
+            "owner": "mesos",
+            "repo": "cdh-mesos",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful",
+          "description": "and https://github.com/smarth-madan/incubator-aurora",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-11-14T08:00:08Z",
+            "owner": "misho-kr",
+            "repo": "mesos-aurora-restful",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NixOps Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2015-03-08T21:35:11Z",
+            "owner": "wmertens",
+            "repo": "nixops-mesos",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storm Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-01-05T20:48:38Z",
+            "owner": "obaidsalikeen",
+            "repo": "storm-marathon",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Load replaying",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-08-10T16:34:02Z",
+            "owner": "stealthly",
+            "repo": "punxsutawney",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Cloud Data Flow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "XSLT",
+            "last_commit": "2022-07-08T21:54:06Z",
+            "owner": "spring-attic",
+            "repo": "spring-cloud-dataflow-server-mesos",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos in Hadoop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2011-08-26T21:44:39Z",
+            "owner": "mesos",
+            "repo": "mih",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mammoth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-03-31T17:16:50Z",
+            "owner": "mohitsoni",
+            "repo": "mammoth",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos on CoreOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-08-27T15:28:46Z",
+            "owner": "tnolet",
+            "repo": "mesos_on_coreos",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depcon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-09-15T06:36:28Z",
+            "owner": "gondor",
+            "repo": "depcon",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Marathon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-02-20T00:43:43Z",
+            "owner": "thefactory",
+            "repo": "docker-marathon",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronos pkg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Makefile",
+            "last_commit": "2017-08-08T01:10:37Z",
+            "owner": "d2iq-archive",
+            "repo": "chronos-pkg",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weave Mesos Integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-12-27T22:28:41Z",
+            "owner": "TrentBrown",
+            "repo": "weave-into-mesos",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Mesos Kafka Consumer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-04-24T08:29:11Z",
+            "owner": "elodina",
+            "repo": "gonzo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hecate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2014-07-21T00:03:21Z",
+            "owner": "jbdalido",
+            "repo": "hecate",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magneto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-01-14T14:43:03Z",
+            "owner": "nlamirault",
+            "repo": "magneto",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirtualMesos",
+          "description": "old",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2012-04-16T03:29:50Z",
+            "owner": "charlescearl",
+            "repo": "VirtualMesos",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2016-10-11T13:49:29Z",
+            "owner": "kamilchm",
+            "repo": "nix-mesos",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAPI performance counters for Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-01-10T02:31:25Z",
+            "owner": "ct-clmsn",
+            "repo": "mesos-papi",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Spark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-11-19T09:59:32Z",
+            "owner": "ptorrestr",
+            "repo": "mesos-spark",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-06-22T13:32:31Z",
+            "owner": "jayusor",
+            "repo": "mesos",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/datastrophic/mesos-scaler-ec2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-10-14T12:41:11Z",
+            "owner": "datastrophic",
+            "repo": "mesos-scaler-ec2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tailhook/mesos-tests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-02-10T19:32:30Z",
+            "owner": "tailhook",
+            "repo": "mesos-tests",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REPL-MESOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2014-10-29T03:13:13Z",
+            "owner": "replme",
+            "repo": "repl-mesos",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Service Bridge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2014-06-06T20:36:41Z",
+            "owner": "d2iq-archive",
+            "repo": "service-bridge",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packer Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-12-12T15:41:49Z",
+            "owner": "JasonGiedymin",
+            "repo": "chef-mesos",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Nerve",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-11-13T10:56:43Z",
+            "owner": "ortoo",
+            "repo": "mesos-nerve",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-23T06:02:25Z",
+            "owner": "jmspring",
+            "repo": "vault-on-mesos",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JIRA on Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-05-01T20:32:28Z",
+            "owner": "elodina",
+            "repo": "mesos-jira",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesos Akaros",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-05-13T02:10:20Z",
+            "owner": "alfongj",
+            "repo": "mesos-akaros",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packer Mesos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2014-09-19T11:49:05Z",
+            "owner": "smarthall",
+            "repo": "packer-mesos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RogerOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-27T16:28:32Z",
+            "owner": "seomoz",
+            "repo": "roger-mesos-tools",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker PAAS",
+          "description": "old",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Angstrom",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "supervisor",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Other projects and Integrations"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:51.463Z",
+    "original_repository": "dharmeshkakadia/awesome-mesos",
+    "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
+    "enhanced_repository": "enhansome/enhansome-mesos",
+    "enhanced_repository_description": null,
+    "title": "awesome-mesos with stars"
+  }
+}
