@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,261 | 🐛 379 | 🌐 Java | 📅 2026-08-12
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,263 | 🐛 381 | 🌐 Java | 📅 2026-08-14
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -77,7 +77,7 @@ What can you expect to see here?
 
 * [Apache Kafka](https://github.com/mesos/kafka) ⭐ 413 | 🐛 49 | 🌐 Scala | 📅 2018-05-03
 
-* [ElasticSearch](https://github.com/mesos/elasticsearch) ⭐ 241 | 🐛 76 | 🌐 Java | 📅 2017-02-19
+* [ElasticSearch](https://github.com/mesos/elasticsearch) ⭐ 240 | 🐛 76 | 🌐 Java | 📅 2017-02-19
 
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos) ⚠️ Archived
 
@@ -407,8 +407,8 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,730 | 🐛 111 | 🌐 Python | 📅 2026-08-12
-* [Apollo](https://github.com/Capgemini/Apollo) ⭐ 719 | 🐛 84 | 🌐 Python | 📅 2021-12-03
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,730 | 🐛 111 | 🌐 Python | 📅 2026-08-13
+* [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 200 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
 * [Compute platform](https://github.com/sttts/compute-platform) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2015-06-17
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,221 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 410 | 🌐 Python | 📅 2026-08-06
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 410 | 🌐 Python | 📅 2026-08-13
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

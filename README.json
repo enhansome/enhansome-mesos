@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T15:33:40Z",
+            "last_commit": "2026-08-14T00:55:32Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26261
+            "stars": 26263
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2023-03-01T15:11:08Z",
             "owner": "apache",
             "repo": "incubator-heron",
-            "stars": 3627
+            "stars": 3628
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2017-02-19T23:16:14Z",
             "owner": "mesos",
             "repo": "elasticsearch",
-            "stars": 241
+            "stars": 240
           }
         },
         {
@@ -1737,7 +1737,7 @@
             "last_commit": "2023-03-31T20:53:21Z",
             "owner": "Netflix",
             "repo": "Fenzo",
-            "stars": 700
+            "stars": 699
           }
         },
         {
@@ -1751,7 +1751,7 @@
             "last_commit": "2018-06-22T11:52:25Z",
             "owner": "ContainerSolutions",
             "repo": "minimesos",
-            "stars": 425
+            "stars": 424
           }
         },
         {
@@ -2915,7 +2915,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:38:26Z",
+            "last_commit": "2026-08-13T14:39:36Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1730
@@ -2932,7 +2932,7 @@
             "last_commit": "2021-12-03T21:43:36Z",
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 719
+            "stars": 718
           }
         },
         {
@@ -3011,7 +3011,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T22:54:41Z",
+            "last_commit": "2026-08-13T18:51:51Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -3908,7 +3908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:18:51.463Z",
+    "last_updated": "2026-08-14T05:46:22.427Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
     "enhanced_repository": "enhansome/enhansome-mesos",
