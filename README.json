@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T21:08:44Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26262
+            "stars": 26266
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-07-29T11:01:30Z",
             "owner": "apache",
             "repo": "shardingsphere-elasticjob",
-            "stars": 8211
+            "stars": 8210
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2022-09-08T05:13:23Z",
             "owner": "d2iq-archive",
             "repo": "marathon",
-            "stars": 4029
+            "stars": 4028
           }
         },
         {
@@ -1751,7 +1751,7 @@
             "last_commit": "2018-06-22T11:52:25Z",
             "owner": "ContainerSolutions",
             "repo": "minimesos",
-            "stars": 424
+            "stars": 423
           }
         },
         {
@@ -1923,7 +1923,7 @@
             "last_commit": "2016-04-26T00:22:23Z",
             "owner": "d2iq-archive",
             "repo": "playa-mesos",
-            "stars": 437
+            "stars": 436
           }
         },
         {
@@ -3908,7 +3908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:50:27.434Z",
+    "last_updated": "2026-08-17T04:58:07.610Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
     "enhanced_repository": "enhansome/enhansome-mesos",
