@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T21:08:44Z",
+            "last_commit": "2026-08-17T11:10:47Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26266
+            "stars": 26270
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-07-29T11:01:30Z",
             "owner": "apache",
             "repo": "shardingsphere-elasticjob",
-            "stars": 8210
+            "stars": 8211
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2017-12-06T06:30:15Z",
             "owner": "derekchiang",
             "repo": "Mesos-Bitcoin-Miner",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -2915,7 +2915,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:55:58Z",
+            "last_commit": "2026-08-17T17:07:20Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
@@ -3908,7 +3908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:58:07.610Z",
+    "last_updated": "2026-08-18T04:52:14.070Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
     "enhanced_repository": "enhansome/enhansome-mesos",

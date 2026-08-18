@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,266 | 🐛 378 | 🌐 Java | 📅 2026-08-14
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,270 | 🐛 380 | 🌐 Java | 📅 2026-08-17
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,210 | 🐛 116 | 🌐 Java | 📅 2026-07-29
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,211 | 🐛 116 | 🌐 Java | 📅 2026-07-29
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,375 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 826 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -180,7 +180,7 @@ What can you expect to see here?
 * [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver) ⚠️ Archived
 * [Portainer](https://github.com/duedil-ltd/portainer) ⚠️ Archived - builds docker images using Mesos cluster
 * [Exelixi](https://github.com/ceteri/exelixi) ⚠️ Archived
-* [Bitcoin Miner](https://github.com/derekchiang/Mesos-Bitcoin-Miner) ⭐ 92 | 🐛 2 | 🌐 Go | 📅 2017-12-06
+* [Bitcoin Miner](https://github.com/derekchiang/Mesos-Bitcoin-Miner) ⭐ 91 | 🐛 2 | 🌐 Go | 📅 2017-12-06
 * [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial) ⭐ 71 | 🐛 3 | 🌐 Java | 📅 2014-10-01
 * [Gozer](https://github.com/twitter/gozer) ⚠️ Archived - Prototype with low-level go API
 * [SSSP](https://github.com/mesosphere/sssp) ⭐ 60 | 🐛 4 | 🌐 Scala | 📅 2015-04-25
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,729 | 🐛 112 | 🌐 Python | 📅 2026-08-14
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,729 | 🐛 108 | 🌐 Python | 📅 2026-08-17
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 200 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
