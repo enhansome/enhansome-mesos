@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,270 | 🐛 378 | 🌐 Java | 📅 2026-08-19
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,272 | 🐛 379 | 🌐 Java | 📅 2026-08-19
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
