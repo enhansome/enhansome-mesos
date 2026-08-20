@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 20587599,
                     "language": "Java",
-                    "last_commit": "2026-08-19T01:45:14Z",
+                    "last_commit": "2026-08-20T01:58:54Z",
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26272
+                    "stars": 26271
                   }
                 },
                 {
@@ -3058,7 +3058,7 @@
             "archived": false,
             "id": 44998824,
             "language": "Python",
-            "last_commit": "2026-08-18T14:24:02Z",
+            "last_commit": "2026-08-20T03:21:13Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
@@ -3154,7 +3154,7 @@
             "archived": false,
             "id": 33148320,
             "language": "Python",
-            "last_commit": "2026-08-18T19:44:15Z",
+            "last_commit": "2026-08-20T04:45:35Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:13.757Z",
+    "last_updated": "2026-08-20T04:53:26.681Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_id": 24783000,
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
