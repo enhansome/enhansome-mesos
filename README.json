@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 20587599,
                     "language": "Java",
-                    "last_commit": "2026-08-20T01:58:54Z",
+                    "last_commit": "2026-08-20T15:43:18Z",
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26271
+                    "stars": 26272
                   }
                 },
                 {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-07-29T11:01:30Z",
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8211
+                "stars": 8210
               }
             },
             {
@@ -2836,7 +2836,7 @@
             "archived": false,
             "id": 101048096,
             "language": "Go",
-            "last_commit": "2026-07-03T07:34:16Z",
+            "last_commit": "2026-08-20T15:52:54Z",
             "owner": "emilevauge",
             "repo": "traefik",
             "stars": 11
@@ -3058,7 +3058,7 @@
             "archived": false,
             "id": 44998824,
             "language": "Python",
-            "last_commit": "2026-08-20T03:21:13Z",
+            "last_commit": "2026-08-20T22:25:15Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
@@ -3154,7 +3154,7 @@
             "archived": false,
             "id": 33148320,
             "language": "Python",
-            "last_commit": "2026-08-20T04:45:35Z",
+            "last_commit": "2026-08-20T20:40:27Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:53:26.681Z",
+    "last_updated": "2026-08-21T04:54:17.568Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_id": 24783000,
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
