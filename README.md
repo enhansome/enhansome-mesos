@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,275 | 🐛 379 | 🌐 Java | 📅 2026-08-21
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,278 | 🐛 379 | 🌐 Java | 📅 2026-08-22
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -299,7 +299,7 @@ What can you expect to see here?
 * [Fig Mesos](https://github.com/breerly/fig-mesos) ⭐ 69 | 🐛 6 | 📅 2015-12-17
 * [Compose Mesos](https://github.com/dontrebootme/compose-mesos) ⚠️ Archived
 * [Mesoscope](https://github.com/schibsted/mesoscope) ⭐ 34 | 🐛 1 | 🌐 Shell | 📅 2016-09-18
-* [Docker Mesos](https://github.com/yaronr/docker-mesos) ⭐ 25 | 🐛 2 | 🌐 Shell | 📅 2014-09-09
+* [Docker Mesos](https://github.com/yaronr/docker-mesos) ⭐ 25 | 🐛 3 | 🌐 Shell | 📅 2014-09-09
 * [Mesos workshop](https://github.com/datastrophic/mesos-workshop) ⭐ 24 | 🐛 0 | 🌐 Scala | 📅 2016-06-13
 * [Mesos Docker containers](https://github.com/datastrophic/mesos-docker-containers) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2018-03-02
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
