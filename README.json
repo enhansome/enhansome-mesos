@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 20587599,
                     "language": "Java",
-                    "last_commit": "2026-08-23T14:18:59Z",
+                    "last_commit": "2026-08-24T13:51:56Z",
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26284
+                    "stars": 26288
                   }
                 },
                 {
@@ -365,6 +365,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TensorFlow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56483642,
+                "language": "Python",
+                "last_commit": "2023-03-24T21:54:14Z",
+                "owner": "douban",
+                "repo": "tfmesos",
+                "stars": 191
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ElasticJob",
               "description": null,
               "children": [],
@@ -658,6 +680,28 @@
           "description": null,
           "node_type": "group",
           "title": "One-off tasks/commands"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zipkin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43302235,
+                "language": "Scala",
+                "last_commit": "2016-02-24T00:22:10Z",
+                "owner": "elodina",
+                "repo": "zipkin-mesos-framework",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tracing"
         },
         {
           "children": [
@@ -2482,6 +2526,138 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Puppet Mesos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9492253,
+                "language": "Ruby",
+                "last_commit": "2020-01-04T08:14:41Z",
+                "owner": "deric",
+                "repo": "puppet-mesos",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Puppet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mesos Babushka",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23593274,
+                "language": "Ruby",
+                "last_commit": "2014-11-05T14:15:33Z",
+                "owner": "parolkar",
+                "repo": "mesos-babushka",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Babushka"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cloudformation Mesos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19628353,
+                "language": null,
+                "last_commit": "2015-02-04T19:03:44Z",
+                "owner": "thefactory",
+                "repo": "cloudformation-mesos",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloudformation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Terraform Mesos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31017553,
+                "language": "Shell",
+                "last_commit": "2020-09-01T10:24:47Z",
+                "owner": "ContainerSolutions",
+                "repo": "terraform-mesos",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terraform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mesos SystemD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35570054,
+                "language": "Shell",
+                "last_commit": "2017-04-07T19:20:38Z",
+                "owner": "adobe-platform",
+                "repo": "mesos-systemd",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Systemd"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mesos on Eucalyptus Private Cloud",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104269880,
+                "language": "Python",
+                "last_commit": "2017-10-07T04:04:19Z",
+                "owner": "strat0sphere",
+                "repo": "spark-euca",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shell-scripts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Mesos DEB packaging",
               "description": null,
               "children": [],
@@ -2544,6 +2720,28 @@
           "description": null,
           "node_type": "group",
           "title": "Packaging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Calico",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39800321,
+                "language": "Python",
+                "last_commit": "2017-01-23T23:40:25Z",
+                "owner": "projectcalico",
+                "repo": "netmodules-plugin",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking"
         }
       ],
       "title": "Deployment"
@@ -2836,7 +3034,7 @@
             "archived": false,
             "id": 101048096,
             "language": "Go",
-            "last_commit": "2026-08-21T13:52:20Z",
+            "last_commit": "2026-08-24T13:35:56Z",
             "owner": "emilevauge",
             "repo": "traefik",
             "stars": 11
@@ -3058,7 +3256,7 @@
             "archived": false,
             "id": 44998824,
             "language": "Python",
-            "last_commit": "2026-08-23T13:32:00Z",
+            "last_commit": "2026-08-24T12:49:16Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
@@ -3154,7 +3352,7 @@
             "archived": false,
             "id": 33148320,
             "language": "Python",
-            "last_commit": "2026-08-21T21:43:56Z",
+            "last_commit": "2026-08-24T13:20:54Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -4095,7 +4293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:01:23.940Z",
+    "last_updated": "2026-08-24T14:23:42.359Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_id": 24783000,
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",

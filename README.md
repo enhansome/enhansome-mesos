@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,284 | 🐛 375 | 🌐 Java | 📅 2026-08-23
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,288 | 🐛 376 | 🌐 Java | 📅 2026-08-24
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -387,7 +387,7 @@ What can you expect to see here?
 * [Marathoner](https://github.com/bobrik/marathoner) ⭐ 26 | 🐛 1 | 🌐 Go | 📅 2015-08-25 - Service discovery in Marathon
 * [Ralph](https://github.com/bobrik/ralph) ⭐ 24 | 🐛 0 | 🌐 Go | 📅 2015-03-01
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery) ⚠️ Archived
-* [traefik](https://github.com/emilevauge/traefik) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-08-21
+* [traefik](https://github.com/emilevauge/traefik) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-08-24
 * [Sprinter](https://github.com/lasp-lang/sprinter) ⭐ 10 | 🐛 1 | 🌐 Erlang | 📅 2020-02-24
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo) ⭐ 5 | 🐛 2 | 🌐 Go | 📅 2019-03-19
 * [Surok](https://github.com/Difrex/surok) ⚠️ Archived
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,729 | 🐛 109 | 🌐 Python | 📅 2026-08-23
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,729 | 🐛 109 | 🌐 Python | 📅 2026-08-24
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 200 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,221 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 409 | 🌐 Python | 📅 2026-08-21
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 410 | 🌐 Python | 📅 2026-08-24
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
