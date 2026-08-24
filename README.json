@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 20587599,
                     "language": "Java",
-                    "last_commit": "2026-08-22T16:48:55Z",
+                    "last_commit": "2026-08-23T14:18:59Z",
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26278
+                    "stars": 26284
                   }
                 },
                 {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-07-29T11:01:30Z",
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8210
+                "stars": 8209
               }
             },
             {
@@ -3058,7 +3058,7 @@
             "archived": false,
             "id": 44998824,
             "language": "Python",
-            "last_commit": "2026-08-21T15:36:12Z",
+            "last_commit": "2026-08-23T13:32:00Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:52:10.485Z",
+    "last_updated": "2026-08-24T05:01:23.940Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_id": 24783000,
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
