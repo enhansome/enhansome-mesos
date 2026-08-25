@@ -4125,7 +4125,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/datastrophic/mesos-scaler-ec2",
+          "title": "datastrophic/mesos-scaler-ec2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4140,7 +4140,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tailhook/mesos-tests",
+          "title": "tailhook/mesos-tests",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4293,7 +4293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:53:49.127Z",
+    "last_updated": "2026-08-25T06:16:26.935Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_id": 24783000,
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
