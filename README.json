@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 20587599,
                     "language": "Java",
-                    "last_commit": "2026-08-25T02:14:12Z",
+                    "last_commit": "2026-08-25T15:47:13Z",
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26289
+                    "stars": 26292
                   }
                 },
                 {
@@ -412,7 +412,7 @@
                 "last_commit": "2022-06-29T19:43:36Z",
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4375
+                "stars": 4376
               }
             },
             {
@@ -3034,7 +3034,7 @@
             "archived": false,
             "id": 101048096,
             "language": "Go",
-            "last_commit": "2026-08-24T13:35:56Z",
+            "last_commit": "2026-08-25T08:44:48Z",
             "owner": "emilevauge",
             "repo": "traefik",
             "stars": 11
@@ -3256,7 +3256,7 @@
             "archived": false,
             "id": 44998824,
             "language": "Python",
-            "last_commit": "2026-08-24T19:15:18Z",
+            "last_commit": "2026-08-25T10:13:01Z",
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
@@ -3340,7 +3340,7 @@
             "last_commit": "2023-09-02T05:53:33Z",
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2221
+            "stars": 2222
           }
         },
         {
@@ -3352,7 +3352,7 @@
             "archived": false,
             "id": 33148320,
             "language": "Python",
-            "last_commit": "2026-08-24T21:26:46Z",
+            "last_commit": "2026-08-25T21:17:15Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -4293,7 +4293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:26.935Z",
+    "last_updated": "2026-08-26T04:55:56.629Z",
     "original_repository": "dharmeshkakadia/awesome-mesos",
     "original_repository_id": 24783000,
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
