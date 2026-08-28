@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,295 | 🐛 373 | 🌐 Java | 📅 2026-08-27
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,302 | 🐛 370 | 🌐 Java | 📅 2026-08-28
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,209 | 🐛 116 | 🌐 Java | 📅 2026-07-29
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,210 | 🐛 116 | 🌐 Java | 📅 2026-07-29
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,376 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 826 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -418,7 +418,7 @@ What can you expect to see here?
 
 ## Other projects and Integrations
 
-* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,222 | 🐛 294 | 🌐 Go | 📅 2023-09-02
+* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,223 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
 * [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 404 | 🌐 Python | 📅 2026-08-26
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

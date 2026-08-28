@@ -16,11 +16,12 @@
                     "archived": false,
                     "id": 20587599,
                     "language": "Java",
-                    "last_commit": "2026-08-27T13:36:17Z",
+                    "last_commit": "2026-08-28T15:18:25Z",
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26295
-                  }
+                    "stars": 26302
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2020-12-25T10:36:06Z",
                     "owner": "douban",
                     "repo": "dpark",
-                    "stars": 2663
-                  }
+                    "stars": 2662
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "mesos",
                     "repo": "hadoop",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 }
               ],
               "description": null,
@@ -72,7 +75,8 @@
                     "owner": "apache",
                     "repo": "incubator-heron",
                     "stars": 3628
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "mesos",
                     "repo": "storm",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "olacabs",
                     "repo": "fabric",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "Banno",
                     "repo": "samza-mesos",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:38:51.217Z"
                 }
               ],
               "description": null,
@@ -144,7 +151,8 @@
                 "owner": "mesos",
                 "repo": "kafka",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "mesos",
                 "repo": "elasticsearch",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "mesosphere-backup",
                 "repo": "cassandra-mesos-deprecated",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "mesosphere-backup",
                 "repo": "hdfs-deprecated",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "mesos",
                 "repo": "mr-redis",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "d2iq-archive",
                 "repo": "tachyon-mesos",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "crate",
                 "repo": "crate-mesos-framework",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "aredee",
                 "repo": "accumulo-mesos",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "basho-labs",
                 "repo": "riak-mesos",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "elodina",
                 "repo": "datastax-enterprise-mesos",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "mhausenblas",
                 "repo": "dromedar",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "stealthly",
                 "repo": "phoenix",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "elodina",
                 "repo": "stockpile",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "elodina",
                 "repo": "go-kafka-client-mesos",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "spacejam",
                 "repo": "hemlock",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -376,7 +398,8 @@
                 "owner": "douban",
                 "repo": "tfmesos",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -397,8 +420,9 @@
                 "last_commit": "2026-07-29T11:01:30Z",
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8209
-              }
+                "stars": 8210
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "mesos",
                 "repo": "chronos",
                 "stars": 4376
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "d2iq-archive",
                 "repo": "marathon",
                 "stars": 4028
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "HubSpot",
                 "repo": "Singularity",
                 "stars": 826
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "d2iq-archive",
                 "repo": "kubernetes-mesos",
                 "stars": 633
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -473,7 +501,8 @@
                 "owner": "Dataman-Cloud",
                 "repo": "swan",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -488,7 +517,8 @@
                 "owner": "twosigma",
                 "repo": "Cook",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "apache",
                 "repo": "incubator-myriad",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -518,7 +549,8 @@
                 "owner": "dcos",
                 "repo": "metronome",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -533,7 +565,8 @@
                 "owner": "mesos",
                 "repo": "cloudfoundry-mesos",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -548,7 +581,8 @@
                 "owner": "ngageoint",
                 "repo": "scale",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -563,7 +597,8 @@
                 "owner": "twosigma",
                 "repo": "waiter",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -585,7 +620,8 @@
                 "owner": "mesosphere-backup",
                 "repo": "etcd-mesos",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -600,7 +636,8 @@
                 "owner": "CiscoCloud",
                 "repo": "exhibitor-mesos-framework",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -622,7 +659,8 @@
                 "owner": "jenkinsci",
                 "repo": "mesos-plugin",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -637,7 +675,8 @@
                 "owner": "ankurcha",
                 "repo": "mesos-teamcity-plugin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -659,7 +698,8 @@
                 "owner": "eremetic-framework",
                 "repo": "eremetic",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -674,7 +714,8 @@
                 "owner": "MohamedBassem",
                 "repo": "r-cluster",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -696,7 +737,8 @@
                 "owner": "elodina",
                 "repo": "zipkin-mesos-framework",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -718,7 +760,8 @@
                 "owner": "mesos",
                 "repo": "logstash",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -733,7 +776,8 @@
                 "owner": "mesos",
                 "repo": "kibana",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -748,7 +792,8 @@
                 "owner": "elodina",
                 "repo": "syscol",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -763,7 +808,8 @@
                 "owner": "ContainerSolutions",
                 "repo": "construct",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -778,7 +824,8 @@
                 "owner": "elodina",
                 "repo": "statsd-mesos-kafka",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -793,7 +840,8 @@
                 "owner": "elodina",
                 "repo": "syslog-service",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -815,7 +863,8 @@
                 "owner": "lake-lerna",
                 "repo": "hydra",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -830,7 +879,8 @@
                 "owner": "yanglei99",
                 "repo": "YCSB_Mesos",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -852,7 +902,8 @@
                 "owner": "mesosphere-backup",
                 "repo": "deimos",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -867,7 +918,8 @@
                 "owner": "d2iq-archive",
                 "repo": "RENDLER",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -882,7 +934,8 @@
                 "owner": "VoltFramework",
                 "repo": "volt",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -897,7 +950,8 @@
                 "owner": "amazon-archives",
                 "repo": "ecs-mesos-scheduler-driver",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -912,7 +966,8 @@
                 "owner": "duedil-ltd",
                 "repo": "portainer",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -927,7 +982,8 @@
                 "owner": "ceteri",
                 "repo": "exelixi",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -942,7 +998,8 @@
                 "owner": "derekchiang",
                 "repo": "Mesos-Bitcoin-Miner",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1014,8 @@
                 "owner": "AgilData",
                 "repo": "mesos-docker-tutorial",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1030,8 @@
                 "owner": "twitter-archive",
                 "repo": "gozer",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1046,8 @@
                 "owner": "mesosphere-backup",
                 "repo": "sssp",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1062,8 @@
                 "owner": "d2iq-archive",
                 "repo": "mesosaurus",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1078,8 @@
                 "owner": "fmpwizard",
                 "repo": "owlcrawler",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1094,8 @@
                 "owner": "mhausenblas",
                 "repo": "elsa",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1110,8 @@
                 "owner": "daskos",
                 "repo": "mentor",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1126,8 @@
                 "owner": "mesosphere-backup",
                 "repo": "mesos-hydra",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1142,8 @@
                 "owner": "mesos",
                 "repo": "mesos-distcc",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1158,8 @@
                 "owner": "tarnfeld",
                 "repo": "mesos-python-framework",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1107,7 +1174,8 @@
                 "owner": "thecodeteam",
                 "repo": "scaleio-framework",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1190,8 @@
                 "owner": "retz",
                 "repo": "retz",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1206,8 @@
                 "owner": "SwathiMystery",
                 "repo": "mesos-pinspider",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1222,8 @@
                 "owner": "remembertoplay",
                 "repo": "logo-generator",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1238,8 @@
                 "owner": "dropbox",
                 "repo": "changes-mesos-framework",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1254,8 @@
                 "owner": "dharmeshkakadia",
                 "repo": "MonteCarloArea",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1270,8 @@
                 "owner": "axsh",
                 "repo": "openvdc",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1212,7 +1286,8 @@
                 "owner": "att-innovate",
                 "repo": "charmander-scheduler",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1227,7 +1302,8 @@
                 "owner": "d2iq-archive",
                 "repo": "ANAGRAMMER",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1318,8 @@
                 "owner": "akshshar",
                 "repo": "QoSon",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1334,8 @@
                 "owner": "kellrott",
                 "repo": "jobTree-mesos",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1350,8 @@
                 "owner": "guenter",
                 "repo": "jetty-mesos",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1366,8 @@
                 "owner": "sammyas",
                 "repo": "autoscaling",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1382,8 @@
                 "owner": "mbabineau",
                 "repo": "checkswarm",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1398,8 @@
                 "owner": "edpaget",
                 "repo": "hello-mesos",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1332,7 +1414,8 @@
                 "owner": "kaysoky",
                 "repo": "InverseOfferExampleFramework",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1347,7 +1430,8 @@
                 "owner": "dulikvor",
                 "repo": "SearchYA",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1362,7 +1446,8 @@
                 "owner": "kellrott",
                 "repo": "grid-framework",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1377,7 +1462,8 @@
                 "owner": "kscherer",
                 "repo": "wraxl-scheduler",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1392,7 +1478,8 @@
                 "owner": "skytix-dev",
                 "repo": "rexe",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1407,7 +1494,8 @@
                 "owner": "chenlily",
                 "repo": "closest-pair",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -1438,7 +1526,8 @@
                 "owner": "ondrej-smola",
                 "repo": "mesos-go-http",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "repo_info": {
@@ -1449,7 +1538,8 @@
             "owner": "mesos",
             "repo": "mesos-go",
             "stars": 540
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1464,7 +1554,8 @@
             "owner": "tobilg",
             "repo": "mesos-framework",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1479,7 +1570,8 @@
             "owner": "iand675",
             "repo": "hs-mesos",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1494,7 +1586,8 @@
             "owner": "mdevilliers",
             "repo": "erlang-mesos",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1509,7 +1602,8 @@
             "owner": "nokia",
             "repo": "mesos-scala-api",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1524,7 +1618,8 @@
             "owner": "burke",
             "repo": "mesos-ruby",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1539,7 +1634,8 @@
             "owner": "bcrusu",
             "repo": "mesos-net",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1554,7 +1650,8 @@
             "owner": "mark-5",
             "repo": "perl-mesos",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -1569,7 +1666,8 @@
             "owner": "iron-oxide",
             "repo": "mesos-rust",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "group",
@@ -1589,7 +1687,8 @@
                 "owner": "d2iq-archive",
                 "repo": "mesos-rxjava",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1604,7 +1703,8 @@
                 "owner": "kevints",
                 "repo": "mesos-framework-api",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ]
         },
@@ -1626,7 +1726,8 @@
                 "owner": "wickman",
                 "repo": "pesos",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1641,7 +1742,8 @@
                 "owner": "osallou",
                 "repo": "python-mesos-http",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1656,7 +1758,8 @@
                 "owner": "dangra",
                 "repo": "pymesos",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ]
         },
@@ -1678,7 +1781,8 @@
                 "owner": "clojusc",
                 "repo": "mesomatic",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1693,7 +1797,8 @@
                 "owner": "dgrnbrg",
                 "repo": "clj-mesos",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ]
         }
@@ -1718,7 +1823,8 @@
                 "owner": "Capgemini",
                 "repo": "mesos-ui",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1733,7 +1839,8 @@
                 "owner": "bspaans",
                 "repo": "simple-mesos-dashboard",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1748,7 +1855,8 @@
                 "owner": "Clever",
                 "repo": "mesos-visualizer",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1763,7 +1871,8 @@
                 "owner": "triforkse",
                 "repo": "mesos-ui",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -1785,7 +1894,8 @@
                 "owner": "mesos",
                 "repo": "modules",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1910,8 @@
                 "owner": "tillt",
                 "repo": "xcode-mesos",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1815,7 +1926,8 @@
                 "owner": "microsoft",
                 "repo": "mesos-log",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1942,8 @@
                 "owner": "bwplotka",
                 "repo": "mesos-modules-dev",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -1852,7 +1965,8 @@
                 "owner": "Netflix",
                 "repo": "Fenzo",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1867,7 +1981,8 @@
                 "owner": "ContainerSolutions",
                 "repo": "minimesos",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1882,7 +1997,8 @@
                 "owner": "allegro",
                 "repo": "mesos-executor",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1897,7 +2013,8 @@
                 "owner": "ContainerSolutions",
                 "repo": "mesos-starter",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1912,7 +2029,8 @@
                 "owner": "drexin",
                 "repo": "akka-mesos",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1927,7 +2045,8 @@
                 "owner": "d2iq-archive",
                 "repo": "scala-sbt-mesos-framework.g8",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1942,7 +2061,8 @@
                 "owner": "tobilg",
                 "repo": "mesos-framework-boilerplate",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1957,7 +2077,8 @@
                 "owner": "elodina",
                 "repo": "go-mesos-utils",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1972,7 +2093,8 @@
                 "owner": "d2iq-archive",
                 "repo": "mesos-state-backed-collections",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -1987,7 +2109,8 @@
                 "owner": "huawei-cloudfederation",
                 "repo": "mesos-go-stateful",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2009,7 +2132,8 @@
                 "owner": "mesoshq",
                 "repo": "mesosctl",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2024,7 +2148,8 @@
                 "owner": "felixb",
                 "repo": "mesos-tail",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2046,7 +2171,8 @@
                 "owner": "d2iq-archive",
                 "repo": "playa-mesos",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2061,7 +2187,8 @@
                 "owner": "everpeace",
                 "repo": "vagrant-mesos",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2076,7 +2203,8 @@
                 "owner": "ahunnargikar",
                 "repo": "vagrant-mesos",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2091,7 +2219,8 @@
                 "owner": "Banno",
                 "repo": "vagrant-mesos",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2106,7 +2235,8 @@
                 "owner": "rasputnik",
                 "repo": "mesos-centos",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2121,7 +2251,8 @@
                 "owner": "tobilg",
                 "repo": "coreos-mesos-cluster",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2136,7 +2267,8 @@
                 "owner": "liubin",
                 "repo": "mesos-marathon-deimos-vagrant",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2151,7 +2283,8 @@
                 "owner": "mdevilliers",
                 "repo": "vagrant-mesos-development-environment",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2166,7 +2299,8 @@
                 "owner": "bskaggs",
                 "repo": "vagrant-deimos",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2181,7 +2315,8 @@
                 "owner": "aharwood",
                 "repo": "vagrant-mesos-spark",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2196,7 +2331,8 @@
                 "owner": "antonlindstrom",
                 "repo": "mesos_playground",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2218,7 +2354,8 @@
                 "owner": "HelloGrayson",
                 "repo": "compose-mesos",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2233,7 +2370,8 @@
                 "owner": "dontrebootme",
                 "repo": "compose-mesos",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2248,7 +2386,8 @@
                 "owner": "schibsted",
                 "repo": "mesoscope",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2263,7 +2402,8 @@
                 "owner": "yaronr",
                 "repo": "docker-mesos",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2278,7 +2418,8 @@
                 "owner": "datastrophic",
                 "repo": "mesos-workshop",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2293,7 +2434,8 @@
                 "owner": "datastrophic",
                 "repo": "mesos-docker-containers",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2315,7 +2457,8 @@
                 "owner": "d2iq-archive",
                 "repo": "mesos-tracing",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2330,7 +2473,8 @@
                 "owner": "tnachen",
                 "repo": "mesos_traces_vis",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2358,7 +2502,8 @@
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-mesos",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2373,7 +2518,8 @@
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-marathon",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2388,7 +2534,8 @@
                 "owner": "frankhinek",
                 "repo": "ansible-mesos-cluster",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2403,7 +2550,8 @@
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-mesos-docker",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2418,7 +2566,8 @@
                 "owner": "Topface",
                 "repo": "ansible-marathon_app",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2433,7 +2582,8 @@
                 "owner": "seomoz",
                 "repo": "roger-mesos",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2448,7 +2598,8 @@
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-chronos",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2463,7 +2614,8 @@
                 "owner": "fupelaqu",
                 "repo": "ansible-mesos",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2478,7 +2630,8 @@
                 "owner": "ccollicutt",
                 "repo": "ansible-mmd",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2500,7 +2653,8 @@
                 "owner": "mdsol",
                 "repo": "mesos_cookbook",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2515,7 +2669,8 @@
                 "owner": "everpeace",
                 "repo": "cookbook-mesos",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2537,7 +2692,8 @@
                 "owner": "deric",
                 "repo": "puppet-mesos",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2559,7 +2715,8 @@
                 "owner": "parolkar",
                 "repo": "mesos-babushka",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2581,7 +2738,8 @@
                 "owner": "thefactory",
                 "repo": "cloudformation-mesos",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2603,7 +2761,8 @@
                 "owner": "ContainerSolutions",
                 "repo": "terraform-mesos",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2625,7 +2784,8 @@
                 "owner": "adobe-platform",
                 "repo": "mesos-systemd",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2647,7 +2807,8 @@
                 "owner": "strat0sphere",
                 "repo": "spark-euca",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2669,7 +2830,8 @@
                 "owner": "d2iq-archive",
                 "repo": "mesos-deb-packaging",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2684,7 +2846,8 @@
                 "owner": "deric",
                 "repo": "mesos-deb-packaging",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2699,7 +2862,8 @@
                 "owner": "nmilford",
                 "repo": "rpm-mesos",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             },
             {
               "node_type": "item",
@@ -2714,7 +2878,8 @@
                 "owner": "berngp",
                 "repo": "mesos-rpm",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2736,7 +2901,8 @@
                 "owner": "projectcalico",
                 "repo": "netmodules-plugin",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "description": null,
@@ -2762,7 +2928,8 @@
             "owner": "twosigma",
             "repo": "satellite",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2777,7 +2944,8 @@
             "owner": "cloudflare",
             "repo": "complainer",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2792,7 +2960,8 @@
             "owner": "bobrik",
             "repo": "docker-collectd-mesos",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2807,7 +2976,8 @@
             "owner": "prometheus-junkyard",
             "repo": "mesos_exporter",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2822,7 +2992,8 @@
             "owner": "tobilg",
             "repo": "marathon-slack",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2837,7 +3008,8 @@
             "owner": "bobrik",
             "repo": "collectd-mesos-tasks",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2852,7 +3024,8 @@
             "owner": "kpacha",
             "repo": "mesos-influxdb-collector",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2867,7 +3040,8 @@
             "owner": "wndhydrnt",
             "repo": "mesos-task-exporter",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         }
       ],
       "title": "Monitoring and alerting"
@@ -2888,7 +3062,8 @@
             "owner": "QubitProducts",
             "repo": "bamboo",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2903,7 +3078,8 @@
             "owner": "d2iq-archive",
             "repo": "mesos-dns",
             "stars": 482
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2918,7 +3094,8 @@
             "owner": "mantl",
             "repo": "mesos-consul",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2933,7 +3110,8 @@
             "owner": "allegro",
             "repo": "marathon-consul",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2948,7 +3126,8 @@
             "owner": "tellapart",
             "repo": "aurproxy",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2963,7 +3142,8 @@
             "owner": "bobrik",
             "repo": "zoidberg",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2978,7 +3158,8 @@
             "owner": "Wizcorp",
             "repo": "frontrunner",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -2993,7 +3174,8 @@
             "owner": "bobrik",
             "repo": "marathoner",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3008,7 +3190,8 @@
             "owner": "bobrik",
             "repo": "ralph",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3023,7 +3206,8 @@
             "owner": "opencredo",
             "repo": "mesos_service_discovery",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3038,7 +3222,8 @@
             "owner": "emilevauge",
             "repo": "traefik",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3053,7 +3238,8 @@
             "owner": "lasp-lang",
             "repo": "sprinter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3068,7 +3254,8 @@
             "owner": "seomoz",
             "repo": "roger-bamboo",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3083,7 +3270,8 @@
             "owner": "Difrex",
             "repo": "surok",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         }
       ],
       "title": "Service discovery and Load balancing"
@@ -3104,7 +3292,8 @@
             "owner": "thecodeteam",
             "repo": "mesos-module-dvdi",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3119,7 +3308,8 @@
             "owner": "d2iq-archive",
             "repo": "serenity",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3134,7 +3324,8 @@
             "owner": "d2iq-archive",
             "repo": "net-modules",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3149,7 +3340,8 @@
             "owner": "d2iq-archive",
             "repo": "net-modules",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3164,7 +3356,8 @@
             "owner": "ClusterHQ",
             "repo": "mesos-module-flocker",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3179,7 +3372,8 @@
             "owner": "blue-yonder",
             "repo": "mesos-threshold-oversubscription",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3194,7 +3388,8 @@
             "owner": "elodina",
             "repo": "alligator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3209,7 +3404,8 @@
             "owner": "massenz",
             "repo": "execute-module",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3224,7 +3420,8 @@
             "owner": "gettyimages",
             "repo": "mesos_offer_filtering_allocator_module",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         }
       ],
       "title": "Modules"
@@ -3245,7 +3442,8 @@
             "owner": "mantl",
             "repo": "mantl",
             "stars": 2974
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3260,7 +3458,8 @@
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1729
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3275,7 +3474,8 @@
             "owner": "Capgemini",
             "repo": "Apollo",
             "stars": 718
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3290,7 +3490,8 @@
             "owner": "uber",
             "repo": "peloton",
             "stars": 647
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3305,7 +3506,8 @@
             "owner": "eBayClassifiedsGroup",
             "repo": "PanteraS",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3320,7 +3522,8 @@
             "owner": "sttts",
             "repo": "compute-platform",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         }
       ],
       "title": "Platforms and microservice architectures"
@@ -3340,8 +3543,9 @@
             "last_commit": "2023-09-02T05:53:33Z",
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2222
-          }
+            "stars": 2223
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3356,7 +3560,8 @@
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3371,7 +3576,8 @@
             "owner": "CircleCI-Archived",
             "repo": "vamp",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3386,7 +3592,8 @@
             "owner": "d2iq-archive",
             "repo": "universe",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3401,7 +3608,8 @@
             "owner": "thefactory",
             "repo": "marathon-python",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3416,7 +3624,8 @@
             "owner": "autodesk-cloud",
             "repo": "ochopod",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3431,7 +3640,8 @@
             "owner": "mesosphere-backup",
             "repo": "mesos-cli",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3446,7 +3656,8 @@
             "owner": "pcingola",
             "repo": "BigDataScript",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3461,7 +3672,8 @@
             "owner": "thefactory",
             "repo": "autoscale-python",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3476,7 +3688,8 @@
             "owner": "att-innovate",
             "repo": "charmander",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3491,7 +3704,8 @@
             "owner": "jwerak",
             "repo": "coreos-mesos-marathon",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3506,7 +3720,8 @@
             "owner": "riywo",
             "repo": "sample-fluentd-on-mesos-docker",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3521,7 +3736,8 @@
             "owner": "andygrunwald",
             "repo": "megos",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3536,7 +3752,8 @@
             "owner": "theclaymethod",
             "repo": "Foundry-vagrant-mesos-kafka-cluster",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3551,7 +3768,8 @@
             "owner": "sailthru",
             "repo": "relay.mesos",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3566,7 +3784,8 @@
             "owner": "cashoefman",
             "repo": "chronos",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3581,7 +3800,8 @@
             "owner": "mohitsoni",
             "repo": "compose-executor",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3596,7 +3816,8 @@
             "owner": "d2iq-archive",
             "repo": "chronos-utils",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3611,7 +3832,8 @@
             "owner": "sheepkiller",
             "repo": "presto-marathon-docker",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3626,7 +3848,8 @@
             "owner": "daskos",
             "repo": "daskos",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3641,7 +3864,8 @@
             "owner": "vmware-archive",
             "repo": "mesos-boshrelease",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3656,7 +3880,8 @@
             "owner": "d2iq-archive",
             "repo": "mesos-utils",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3671,7 +3896,8 @@
             "owner": "elodina",
             "repo": "stack-deploy",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3686,7 +3912,8 @@
             "owner": "jbdalido",
             "repo": "gomarathon",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3701,7 +3928,8 @@
             "owner": "schibsted",
             "repo": "triathlon",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3716,7 +3944,8 @@
             "owner": "CloudCredo",
             "repo": "mesos-boshrelease",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3731,7 +3960,8 @@
             "owner": "d2iq-archive",
             "repo": "marathon-pkg",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3746,7 +3976,8 @@
             "owner": "alanbover",
             "repo": "deathnode",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3761,7 +3992,8 @@
             "owner": "thefactory",
             "repo": "marathon-logger",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3776,7 +4008,8 @@
             "owner": "d2iq-archive",
             "repo": "mom",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3791,7 +4024,8 @@
             "owner": "openstack-archive",
             "repo": "kolla-mesos",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3806,7 +4040,8 @@
             "owner": "d2iq-archive",
             "repo": "sample_mesos_executor",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3821,7 +4056,8 @@
             "owner": "mesos",
             "repo": "cdh-mesos",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3836,7 +4072,8 @@
             "owner": "misho-kr",
             "repo": "mesos-aurora-restful",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3851,7 +4088,8 @@
             "owner": "wmertens",
             "repo": "nixops-mesos",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3866,7 +4104,8 @@
             "owner": "obaidsalikeen",
             "repo": "storm-marathon",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3881,7 +4120,8 @@
             "owner": "stealthly",
             "repo": "punxsutawney",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3896,7 +4136,8 @@
             "owner": "spring-attic",
             "repo": "spring-cloud-dataflow-server-mesos",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3911,7 +4152,8 @@
             "owner": "mesos",
             "repo": "mih",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3926,7 +4168,8 @@
             "owner": "mohitsoni",
             "repo": "mammoth",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3941,7 +4184,8 @@
             "owner": "tnolet",
             "repo": "mesos_on_coreos",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3956,7 +4200,8 @@
             "owner": "gondor",
             "repo": "depcon",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3971,7 +4216,8 @@
             "owner": "thefactory",
             "repo": "docker-marathon",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -3986,7 +4232,8 @@
             "owner": "d2iq-archive",
             "repo": "chronos-pkg",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4001,7 +4248,8 @@
             "owner": "TrentBrown",
             "repo": "weave-into-mesos",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4016,7 +4264,8 @@
             "owner": "elodina",
             "repo": "gonzo",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4031,7 +4280,8 @@
             "owner": "jbdalido",
             "repo": "hecate",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4046,7 +4296,8 @@
             "owner": "nlamirault",
             "repo": "magneto",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4061,7 +4312,8 @@
             "owner": "charlescearl",
             "repo": "VirtualMesos",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4076,7 +4328,8 @@
             "owner": "kamilchm",
             "repo": "nix-mesos",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4091,7 +4344,8 @@
             "owner": "ct-clmsn",
             "repo": "mesos-papi",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4106,7 +4360,8 @@
             "owner": "ptorrestr",
             "repo": "mesos-spark",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4121,7 +4376,8 @@
             "owner": "jayusor",
             "repo": "mesos",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4136,7 +4392,8 @@
             "owner": "datastrophic",
             "repo": "mesos-scaler-ec2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4151,7 +4408,8 @@
             "owner": "tailhook",
             "repo": "mesos-tests",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4166,7 +4424,8 @@
             "owner": "replme",
             "repo": "repl-mesos",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4181,7 +4440,8 @@
             "owner": "d2iq-archive",
             "repo": "service-bridge",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4196,7 +4456,8 @@
             "owner": "JasonGiedymin",
             "repo": "chef-mesos",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4211,7 +4472,8 @@
             "owner": "ortoo",
             "repo": "mesos-nerve",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4226,7 +4488,8 @@
             "owner": "jmspring",
             "repo": "vault-on-mesos",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4241,7 +4504,8 @@
             "owner": "elodina",
             "repo": "mesos-jira",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4256,7 +4520,8 @@
             "owner": "alfongj",
             "repo": "mesos-akaros",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4271,7 +4536,8 @@
             "owner": "smarthall",
             "repo": "packer-mesos",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         },
         {
           "node_type": "item",
@@ -4286,14 +4552,15 @@
             "owner": "seomoz",
             "repo": "roger-mesos-tools",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:38:51.217Z"
         }
       ],
       "title": "Other projects and Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:15:05.632Z",
+    "last_updated": "2026-08-28T16:38:51.217Z",
     "original_repository_info": {
       "archived": false,
       "id": 24783000,
