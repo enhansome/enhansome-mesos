@@ -14,12 +14,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apache Flink",
+                    "homepage": "https://flink.apache.org/",
                     "id": 20587599,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T15:18:25Z",
+                    "open_issues": 370,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26302
+                    "stars": 26301,
+                    "topics": [
+                      "big-data",
+                      "flink",
+                      "java",
+                      "python",
+                      "scala",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 },
@@ -30,12 +42,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Python clone of Spark,  a MapReduce alike framework in Python",
+                    "homepage": null,
                     "id": 3991627,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-12-25T10:36:06Z",
+                    "open_issues": 1,
                     "owner": "douban",
                     "repo": "dpark",
-                    "stars": 2662
+                    "stars": 2662,
+                    "topics": [
+                      "bigdata",
+                      "dpark",
+                      "mapreduce",
+                      "python",
+                      "spark",
+                      "stream-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 },
@@ -46,12 +70,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hadoop on Mesos",
+                    "homepage": null,
                     "id": 11587114,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2022-10-04T23:40:50Z",
+                    "open_issues": 19,
                     "owner": "mesos",
                     "repo": "hadoop",
-                    "stars": 176
+                    "stars": 176,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 }
@@ -69,12 +98,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+                    "homepage": "https://heron.apache.org/",
                     "id": 43158694,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-03-01T15:11:08Z",
+                    "open_issues": 409,
                     "owner": "apache",
                     "repo": "incubator-heron",
-                    "stars": 3628
+                    "stars": 3628,
+                    "topics": [
+                      "heron",
+                      "messaging",
+                      "streaming"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 },
@@ -85,12 +123,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Storm on Mesos!",
+                    "homepage": null,
                     "id": 21285858,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-17T05:28:43Z",
+                    "open_issues": 27,
                     "owner": "mesos",
                     "repo": "storm",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": [
+                      "mesos",
+                      "mesos-framework",
+                      "storm"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 },
@@ -101,12 +148,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Realtime stream processing framework for apache mesos / marathon",
+                    "homepage": null,
                     "id": 71972621,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-04-13T17:20:38Z",
+                    "open_issues": 7,
                     "owner": "olacabs",
                     "repo": "fabric",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 },
@@ -117,12 +169,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This project allows to run Samza jobs on Mesos cluster",
+                    "homepage": null,
                     "id": 28114934,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-25T21:19:37Z",
+                    "open_issues": 0,
                     "owner": "Banno",
                     "repo": "samza-mesos",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:38:51.217Z"
                 }
@@ -145,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kafka on Apache Mesos",
+                "homepage": null,
                 "id": 30391466,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-03T14:14:05Z",
+                "open_issues": 49,
                 "owner": "mesos",
                 "repo": "kafka",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -161,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elasticsearch on Mesos",
+                "homepage": null,
                 "id": 32823958,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-19T23:16:14Z",
+                "open_issues": 76,
                 "owner": "mesos",
                 "repo": "elasticsearch",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -177,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] This project is deprecated. It will be archived on December 1, 2017.",
+                "homepage": "https://github.com/mesosphere/mesosphere/dcos-commons/frameworks/cassandra.",
                 "id": 15693035,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-15T19:46:21Z",
+                "open_issues": 1,
                 "owner": "mesosphere-backup",
                 "repo": "cassandra-mesos-deprecated",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -193,12 +265,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] This project is deprecated. It will be archived on December 1, 2017.",
+                "homepage": null,
                 "id": 25594400,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-20T01:54:59Z",
+                "open_issues": 75,
                 "owner": "mesosphere-backup",
                 "repo": "hdfs-deprecated",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "deprecarted"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -209,12 +288,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Redis on Apache Mesos",
+                "homepage": null,
                 "id": 48480336,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-10T14:21:09Z",
+                "open_issues": 20,
                 "owner": "mesos",
                 "repo": "mr-redis",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "framework",
+                  "golang",
+                  "mesos",
+                  "redis-cache"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -225,12 +314,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Mesos Framework for Tachyon, a memory-centric distributed file system.",
+                "homepage": null,
                 "id": 23233578,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2014-08-25T23:37:56Z",
+                "open_issues": 3,
                 "owner": "d2iq-archive",
                 "repo": "tachyon-mesos",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -241,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An integration framework that allows you to run and manage CrateDB via Apache Mesos.",
+                "homepage": null,
                 "id": 32357403,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2019-01-30T15:25:16Z",
+                "open_issues": 1,
                 "owner": "crate",
                 "repo": "crate-mesos-framework",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -257,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 33632444,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2015-10-27T13:17:25Z",
+                "open_issues": 4,
                 "owner": "aredee",
                 "repo": "accumulo-mesos",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -273,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Riak Mesos Framework",
+                "homepage": null,
                 "id": 47997625,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2017-03-08T17:21:58Z",
+                "open_issues": 11,
                 "owner": "basho-labs",
                 "repo": "riak-mesos",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -289,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DataStax Enterprise on Mesos",
+                "homepage": "http://www.elodina.net",
                 "id": 44812320,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2016-05-25T10:11:33Z",
+                "open_issues": 8,
                 "owner": "elodina",
                 "repo": "datastax-enterprise-mesos",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -305,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Drill On Apache Mesos",
+                "homepage": null,
                 "id": 33483270,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2015-04-13T08:50:40Z",
+                "open_issues": 0,
                 "owner": "mhausenblas",
                 "repo": "dromedar",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -321,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phoenix is a Secor Mesos Framework",
+                "homepage": "http://www.elodina.net",
                 "id": 40130936,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2015-08-13T16:21:13Z",
+                "open_issues": 0,
                 "owner": "stealthly",
                 "repo": "phoenix",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -337,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "stockpile is a mesos executor for go_kafka_client scheduler that mirros data from Apache Kafka to Apache Cassandra",
+                "homepage": "http://www.elodina.net",
                 "id": 42866665,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-29T14:23:15Z",
+                "open_issues": 0,
                 "owner": "elodina",
                 "repo": "stockpile",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -353,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Kafka Client Mesos Framework",
+                "homepage": "http://www.elodina.net",
                 "id": 50365021,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-06T16:43:15Z",
+                "open_issues": 0,
                 "owner": "elodina",
                 "repo": "go-kafka-client-mesos",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -369,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "transactional distributed store with SSI on mesos",
+                "homepage": null,
                 "id": 30896360,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2015-02-25T05:56:09Z",
+                "open_issues": 0,
                 "owner": "spacejam",
                 "repo": "hemlock",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -392,12 +534,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow in Docker on Mesos #tfmesos #tensorflow #mesos",
+                "homepage": null,
                 "id": 56483642,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-03-24T21:54:14Z",
+                "open_issues": 5,
                 "owner": "douban",
                 "repo": "tfmesos",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "docker",
+                  "machine-learning",
+                  "mesos",
+                  "ml",
+                  "neural-network",
+                  "nvidia-docker",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -415,12 +573,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed scheduled job",
+                "homepage": null,
                 "id": 42304749,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T11:01:30Z",
+                "open_issues": 116,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8210
+                "stars": 8210,
+                "topics": [
+                  "cron",
+                  "database",
+                  "elasticjob",
+                  "job",
+                  "job-management",
+                  "middleware",
+                  "quartz",
+                  "scheduled-jobs",
+                  "shard"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -431,12 +604,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules",
+                "homepage": "http://mesos.github.io/chronos/",
                 "id": 8189762,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-29T19:43:36Z",
+                "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4376
+                "stars": 4376,
+                "topics": [
+                  "chronos",
+                  "chronos-scheduler",
+                  "cron",
+                  "cron-jobs",
+                  "crontab",
+                  "fault-tolerance",
+                  "job-scheduler",
+                  "mesos",
+                  "mesos-framework",
+                  "mesosphere",
+                  "scheduled-jobs"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -447,12 +637,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+                "homepage": "https://mesosphere.github.io/marathon/",
                 "id": 10941409,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-08T05:13:23Z",
+                "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4028
+                "stars": 4028,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -463,12 +661,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scheduler (HTTP API and webapp) for running Mesos tasks—long running processes, one-off tasks, and scheduled jobs. #hubspot-open-source",
+                "homepage": "http://getsingularity.com/",
                 "id": 13631804,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-02T15:34:03Z",
+                "open_issues": 38,
                 "owner": "HubSpot",
                 "repo": "Singularity",
-                "stars": 826
+                "stars": 826,
+                "topics": [
+                  "mesos"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -479,12 +684,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Kubernetes Framework for Apache Mesos",
+                "homepage": null,
                 "id": 21475984,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-10-06T19:26:14Z",
+                "open_issues": 208,
                 "owner": "d2iq-archive",
                 "repo": "kubernetes-mesos",
-                "stars": 633
+                "stars": 633,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -495,12 +708,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg",
+                "homepage": "https://www.shurenyun.com/product-swan.html",
                 "id": 70329305,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2018-01-29T02:53:18Z",
+                "open_issues": 19,
                 "owner": "Dataman-Cloud",
                 "repo": "swan",
-                "stars": 405
+                "stars": 405,
+                "topics": [
+                  "marathon",
+                  "mesos",
+                  "mesos-scheduler",
+                  "swan"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -511,12 +734,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark",
+                "homepage": null,
                 "id": 42325066,
                 "language": "Clojure",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-24T19:14:38Z",
+                "open_issues": 129,
                 "owner": "twosigma",
                 "repo": "Cook",
-                "stars": 369
+                "stars": 369,
+                "topics": [
+                  "cluster",
+                  "gke",
+                  "kubernetes",
+                  "mesos",
+                  "scheduler",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -527,12 +762,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Apache Myriad (Incubating)",
+                "homepage": null,
                 "id": 33397227,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T22:04:13Z",
+                "open_issues": 20,
                 "owner": "apache",
                 "repo": "incubator-myriad",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "myriad"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -543,12 +785,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Mesos framework for scheduled jobs",
+                "homepage": "https://dcos.github.io/metronome/",
                 "id": 58449744,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-05T22:47:19Z",
+                "open_issues": 29,
                 "owner": "dcos",
                 "repo": "metronome",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -559,12 +809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry on Mesos Framework",
+                "homepage": null,
                 "id": 46149138,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-03-01T02:33:52Z",
+                "open_issues": 7,
                 "owner": "mesos",
                 "repo": "cloudfoundry-mesos",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -575,12 +830,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Processing framework for containerized algorithms",
+                "homepage": "http://ngageoint.github.io/scale/",
                 "id": 46419785,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-10T03:06:44Z",
+                "open_issues": 96,
                 "owner": "ngageoint",
                 "repo": "scale",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "dcos",
+                  "docker",
+                  "mesos",
+                  "scale"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -591,12 +856,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Runs, manages, and autoscales web services on Mesos and Kubernetes",
+                "homepage": null,
                 "id": 81378873,
                 "language": "Clojure",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-22T21:56:20Z",
+                "open_issues": 61,
                 "owner": "twosigma",
                 "repo": "waiter",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "autoscaling",
+                  "http-proxy",
+                  "kubernetes",
+                  "marathon",
+                  "mesos",
+                  "scheduling",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -614,12 +892,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "self-healing etcd on mesos!",
+                "homepage": null,
                 "id": 36890208,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-27T14:34:07Z",
+                "open_issues": 43,
                 "owner": "mesosphere-backup",
                 "repo": "etcd-mesos",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "cluster",
+                  "dcos",
+                  "etcd",
+                  "framework",
+                  "mesos"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -630,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exhibitor on Apache Mesos for reliably running Zookeeper on Mesos",
+                "homepage": null,
                 "id": 37691090,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-18T12:30:46Z",
+                "open_issues": 3,
                 "owner": "CiscoCloud",
                 "repo": "exhibitor-mesos-framework",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -653,12 +947,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Cloud Jenkins Plugin",
+                "homepage": "https://plugins.jenkins.io/mesos/",
                 "id": 11828845,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-09T11:03:12Z",
+                "open_issues": 2,
                 "owner": "jenkinsci",
                 "repo": "mesos-plugin",
-                "stars": 289
+                "stars": 289,
+                "topics": [
+                  "cloud",
+                  "cluster-management",
+                  "mesos-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -669,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Teamcity plugin",
+                "homepage": null,
                 "id": 26746101,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2014-11-17T08:05:40Z",
+                "open_issues": 0,
                 "owner": "ankurcha",
                 "repo": "mesos-teamcity-plugin",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -692,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Framework for Mesos to run one-off tasks in docker",
+                "homepage": null,
                 "id": 44609170,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-01T18:58:41Z",
+                "open_issues": 26,
                 "owner": "eremetic-framework",
                 "repo": "eremetic",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -708,12 +1021,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to distributively schedule R scripts on a mesos cluster",
+                "homepage": null,
                 "id": 45736735,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-02-02T14:04:58Z",
+                "open_issues": 4,
                 "owner": "MohamedBassem",
                 "repo": "r-cluster",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "golang",
+                  "mesos",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -731,12 +1053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zipkin Mesos Framework",
+                "homepage": "http://www.elodina.net",
                 "id": 43302235,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2016-02-24T00:22:10Z",
+                "open_issues": 10,
                 "owner": "elodina",
                 "repo": "zipkin-mesos-framework",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -754,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logstash on Mesos",
+                "homepage": null,
                 "id": 39800375,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-06-29T09:40:23Z",
+                "open_issues": 18,
                 "owner": "mesos",
                 "repo": "logstash",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -770,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kibana on Mesos",
+                "homepage": null,
                 "id": 39800447,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-14T07:49:45Z",
+                "open_issues": 2,
                 "owner": "mesos",
                 "repo": "kibana",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -786,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect local Mesos slave, underlying operating system and machine metrics and produce to Apache Kafka",
+                "homepage": "http://www.elodina.net",
                 "id": 40984031,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-01-29T14:54:40Z",
+                "open_issues": 2,
                 "owner": "elodina",
                 "repo": "syscol",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -802,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos framework for deploying a single task on all agents of the cluster",
+                "homepage": null,
                 "id": 43686700,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-11-06T13:18:01Z",
+                "open_issues": 6,
                 "owner": "ContainerSolutions",
                 "repo": "construct",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -818,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Statsd Framework that sends its metrics to Apache Kafka",
+                "homepage": "http://www.elodina.net",
                 "id": 39895025,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-02-19T12:26:28Z",
+                "open_issues": 0,
                 "owner": "elodina",
                 "repo": "statsd-mesos-kafka",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -834,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go based Syslog service that can run within an infrastructure role on Mesos.",
+                "homepage": "http://elodina.github.io/syslog-service/",
                 "id": 41003252,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-22T09:26:08Z",
+                "open_issues": 0,
                 "owner": "elodina",
                 "repo": "syslog-service",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -857,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Scale Testing infra using Mesos and marathon",
+                "homepage": null,
                 "id": 52956862,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-22T20:12:57Z",
+                "open_issues": 11,
                 "owner": "lake-lerna",
                 "repo": "hydra",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -873,12 +1235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run YCSB workload across various datastore on Mesos through Marathon (Docker)",
+                "homepage": null,
                 "id": 72240669,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2016-12-06T15:59:47Z",
+                "open_issues": 0,
                 "owner": "yanglei99",
                 "repo": "YCSB_Mesos",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -896,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos containerizer hooks for Docker",
+                "homepage": null,
                 "id": 16846777,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-06T01:12:59Z",
+                "open_issues": 10,
                 "owner": "mesosphere-backup",
                 "repo": "deimos",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -912,12 +1284,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A rendering web crawler for Apache Mesos.",
+                "homepage": null,
                 "id": 19680225,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-19T18:56:55Z",
+                "open_issues": 15,
                 "owner": "d2iq-archive",
                 "repo": "RENDLER",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -928,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple Mesos framework written in Go",
+                "homepage": null,
                 "id": 21778416,
                 "language": "Protocol Buffer",
+                "license": "Apache-2.0",
                 "last_commit": "2016-08-22T07:12:49Z",
+                "open_issues": 9,
                 "owner": "VoltFramework",
                 "repo": "volt",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -944,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Amazon ECS Scheduler Driver",
+                "homepage": "http://aws.amazon.com/ecs",
                 "id": 28992425,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-30T20:10:47Z",
+                "open_issues": 2,
                 "owner": "amazon-archives",
                 "repo": "ecs-mesos-scheduler-driver",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -960,12 +1350,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache Mesos framework for building Docker images on a cluster of machines",
+                "homepage": null,
                 "id": 18906038,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-02-28T17:15:49Z",
+                "open_issues": 14,
                 "owner": "duedil-ltd",
                 "repo": "portainer",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "due-dil"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -976,12 +1373,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Exelixi is a distributed framework based on Apache Mesos, mostly implemented in Python using gevent for high-performance concurrency. It is intended to run cluster computing jobs (partitioned batch jobs, which include some messaging) in pure Python. By default, it runs genetic algorithms at scale.",
+                "homepage": null,
                 "id": 14458596,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2014-01-17T20:02:27Z",
+                "open_issues": 2,
                 "owner": "ceteri",
                 "repo": "exelixi",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -992,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bitcoin mining framework on Mesos",
+                "homepage": null,
                 "id": 35913507,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2017-12-06T06:30:15Z",
+                "open_issues": 2,
                 "owner": "derekchiang",
                 "repo": "Mesos-Bitcoin-Miner",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1008,12 +1415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorial on building a Mesos framework in Java to launch Docker containers on slaves",
+                "homepage": null,
                 "id": 24685702,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-10-01T21:31:57Z",
+                "open_issues": 3,
                 "owner": "AgilData",
                 "repo": "mesos-docker-tutorial",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1024,12 +1436,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Prototype mesos framework using new low-level API built in Go",
+                "homepage": null,
                 "id": 21957965,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2014-11-17T18:18:49Z",
+                "open_issues": 1,
                 "owner": "twitter-archive",
                 "repo": "gozer",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1040,12 +1457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "S3 Proxy Mesos Framework",
+                "homepage": null,
                 "id": 15056600,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2015-04-25T06:15:13Z",
+                "open_issues": 4,
                 "owner": "mesosphere-backup",
                 "repo": "sssp",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1056,12 +1478,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mesos task load simulator framework for (cluster and Mesos) performance analysis",
+                "homepage": null,
                 "id": 16695091,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2016-03-02T14:06:47Z",
+                "open_issues": 6,
                 "owner": "d2iq-archive",
                 "repo": "mesosaurus",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1072,12 +1502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crawl the web using nats.io and Go",
+                "homepage": null,
                 "id": 30961703,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2015-10-01T04:57:11Z",
+                "open_issues": 1,
                 "owner": "fmpwizard",
                 "repo": "owlcrawler",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1088,12 +1523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elastic Sentiment Analysis (using Apache Mesos, Marathon and Apache Spark)",
+                "homepage": "https://medium.com/large-scale-data-processing/developing-operating-dcos-apps-bba809f0e24b",
                 "id": 31710261,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2015-03-16T14:08:24Z",
+                "open_issues": 0,
                 "owner": "mhausenblas",
                 "repo": "elsa",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1104,12 +1544,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensible Python Framework for Apache Mesos",
+                "homepage": null,
                 "id": 51706293,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-10-19T14:33:09Z",
+                "open_issues": 13,
                 "owner": "daskos",
                 "repo": "mentor",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "docker",
+                  "mentos",
+                  "mesos",
+                  "multiprocessing",
+                  "python",
+                  "scheduler"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1120,12 +1572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MPICH2 Hydra scheduler for Apache Mesos.",
+                "homepage": null,
                 "id": 16519176,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2014-02-09T03:02:22Z",
+                "open_issues": 2,
                 "owner": "mesosphere-backup",
                 "repo": "mesos-hydra",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1136,12 +1593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distcc framework for Mesos.",
+                "homepage": null,
                 "id": 15806007,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-08-31T20:51:42Z",
+                "open_issues": 2,
                 "owner": "mesos",
                 "repo": "mesos-distcc",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1152,12 +1614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example Mesos Framework written in Python",
+                "homepage": null,
                 "id": 17145130,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-08-28T08:26:51Z",
+                "open_issues": 1,
                 "owner": "tarnfeld",
                 "repo": "mesos-python-framework",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1168,12 +1635,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ScaleIO Framework implements an Apache Mesos Framework to manage the lifecycle of ScaleIO, a scale-out software-based block storage platform.",
+                "homepage": null,
                 "id": 67536239,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-28T17:30:17Z",
+                "open_issues": 9,
                 "owner": "thecodeteam",
                 "repo": "scaleio-framework",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "containers",
+                  "dell-emc",
+                  "docker",
+                  "go",
+                  "kubernetes",
+                  "mesos",
+                  "mesos-framework",
+                  "scaleio",
+                  "scaleio-framework",
+                  "storage-platform"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1184,12 +1667,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A batch job queuing and execution service (Mesos framework)",
+                "homepage": "http://retz.github.io/",
                 "id": 64210266,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-31T17:14:14Z",
+                "open_issues": 25,
                 "owner": "retz",
                 "repo": "retz",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "asakusa",
+                  "gpu",
+                  "mesos"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1200,12 +1692,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework called \"pinspider\" on Apache mesos, to get basic user information from a pinterest page of a user.",
+                "homepage": null,
                 "id": 28601967,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2014-12-30T20:14:35Z",
+                "open_issues": 0,
                 "owner": "SwathiMystery",
                 "repo": "mesos-pinspider",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "distributed-computing",
+                  "java",
+                  "mesos",
+                  "mesos-pinspider",
+                  "mesosphere"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1216,12 +1719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Framework logo generator",
+                "homepage": "http://remembertoplay.github.io/logo-generator/",
                 "id": 47489928,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-19T10:43:09Z",
+                "open_issues": 1,
                 "owner": "remembertoplay",
                 "repo": "logo-generator",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1232,12 +1740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos scheduling framework for Changes.",
+                "homepage": null,
                 "id": 21831321,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-11-05T21:29:35Z",
+                "open_issues": 1,
                 "owner": "dropbox",
                 "repo": "changes-mesos-framework",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1248,12 +1761,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example framework for Mesos book",
+                "homepage": null,
                 "id": 26350438,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-07-03T21:55:04Z",
+                "open_issues": 0,
                 "owner": "dharmeshkakadia",
                 "repo": "MonteCarloArea",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "mesos"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1264,12 +1784,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extendable Tiny Datacenter Hypervisor on top of Mesos architecture. Wakame-vdc v2 Project.",
+                "homepage": null,
                 "id": 70139007,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-10-09T05:22:32Z",
+                "open_issues": 18,
                 "owner": "axsh",
                 "repo": "openvdc",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cloud-computing",
+                  "container",
+                  "golang",
+                  "iaas",
+                  "mesos-architecture",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1280,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Framework for Charmander Scheduler Lab, written in Go",
+                "homepage": null,
                 "id": 27153767,
                 "language": "Protocol Buffer",
+                "license": "MIT",
                 "last_commit": "2015-10-13T18:08:57Z",
+                "open_issues": 0,
                 "owner": "att-innovate",
                 "repo": "charmander-scheduler",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1296,12 +1833,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An anagram finder for Apache Mesos",
+                "homepage": null,
                 "id": 33326112,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-04-03T20:40:22Z",
+                "open_issues": 1,
                 "owner": "d2iq-archive",
                 "repo": "ANAGRAMMER",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "dcos",
+                  "dcos-compute-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1312,12 +1857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Framework to tackle network degradation through Distributed Telemetry",
+                "homepage": null,
                 "id": 41109903,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-08-24T17:48:23Z",
+                "open_issues": 0,
                 "owner": "akshshar",
                 "repo": "QoSon",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1328,12 +1878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 14242625,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-01-22T01:28:03Z",
+                "open_issues": 0,
                 "owner": "kellrott",
                 "repo": "jobTree-mesos",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1344,12 +1899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run embedded Jetty on Mesos with autoscaling",
+                "homepage": null,
                 "id": 15884755,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2014-01-13T22:51:53Z",
+                "open_issues": 0,
                 "owner": "guenter",
                 "repo": "jetty-mesos",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1360,12 +1920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Framework ",
+                "homepage": null,
                 "id": 23322241,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-08-25T17:48:05Z",
+                "open_issues": 0,
                 "owner": "sammyas",
                 "repo": "autoscaling",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1376,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos framework for distributed health check execution",
+                "homepage": null,
                 "id": 23684774,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-09-05T01:01:39Z",
+                "open_issues": 0,
                 "owner": "mbabineau",
                 "repo": "checkswarm",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1392,12 +1962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo mesos framework with clj-mesos",
+                "homepage": null,
                 "id": 29397906,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2015-06-24T14:36:35Z",
+                "open_issues": 0,
                 "owner": "edpaget",
                 "repo": "hello-mesos",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1408,12 +1983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved into apache/mesos as an example framework: https://github.com/apache/mesos/tree/master/src/examples/inverse_offer_framework.cpp.  Originally a hands-on example to match https://mesosphere.com/blog/2015/10/07/mesos-inverse-offers/",
+                "homepage": null,
                 "id": 42480824,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-06-08T21:34:57Z",
+                "open_issues": 0,
                 "owner": "kaysoky",
                 "repo": "InverseOfferExampleFramework",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1424,12 +2004,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world most naive distributed textual search engine.",
+                "homepage": null,
                 "id": 66961447,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-11-18T15:43:51Z",
+                "open_issues": 0,
                 "owner": "dulikvor",
                 "repo": "SearchYA",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "distributed-systems",
+                  "grpc",
+                  "mesos",
+                  "redis",
+                  "server-side",
+                  "spdlog"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1440,12 +2032,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos framework for Sun Grid Engine",
+                "homepage": null,
                 "id": 18004378,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-03-22T07:28:53Z",
+                "open_issues": 0,
                 "owner": "kellrott",
                 "repo": "grid-framework",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1456,12 +2053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Python Scheduler using Python RQ",
+                "homepage": null,
                 "id": 60372284,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-08-31T13:34:15Z",
+                "open_issues": 0,
                 "owner": "kscherer",
                 "repo": "wraxl-scheduler",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1472,12 +2074,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remote Execution tool for Mesos",
+                "homepage": null,
                 "id": 111471481,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-04T12:07:02Z",
+                "open_issues": 0,
                 "owner": "skytix-dev",
                 "repo": "rexe",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "mesos",
+                  "mesos-scheduler"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1488,12 +2098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 36383581,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2015-06-17T17:42:23Z",
+                "open_issues": 0,
                 "owner": "chenlily",
                 "repo": "closest-pair",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -1520,24 +2135,39 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go language bindings for Apache Mesos",
+                "homepage": null,
                 "id": 81000340,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-02T13:01:01Z",
+                "open_issues": 2,
                 "owner": "ondrej-smola",
                 "repo": "mesos-go-http",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "mesos",
+                  "mesos-go-http"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Go language bindings for Apache Mesos",
+            "homepage": null,
             "id": 14454411,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-05T11:25:39Z",
+            "open_issues": 46,
             "owner": "mesos",
             "repo": "mesos-go",
-            "stars": 540
+            "stars": 540,
+            "topics": [
+              "mesos"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1548,12 +2178,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A wrapper around the Mesos HTTP APIs for Schedulers and Executors. Write your Mesos framework in pure JavaScript!",
+            "homepage": null,
             "id": 61115035,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-04T16:44:24Z",
+            "open_issues": 0,
             "owner": "tobilg",
             "repo": "mesos-framework",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "mesos",
+              "mesos-framework",
+              "nodejs",
+              "scheduler"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1564,12 +2204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos bindings for Haskell",
+            "homepage": null,
             "id": 18054201,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2015-10-29T21:56:03Z",
+            "open_issues": 0,
             "owner": "iand675",
             "repo": "hs-mesos",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1580,12 +2225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An erlang binding for mesos - http://mesos.apache.org/",
+            "homepage": null,
             "id": 17666548,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-18T20:38:07Z",
+            "open_issues": 3,
             "owner": "mdevilliers",
             "repo": "erlang-mesos",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1596,12 +2246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scala API for Mesos",
+            "homepage": null,
             "id": 63935564,
             "language": "Scala",
+            "license": null,
             "last_commit": "2016-09-02T09:35:28Z",
+            "open_issues": 2,
             "owner": "nokia",
             "repo": "mesos-scala-api",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1612,12 +2267,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[abandoned] ",
+            "homepage": null,
             "id": 15874885,
             "language": "C++",
+            "license": null,
             "last_commit": "2014-01-13T16:56:41Z",
+            "open_issues": 0,
             "owner": "burke",
             "repo": "mesos-ruby",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1628,12 +2288,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET (Core & Mono) bindings for Apache Mesos",
+            "homepage": null,
             "id": 43774295,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2016-12-19T22:45:00Z",
+            "open_issues": 0,
             "owner": "bcrusu",
             "repo": "mesos-net",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "csharp",
+              "mesos"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1644,12 +2312,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perl bindings for Apache Mesos",
+            "homepage": null,
             "id": 23215421,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-09-03T22:31:43Z",
+            "open_issues": 0,
             "owner": "mark-5",
             "repo": "perl-mesos",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "perl"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1660,12 +2335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust language bindings for Apache Mesos.",
+            "homepage": null,
             "id": 41120103,
             "language": "Rust",
+            "license": null,
             "last_commit": "2016-04-19T21:32:15Z",
+            "open_issues": 5,
             "owner": "iron-oxide",
             "repo": "mesos-rust",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -1681,12 +2361,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RxJava client for Apache Mesos HTTP APIs",
+                "homepage": null,
                 "id": 44835755,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-10T22:08:36Z",
+                "open_issues": 5,
                 "owner": "d2iq-archive",
                 "repo": "mesos-rxjava",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "dcos",
+                  "dcos-compute-guild",
+                  "library",
+                  "mesos",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1697,12 +2388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure-JVM implementation of the Mesos Framework API (Work In Progress)",
+                "homepage": null,
                 "id": 18749200,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2014-07-19T01:14:44Z",
+                "open_issues": 0,
                 "owner": "kevints",
                 "repo": "mesos-framework-api",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -1720,12 +2416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pesos is a pure python implementation of the mesos framework api",
+                "homepage": null,
                 "id": 19218370,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-10-06T15:33:43Z",
+                "open_issues": 16,
                 "owner": "wickman",
                 "repo": "pesos",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1736,12 +2437,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python mesos scheduler HTTP library",
+                "homepage": null,
                 "id": 81328704,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-16T16:25:37Z",
+                "open_issues": 0,
                 "owner": "osallou",
                 "repo": "python-mesos-http",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "mesos",
+                  "mesos-framework",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1752,12 +2462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure python bindings useful to write Mesos frameworks",
+                "homepage": null,
                 "id": 23883445,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-09-11T05:41:25Z",
+                "open_issues": 0,
                 "owner": "dangra",
                 "repo": "pymesos",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -1775,12 +2490,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and idiomatic Clojure facade around the Mesos JAVA API",
+                "homepage": null,
                 "id": 32916051,
                 "language": "Clojure",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-13T17:02:56Z",
+                "open_issues": 11,
                 "owner": "clojusc",
                 "repo": "mesomatic",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "apache-projects",
+                  "clojure",
+                  "data-centers",
+                  "distributed-systems",
+                  "mesos"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1791,12 +2517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mesos binding for Clojure",
+                "homepage": null,
                 "id": 10413316,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2015-11-05T17:51:50Z",
+                "open_issues": 2,
                 "owner": "dgrnbrg",
                 "repo": "clj-mesos",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -1817,12 +2548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An alternative web UI for Apache Mesos, built with :heart: and React.JS",
+                "homepage": "http://capgemini.github.io/devops/mesos-ui",
                 "id": 43557981,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-07T19:50:05Z",
+                "open_issues": 47,
                 "owner": "Capgemini",
                 "repo": "mesos-ui",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1833,12 +2569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple web UI dashboard for mesos",
+                "homepage": null,
                 "id": 33596649,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-01-07T14:39:34Z",
+                "open_issues": 2,
                 "owner": "bspaans",
                 "repo": "simple-mesos-dashboard",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1849,12 +2590,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Visualizations showing mesos resource utilization",
+                "homepage": null,
                 "id": 43272736,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-03-17T18:48:11Z",
+                "open_issues": 1,
                 "owner": "Clever",
                 "repo": "mesos-visualizer",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1865,12 +2611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 45843486,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-01-18T15:35:54Z",
+                "open_issues": 1,
                 "owner": "triforkse",
                 "repo": "mesos-ui",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -1888,12 +2639,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos modules examples and open source modules outside of  the Apache Mesos source tree.",
+                "homepage": null,
                 "id": 27929120,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-07T18:30:38Z",
+                "open_issues": 5,
                 "owner": "mesos",
                 "repo": "modules",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "apache",
+                  "hooks",
+                  "isolator",
+                  "kerberos",
+                  "mesos",
+                  "mesos-modules",
+                  "sasl",
+                  "sasl-gssapi",
+                  "sasl-support"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1904,12 +2670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Workspace for Apache Mesos",
+                "homepage": null,
                 "id": 17326478,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2014-05-21T21:26:04Z",
+                "open_issues": 2,
                 "owner": "tillt",
                 "repo": "xcode-mesos",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1920,12 +2691,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Project log for Microsoft's Mesos work.",
+                "homepage": null,
                 "id": 85007976,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-02-14T19:56:52Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "mesos-log",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "documentation",
+                  "mesos",
+                  "microsoft",
+                  "sprint-planning"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1936,12 +2717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improved docker for building mesos modules. Tested as a base for building Serenity.",
+                "homepage": null,
                 "id": 44975918,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2016-02-03T16:51:56Z",
+                "open_issues": 0,
                 "owner": "bwplotka",
                 "repo": "mesos-modules-dev",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -1959,12 +2745,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Extensible Scheduler for Mesos Frameworks",
+                "homepage": null,
                 "id": 31481933,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-03-31T20:53:21Z",
+                "open_issues": 22,
                 "owner": "Netflix",
                 "repo": "Fenzo",
-                "stars": 699
+                "stars": 699,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1975,12 +2766,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The experimentation and testing tool for Apache Mesos - NO LONGER MAINTANED!",
+                "homepage": "https://www.minimesos.org",
                 "id": 38307113,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-06-22T11:52:25Z",
+                "open_issues": 23,
                 "owner": "ContainerSolutions",
                 "repo": "minimesos",
-                "stars": 423
+                "stars": 423,
+                "topics": [
+                  "cloudnative",
+                  "cluster",
+                  "containers",
+                  "mesos",
+                  "minimesos"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -1991,12 +2793,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customizable Apache Mesos task executor",
+                "homepage": null,
                 "id": 111518028,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T02:36:19Z",
+                "open_issues": 3,
                 "owner": "allegro",
                 "repo": "mesos-executor",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "consul",
+                  "golang",
+                  "mesos",
+                  "vaas"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2007,12 +2819,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://container-solutions.com/mesos-starter/",
                 "id": 51756700,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-09-09T19:54:03Z",
+                "open_issues": 15,
                 "owner": "ContainerSolutions",
                 "repo": "mesos-starter",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2023,12 +2840,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mesos library built on top of Akka.",
+                "homepage": null,
                 "id": 21652710,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2015-02-15T14:51:06Z",
+                "open_issues": 6,
                 "owner": "drexin",
                 "repo": "akka-mesos",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2039,12 +2861,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 16358682,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2014-12-18T00:00:20Z",
+                "open_issues": 0,
                 "owner": "d2iq-archive",
                 "repo": "scala-sbt-mesos-framework.g8",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "dcos",
+                  "dcos-orchestration-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2055,12 +2885,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A boilerplate for developing Mesos frameworks with JavaScript",
+                "homepage": null,
                 "id": 64068734,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-07T21:29:48Z",
+                "open_issues": 0,
                 "owner": "tobilg",
                 "repo": "mesos-framework-boilerplate",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "boilerplate",
+                  "framework",
+                  "marathon",
+                  "mesos",
+                  "mesos-framework",
+                  "mesos-framework-boilerplate",
+                  "scheduler"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2071,12 +2914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go based utilities for working with Apache Mesos Frameworks",
+                "homepage": "http://www.elodina.net",
                 "id": 42051161,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-22T09:18:37Z",
+                "open_issues": 2,
                 "owner": "elodina",
                 "repo": "go-mesos-utils",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2087,12 +2935,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Persistent collection types backed by implementations of the Mesos state API.",
+                "homepage": null,
                 "id": 28160506,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2014-12-19T02:47:20Z",
+                "open_issues": 0,
                 "owner": "d2iq-archive",
                 "repo": "mesos-state-backed-collections",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "dcos",
+                  "dcos-compute-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2103,12 +2959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An abstraction on top of mesos-go for steteful workload",
+                "homepage": null,
                 "id": 70795545,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-11-18T04:03:57Z",
+                "open_issues": 0,
                 "owner": "huawei-cloudfederation",
                 "repo": "mesos-go-stateful",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2126,12 +2987,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool to dynamically provision and manage Mesos clusters and their applications",
+                "homepage": null,
                 "id": 60369482,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-10-11T21:55:36Z",
+                "open_issues": 0,
                 "owner": "mesoshq",
                 "repo": "mesosctl",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2142,12 +3008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tail for mesos tasks",
+                "homepage": null,
                 "id": 78011984,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-01-04T14:23:59Z",
+                "open_issues": 0,
                 "owner": "felixb",
                 "repo": "mesos-tail",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2165,12 +3036,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quickly build Mesos sandbox environments using Vagrant.  Run apps on top!",
+                "homepage": null,
                 "id": 12983960,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-26T00:22:23Z",
+                "open_issues": 5,
                 "owner": "d2iq-archive",
                 "repo": "playa-mesos",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "dcos",
+                  "dcos-compute-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2181,12 +3060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spin up your Mesos Cluster with Vagrant! (VirtualBox and AWS)",
+                "homepage": "https://github.com/everpeace/vagrant-mesos",
                 "id": 11693039,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-06-15T16:05:41Z",
+                "open_issues": 22,
                 "owner": "everpeace",
                 "repo": "vagrant-mesos",
-                "stars": 429
+                "stars": 429,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2197,12 +3081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos/Docker/Marathon/Aurora development Vagrant Virtualbox setup",
+                "homepage": null,
                 "id": 17490005,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2014-07-14T22:48:48Z",
+                "open_issues": 5,
                 "owner": "ahunnargikar",
                 "repo": "vagrant-mesos",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2213,12 +3102,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Local Mesos cluster in Vagrant",
+                "homepage": null,
                 "id": 31557480,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2015-06-15T15:06:26Z",
+                "open_issues": 0,
                 "owner": "Banno",
                 "repo": "vagrant-mesos",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2229,12 +3123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible playbook to build minimal mesos stack on centos7 with sample frameworks",
+                "homepage": null,
                 "id": 24544610,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-18T01:36:39Z",
+                "open_issues": 2,
                 "owner": "rasputnik",
                 "repo": "mesos-centos",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2245,12 +3144,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Launch a Mesos cluster on CoreOS via Vagrant",
+                "homepage": null,
                 "id": 50745680,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2016-03-24T09:16:42Z",
+                "open_issues": 0,
                 "owner": "tobilg",
                 "repo": "coreos-mesos-cluster",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2261,12 +3165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 21488829,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2016-06-17T06:33:54Z",
+                "open_issues": 0,
                 "owner": "liubin",
                 "repo": "mesos-marathon-deimos-vagrant",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2277,12 +3186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vagrant script to set up a mesos development environment",
+                "homepage": null,
                 "id": 15966077,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2015-11-02T14:10:41Z",
+                "open_issues": 0,
                 "owner": "mdevilliers",
                 "repo": "vagrant-mesos-development-environment",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2293,12 +3207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test out Deimos for Mesos in Vagrant",
+                "homepage": null,
                 "id": 19921861,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-05-18T22:22:31Z",
+                "open_issues": 0,
                 "owner": "bskaggs",
                 "repo": "vagrant-deimos",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2309,12 +3228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Vagrant Box for Mesos/Spark development",
+                "homepage": null,
                 "id": 13829845,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2013-11-14T11:34:33Z",
+                "open_issues": 0,
                 "owner": "aharwood",
                 "repo": "vagrant-mesos-spark",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2325,12 +3249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vagrant playground for Mesos and Marathon",
+                "homepage": null,
                 "id": 17417141,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2014-03-04T21:17:06Z",
+                "open_issues": 0,
                 "owner": "antonlindstrom",
                 "repo": "mesos_playground",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2348,12 +3277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Mesos in Docker with Docker Compose!",
+                "homepage": null,
                 "id": 24538412,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2015-12-17T21:13:29Z",
+                "open_issues": 6,
                 "owner": "HelloGrayson",
                 "repo": "compose-mesos",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2364,12 +3298,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quick mesos cluster with marathon/chronos using docker-compose.",
+                "homepage": null,
                 "id": 37933161,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2016-11-01T05:49:06Z",
+                "open_issues": 3,
                 "owner": "dontrebootme",
                 "repo": "compose-mesos",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2380,12 +3319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local Mesos cluster running on top of docker for learning/testing purposes",
+                "homepage": null,
                 "id": 40657936,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-18T19:07:49Z",
+                "open_issues": 1,
                 "owner": "schibsted",
                 "repo": "mesoscope",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2396,12 +3340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A distributed computing cluster-in-a-box: Mesos, zookeeper, chronos, marathon, storm + add your own. Use other physical computers to add computation power to the cluster.",
+                "homepage": null,
                 "id": 22873319,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2014-09-09T08:47:14Z",
+                "open_issues": 3,
                 "owner": "yaronr",
                 "repo": "docker-mesos",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2412,12 +3361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerized environment for Mesos, walkthrough for use cases and code examples of Mesos Framework",
+                "homepage": null,
                 "id": 54406415,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2016-06-13T15:05:54Z",
+                "open_issues": 0,
                 "owner": "datastrophic",
                 "repo": "mesos-workshop",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2428,12 +3382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker containers to run Mesos and Mesos Frameworks",
+                "homepage": "http://datastrophic.io",
                 "id": 32825676,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-03-02T22:06:29Z",
+                "open_issues": 0,
                 "owner": "datastrophic",
                 "repo": "mesos-docker-containers",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2451,12 +3410,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 39992542,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-10-28T22:43:05Z",
+                "open_issues": 0,
                 "owner": "d2iq-archive",
                 "repo": "mesos-tracing",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "dcos",
+                  "dcos-compute-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2467,12 +3434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualize Mesos traces",
+                "homepage": null,
                 "id": 29604132,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-07-08T21:55:05Z",
+                "open_issues": 0,
                 "owner": "tnachen",
                 "repo": "mesos_traces_vis",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2496,12 +3468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos Playbook for Ansible",
+                "homepage": null,
                 "id": 15725489,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2018-02-19T11:35:27Z",
+                "open_issues": 3,
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-mesos",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2512,12 +3489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible Marathon Playbook",
+                "homepage": null,
                 "id": 16063315,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-18T13:35:53Z",
+                "open_issues": 3,
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-marathon",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2528,12 +3510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible playbook to build multi-node Apache Mesos clusters.",
+                "homepage": null,
                 "id": 23519110,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2015-08-10T05:12:02Z",
+                "open_issues": 1,
                 "owner": "frankhinek",
                 "repo": "ansible-mesos-cluster",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2544,12 +3531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible Mesos-Docker Executor Playbook",
+                "homepage": null,
                 "id": 16083394,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2015-12-16T02:52:46Z",
+                "open_issues": 0,
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-mesos-docker",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2560,12 +3552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy apps on marathon from ansible.",
+                "homepage": null,
                 "id": 33720497,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-03-18T16:47:14Z",
+                "open_issues": 3,
                 "owner": "Topface",
                 "repo": "ansible-marathon_app",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2576,12 +3573,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A complete mesos cluster setup with automatic load balancing",
+                "homepage": null,
                 "id": 47104887,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-19T18:13:10Z",
+                "open_issues": 1,
                 "owner": "seomoz",
                 "repo": "roger-mesos",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2592,12 +3594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible Chronos Playbook",
+                "homepage": null,
                 "id": 16093013,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-20T04:46:43Z",
+                "open_issues": 2,
                 "owner": "AnsibleShipyard",
                 "repo": "ansible-chronos",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2608,12 +3615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible playbook for mesos",
+                "homepage": null,
                 "id": 23510429,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-11-04T06:43:17Z",
+                "open_issues": 0,
                 "owner": "fupelaqu",
                 "repo": "ansible-mesos",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2624,12 +3636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible install of Mesos, Marathon, and Docker",
+                "homepage": null,
                 "id": 22857182,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2014-09-05T01:35:10Z",
+                "open_issues": 0,
                 "owner": "ccollicutt",
                 "repo": "ansible-mmd",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2647,12 +3664,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Chef cookbook for installing Apache Mesos",
+                "homepage": null,
                 "id": 13247669,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2018-06-25T09:18:35Z",
+                "open_issues": 4,
                 "owner": "mdsol",
                 "repo": "mesos_cookbook",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "patient-mgmt"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2663,12 +3687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cookbook for Mesos (http://mesos.apache.org/).",
+                "homepage": "https://github.com/everpeace/cookbook-mesos",
                 "id": 11890928,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2015-10-06T07:17:02Z",
+                "open_issues": 4,
                 "owner": "everpeace",
                 "repo": "cookbook-mesos",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2686,12 +3715,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Puppet module for managing Mesos nodes",
+                "homepage": "https://forge.puppetlabs.com/deric/mesos",
                 "id": 9492253,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-04T08:14:41Z",
+                "open_issues": 3,
                 "owner": "deric",
                 "repo": "puppet-mesos",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "mesos",
+                  "puppet"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2709,12 +3746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "babushka-deps to provision Apache Mesos",
+                "homepage": null,
                 "id": 23593274,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2014-11-05T14:15:33Z",
+                "open_issues": 1,
                 "owner": "parolkar",
                 "repo": "mesos-babushka",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2732,12 +3774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Moved] CloudFormation templates for a production-ready Mesos cluster",
+                "homepage": "https://github.com/mbabineau/cloudformation-mesos",
                 "id": 19628353,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-02-04T19:03:44Z",
+                "open_issues": 6,
                 "owner": "thefactory",
                 "repo": "cloudformation-mesos",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2755,12 +3802,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Stuff for programming a Mesos cluster on the Google Cloud",
+                "homepage": null,
                 "id": 31017553,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-01T10:24:47Z",
+                "open_issues": 9,
                 "owner": "ContainerSolutions",
                 "repo": "terraform-mesos",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2778,12 +3830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Systemd scripts to run Mesos on CoreOS",
+                "homepage": null,
                 "id": 35570054,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-04-07T19:20:38Z",
+                "open_issues": 6,
                 "owner": "adobe-platform",
                 "repo": "mesos-systemd",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2801,12 +3858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts to setup Apache Mesos, Spark, Hadoop, Storm, Kafka and Hama on Eucalyptus and Amazon AWS. Spark can also be deployed as a standalone cluster.",
+                "homepage": null,
                 "id": 104269880,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-07T04:04:19Z",
+                "open_issues": 0,
                 "owner": "strat0sphere",
                 "repo": "spark-euca",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2824,12 +3886,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mesos package for Debian, Ubuntu, CentOS, RHEL, and Fedora",
+                "homepage": null,
                 "id": 14782925,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-25T00:06:09Z",
+                "open_issues": 41,
                 "owner": "d2iq-archive",
                 "repo": "mesos-deb-packaging",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "dcos",
+                  "dcos-compute-guild"
+                ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2840,12 +3910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mesos package for Debian, Ubuntu",
+                "homepage": null,
                 "id": 9451768,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-05T18:15:20Z",
+                "open_issues": 3,
                 "owner": "deric",
                 "repo": "mesos-deb-packaging",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2856,12 +3931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An RPM spec file build and install the Apache Mesos Cluster Manager.",
+                "homepage": null,
                 "id": 11883449,
                 "language": null,
+                "license": null,
                 "last_commit": "2013-08-06T16:13:58Z",
+                "open_issues": 0,
                 "owner": "nmilford",
                 "repo": "rpm-mesos",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             },
@@ -2872,12 +3952,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache Mesos RPM Build",
+                "homepage": null,
                 "id": 10637224,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2016-01-20T23:58:54Z",
+                "open_issues": 4,
                 "owner": "berngp",
                 "repo": "mesos-rpm",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2895,12 +3980,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Deprecated] Calico net-modules plugin for Mesos ",
+                "homepage": "http://projectcalico.org",
                 "id": 39800321,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-01-23T23:40:25Z",
+                "open_issues": 0,
                 "owner": "projectcalico",
                 "repo": "netmodules-plugin",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
             }
@@ -2922,12 +4012,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Satellite monitors, alerts on, and self-heals your Mesos cluster.",
+            "homepage": null,
             "id": 30988167,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2016-05-09T18:24:55Z",
+            "open_issues": 26,
             "owner": "twosigma",
             "repo": "satellite",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -2938,12 +4033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Complainer's job is to send notifications to different services when tasks fail on Mesos cluster.",
+            "homepage": null,
             "id": 59307531,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-24T00:41:28Z",
+            "open_issues": 8,
             "owner": "cloudflare",
             "repo": "complainer",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -2954,12 +4054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dockerized version of collectd-mesos to monitor your mesos cluster with graphite.",
+            "homepage": null,
             "id": 31891242,
             "language": "Smarty",
+            "license": null,
             "last_commit": "2016-09-19T21:50:45Z",
+            "open_issues": 3,
             "owner": "bobrik",
             "repo": "docker-collectd-mesos",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -2970,12 +4075,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Prometheus exporter for Mesos, deprecated. ",
+            "homepage": null,
             "id": 31276741,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-06-28T14:56:08Z",
+            "open_issues": 4,
             "owner": "prometheus-junkyard",
             "repo": "mesos_exporter",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -2986,12 +4096,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Integration for Marathon's Event Bus with Slack",
+            "homepage": null,
             "id": 67038250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-20T21:30:49Z",
+            "open_issues": 2,
             "owner": "tobilg",
             "repo": "marathon-slack",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "dcos",
+              "marathon",
+              "mesos",
+              "slack",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3002,12 +4123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect task resource usage in mesos",
+            "homepage": null,
             "id": 34900445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-01T14:36:44Z",
+            "open_issues": 2,
             "owner": "bobrik",
             "repo": "collectd-mesos-tasks",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3018,12 +4144,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight mesos stats collector for influxdb",
+            "homepage": null,
             "id": 43642210,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-01-04T14:54:29Z",
+            "open_issues": 0,
             "owner": "kpacha",
             "repo": "mesos-influxdb-collector",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3034,12 +4165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED - Export metrics of tasks running on Apache Mesos for Prometheus consumption.",
+            "homepage": null,
             "id": 32154664,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-01-21T09:22:56Z",
+            "open_issues": 0,
             "owner": "wndhydrnt",
             "repo": "mesos-task-exporter",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         }
@@ -3056,12 +4192,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HAProxy auto configuration and auto service discovery for Mesos Marathon",
+            "homepage": null,
             "id": 23346910,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-09-28T17:30:57Z",
+            "open_issues": 44,
             "owner": "QubitProducts",
             "repo": "bamboo",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "ceh",
+              "infra"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3072,12 +4216,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " DNS-based service discovery for Mesos.",
+            "homepage": "https://mesosphere.github.com/mesos-dns",
             "id": 26509179,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-11T19:28:41Z",
+            "open_issues": 79,
             "owner": "d2iq-archive",
             "repo": "mesos-dns",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "dcos",
+              "dcos-networking-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3088,12 +4240,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mesos to Consul bridge for service discovery",
+            "homepage": null,
             "id": 34063534,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-30T08:32:06Z",
+            "open_issues": 39,
             "owner": "mantl",
             "repo": "mesos-consul",
-            "stars": 337
+            "stars": 337,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3104,12 +4261,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrates Marathon apps with Consul service discovery.",
+            "homepage": null,
             "id": 47399967,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T15:42:25Z",
+            "open_issues": 21,
             "owner": "allegro",
             "repo": "marathon-consul",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "consul",
+              "discovery",
+              "hashicorp",
+              "marathon",
+              "mesos"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3120,12 +4288,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Load balancer manager with knowledge of Apache Aurora's service discovery mechanism and integration with Aurora's task lifecycle.",
+            "homepage": null,
             "id": 34881289,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-06-22T17:13:08Z",
+            "open_issues": 5,
             "owner": "tellapart",
             "repo": "aurproxy",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3136,12 +4309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Per-app service discovery for mesos and marathon with pluggable discovery mechanisms",
+            "homepage": null,
             "id": 33339619,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-08-29T15:41:57Z",
+            "open_issues": 2,
             "owner": "bobrik",
             "repo": "zoidberg",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3152,12 +4330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated HAProxy reconfiguration for Marathon",
+            "homepage": "https://github.com/Wizcorp/frontrunner",
             "id": 18398870,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-08T00:50:43Z",
+            "open_issues": 3,
             "owner": "Wizcorp",
             "repo": "frontrunner",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3168,12 +4351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Service discovery for marathon",
+            "homepage": null,
             "id": 28856326,
             "language": "Go",
+            "license": null,
             "last_commit": "2015-08-25T09:04:28Z",
+            "open_issues": 1,
             "owner": "bobrik",
             "repo": "marathoner",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3184,12 +4372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ralph is a service discovery for twemproxy on mesos",
+            "homepage": null,
             "id": 31498107,
             "language": "Go",
+            "license": null,
             "last_commit": "2015-03-01T16:07:12Z",
+            "open_issues": 0,
             "owner": "bobrik",
             "repo": "ralph",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3200,12 +4393,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Service Discovery script for Mesos and Marathon",
+            "homepage": null,
             "id": 22639934,
             "language": "Go",
+            "license": null,
             "last_commit": "2014-10-09T13:23:10Z",
+            "open_issues": 0,
             "owner": "opencredo",
             "repo": "mesos_service_discovery",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3216,12 +4414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Træfik, a modern reverse proxy",
+            "homepage": "https://traefik.io",
             "id": 101048096,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:44:48Z",
+            "open_issues": 1,
             "owner": "emilevauge",
             "repo": "traefik",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3232,12 +4435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sprinter service discovery for Mesos and Kubernetes.",
+            "homepage": "https://lasp-lang.org",
             "id": 80847473,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-24T18:21:41Z",
+            "open_issues": 1,
             "owner": "lasp-lang",
             "repo": "sprinter",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3248,12 +4456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roger's internal load balancer and frontend proxy. Based on https://github.com/QubitProducts/bamboo",
+            "homepage": null,
             "id": 31788903,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-19T18:31:06Z",
+            "open_issues": 2,
             "owner": "seomoz",
             "repo": "roger-bamboo",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3264,12 +4477,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is deprecated repository. Visit https://github.com/Surkoveds/surok",
+            "homepage": null,
             "id": 70794378,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-03-31T08:27:36Z",
+            "open_issues": 0,
             "owner": "Difrex",
             "repo": "surok",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         }
@@ -3286,12 +4504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos Docker Volume Driver Isolator module",
+            "homepage": null,
             "id": 43106864,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-16T00:49:21Z",
+            "open_issues": 5,
             "owner": "thecodeteam",
             "repo": "mesos-module-dvdi",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3302,12 +4525,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Intel:Mesosphere oversubscription technologies for Apache Mesos",
+            "homepage": null,
             "id": 35688047,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-18T10:37:50Z",
+            "open_issues": 35,
             "owner": "d2iq-archive",
             "repo": "serenity",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "dcos",
+              "dcos-compute-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3318,12 +4549,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache Mesos modules for network isolation.",
+            "homepage": null,
             "id": 34140660,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-04-13T23:31:13Z",
+            "open_issues": 5,
             "owner": "d2iq-archive",
             "repo": "net-modules",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "dcos",
+              "dcos-networking-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3334,12 +4573,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache Mesos modules for network isolation.",
+            "homepage": null,
             "id": 34140660,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-04-13T23:31:13Z",
+            "open_issues": 5,
             "owner": "d2iq-archive",
             "repo": "net-modules",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "dcos",
+              "dcos-networking-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3350,12 +4597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos isolator for Flocker volumes",
+            "homepage": null,
             "id": 44345723,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-12-19T16:08:36Z",
+            "open_issues": 7,
             "owner": "ClusterHQ",
             "repo": "mesos-module-flocker",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3366,12 +4618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, threshold-based oversubscription modules for Apache Mesos",
+            "homepage": null,
             "id": 68820049,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-14T11:41:12Z",
+            "open_issues": 0,
             "owner": "blue-yonder",
             "repo": "mesos-threshold-oversubscription",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "mesos",
+              "oversubscription",
+              "revocable",
+              "utilization"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3382,12 +4644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom allocator modules for Apache Mesos",
+            "homepage": "http://www.elodina.net",
             "id": 36083609,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2015-07-03T03:11:42Z",
+            "open_issues": 2,
             "owner": "elodina",
             "repo": "alligator",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3398,12 +4665,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache Mesos Anonymous Module - exposes an API to execute OS commands from a Mesos Agent",
+            "homepage": null,
             "id": 48094370,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-02-13T17:30:50Z",
+            "open_issues": 0,
             "owner": "massenz",
             "repo": "execute-module",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3414,12 +4686,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 67060846,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2017-05-02T15:50:10Z",
+            "open_issues": 1,
             "owner": "gettyimages",
             "repo": "mesos_offer_filtering_allocator_module",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         }
@@ -3436,12 +4713,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mantl is a modern platform for rapidly deploying globally distributed services",
+            "homepage": "http://mantl.io",
             "id": 29925961,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-07T03:45:48Z",
+            "open_issues": 167,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2974
+            "stars": 2974,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3452,12 +4734,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open, distributed platform as a service",
+            "homepage": null,
             "id": 44998824,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:15:05Z",
+            "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1729
+            "stars": 1729,
+            "topics": [
+              "docker",
+              "infrastructure",
+              "k8s",
+              "kubernetes",
+              "paas",
+              "paasta",
+              "yelp"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3468,12 +4763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.",
+            "homepage": "http://capgemini.github.io/devops/apollo/",
             "id": 31866997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-03T21:43:36Z",
+            "open_issues": 84,
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 718
+            "stars": 718,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3484,12 +4784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.",
+            "homepage": null,
             "id": 85815209,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-20T20:09:21Z",
+            "open_issues": 20,
             "owner": "uber",
             "repo": "peloton",
-            "stars": 647
+            "stars": 647,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3500,12 +4805,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PanteraS - PaaS - Platform as a Service in a box",
+            "homepage": null,
             "id": 26962021,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2021-10-20T12:14:52Z",
+            "open_issues": 3,
             "owner": "eBayClassifiedsGroup",
             "repo": "PanteraS",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "consul",
+              "docker",
+              "fabio",
+              "haproxy",
+              "marathon",
+              "mesos",
+              "paas"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3516,12 +4834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mesos based compute platform deployed with ansible",
+            "homepage": null,
             "id": 28306082,
             "language": "Shell",
+            "license": null,
             "last_commit": "2015-06-17T12:36:59Z",
+            "open_issues": 1,
             "owner": "sttts",
             "repo": "compute-platform",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         }
@@ -3538,12 +4861,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads",
+            "homepage": "http://rexray.io",
             "id": 33909634,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-02T05:53:33Z",
+            "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2223
+            "stars": 2223,
+            "topics": [
+              "containers",
+              "docker",
+              "go",
+              "kubernetes",
+              "mesos",
+              "rex-ray",
+              "storage-orchestration",
+              "storage-providers"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3554,12 +4891,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WDL, CWL and Python API supporting easy-to-use workflow engine. It is scalable, efficient and cross-platform (Linux/macOS).",
+            "homepage": "http://toil.ucsc-cgl.org/.",
             "id": 33148320,
             "language": "Python",
-            "last_commit": "2026-08-26T23:22:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:04:12Z",
+            "open_issues": 405,
             "owner": "DataBiosphere",
             "repo": "toil",
-            "stars": 936
+            "stars": 936,
+            "topics": [
+              "aws",
+              "common-workflow-language",
+              "cwl",
+              "gridengine",
+              "kubernetes",
+              "mesos",
+              "pipeline",
+              "python",
+              "slurm",
+              "wdl",
+              "workflow",
+              "workflow-description-language"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3570,12 +4925,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vamp - canary releasing and autoscaling for microservice systems",
+            "homepage": "http://vamp.io",
             "id": 33086103,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-21T11:27:46Z",
+            "open_issues": 106,
             "owner": "CircleCI-Archived",
             "repo": "vamp",
-            "stars": 620
+            "stars": 620,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3586,12 +4946,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Mesosphere Universe package repository.",
+            "homepage": "http://mesosphere.github.io/universe",
             "id": 26291234,
             "language": "Mustache",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-10T19:47:25Z",
+            "open_issues": 78,
             "owner": "d2iq-archive",
             "repo": "universe",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "dcos",
+              "dcos-data-services-guild",
+              "package",
+              "package-manager",
+              "python",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3602,12 +4974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python client library for Mesos Marathon's REST API",
+            "homepage": null,
             "id": 19079404,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-26T17:09:22Z",
+            "open_issues": 25,
             "owner": "thefactory",
             "repo": "marathon-python",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3618,12 +4995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your friendly orchestration overlay over Mesos, K8S and more !",
+            "homepage": "http://autodesk-cloud.github.io/ochopod/",
             "id": 32090295,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-29T10:53:59Z",
+            "open_issues": 9,
             "owner": "autodesk-cloud",
             "repo": "ochopod",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3634,12 +5016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project has been deprecated. Please use the DC/OS CLI.",
+            "homepage": "https://github.com/mesosphere/dcos-cli",
             "id": 21018578,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-11-14T19:08:54Z",
+            "open_issues": 22,
             "owner": "mesosphere-backup",
             "repo": "mesos-cli",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3650,12 +5037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BigDataScript: Scirpting language for big data",
+            "homepage": null,
             "id": 8540039,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-03-31T12:23:13Z",
+            "open_issues": 11,
             "owner": "pcingola",
             "repo": "BigDataScript",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3666,12 +5058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library to manage autoscaling logic and actions",
+            "homepage": null,
             "id": 23371609,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-22T16:08:06Z",
+            "open_issues": 1,
             "owner": "thefactory",
             "repo": "autoscale-python",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3682,12 +5079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Charmander Scheduler Lab - Mesos, Docker, InfluxDB, Spark",
+            "homepage": null,
             "id": 27396886,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2016-05-30T05:05:12Z",
+            "open_issues": 4,
             "owner": "att-innovate",
             "repo": "charmander",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3698,12 +5100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This will serve as set of docker images that should enable running mesos on CoreOS",
+            "homepage": null,
             "id": 21986124,
             "language": "Shell",
+            "license": null,
             "last_commit": "2014-08-15T13:24:58Z",
+            "open_issues": 1,
             "owner": "jwerak",
             "repo": "coreos-mesos-marathon",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3714,12 +5121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluentd on Mesos + Docker + Marathon",
+            "homepage": null,
             "id": 15332542,
             "language": "Python",
+            "license": null,
             "last_commit": "2013-12-20T20:16:13Z",
+            "open_issues": 3,
             "owner": "riywo",
             "repo": "sample-fluentd-on-mesos-docker",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3730,12 +5142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go(lang) client library for accessing information of an Apache Mesos cluster.",
+            "homepage": "https://godoc.org/github.com/andygrunwald/megos",
             "id": 43557425,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-06-22T17:06:10Z",
+            "open_issues": 0,
             "owner": "andygrunwald",
             "repo": "megos",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3746,12 +5163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vagrant/Ansible => Kafka, Mesos (w/ Marathon/Docker), ZK, Hadoop, and Spark. Service discovery via HAProxy and Bamboo.",
+            "homepage": null,
             "id": 26195475,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2014-12-03T05:34:37Z",
+            "open_issues": 2,
             "owner": "theclaymethod",
             "repo": "Foundry-vagrant-mesos-kafka-cluster",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3762,12 +5184,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A mesos plugin for Relay that lets you auto-scale the number of currently running instances of a bash command",
+            "homepage": null,
             "id": 26930114,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-16T22:45:59Z",
+            "open_issues": 4,
             "owner": "sailthru",
             "repo": "relay.mesos",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3778,12 +5205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos, ZooKeeper, Chronos and Monit Deployment & Init Scripts for use on AWS ",
+            "homepage": null,
             "id": 14915962,
             "language": "Shell",
+            "license": null,
             "last_commit": "2013-12-10T05:47:14Z",
+            "open_issues": 0,
             "owner": "cashoefman",
             "repo": "chronos",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3794,12 +5226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos executor for docker compose",
+            "homepage": null,
             "id": 40831540,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-02-09T18:46:49Z",
+            "open_issues": 4,
             "owner": "mohitsoni",
             "repo": "compose-executor",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3810,12 +5247,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Command line utilities for interacting with Airbnb Chronos",
+            "homepage": null,
             "id": 14564726,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2014-01-27T19:38:00Z",
+            "open_issues": 0,
             "owner": "d2iq-archive",
             "repo": "chronos-utils",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3826,12 +5271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On demand presto cluster with mesos, marathon and docker.",
+            "homepage": null,
             "id": 27014423,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-07T11:11:22Z",
+            "open_issues": 1,
             "owner": "sheepkiller",
             "repo": "presto-marathon-docker",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3842,12 +5292,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Mesos backend for Dask scheduling library",
+            "homepage": null,
             "id": 51853670,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-10-19T14:36:40Z",
+            "open_issues": 5,
             "owner": "daskos",
             "repo": "daskos",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "dag",
+              "dask",
+              "mesos",
+              "python",
+              "scheduler"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3858,12 +5319,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache Mesos BOSH release",
+            "homepage": null,
             "id": 17359969,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-12T16:03:39Z",
+            "open_issues": 3,
             "owner": "vmware-archive",
             "repo": "mesos-boshrelease",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3874,12 +5340,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utilities for building distributed systems on top of mesos",
+            "homepage": null,
             "id": 13601323,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-25T20:25:22Z",
+            "open_issues": 3,
             "owner": "d2iq-archive",
             "repo": "mesos-utils",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3890,12 +5364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Mesos Platform as a Service Deploy",
+            "homepage": "http://www.elodina.net",
             "id": 49875187,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2016-05-26T08:57:09Z",
+            "open_issues": 5,
             "owner": "elodina",
             "repo": "stack-deploy",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3906,12 +5385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package gomarathon provides a go client to interact with a marathon",
+            "homepage": null,
             "id": 22138546,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-01-24T17:35:43Z",
+            "open_issues": 5,
             "owner": "jbdalido",
             "repo": "gomarathon",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3922,12 +5406,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 40968976,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-08-21T12:04:02Z",
+            "open_issues": 0,
             "owner": "schibsted",
             "repo": "triathlon",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3938,12 +5427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bosh release for Apache Mesos",
+            "homepage": null,
             "id": 15296440,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2014-08-16T15:34:27Z",
+            "open_issues": 0,
             "owner": "CloudCredo",
             "repo": "mesos-boshrelease",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3954,12 +5448,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Packaging utilities for Marathon.",
+            "homepage": null,
             "id": 13598994,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-19T16:34:09Z",
+            "open_issues": 7,
             "owner": "d2iq-archive",
             "repo": "marathon-pkg",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3970,12 +5472,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gracefully kill Mesos nodes in AWS for autoscaling and inmutable deployments",
+            "homepage": null,
             "id": 84056536,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-02-14T14:20:40Z",
+            "open_issues": 6,
             "owner": "alanbover",
             "repo": "deathnode",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "autoscaling",
+              "aws",
+              "mesos"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -3986,12 +5497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event logging service for Mesos Marathon",
+            "homepage": null,
             "id": 20707616,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2014-07-03T22:36:57Z",
+            "open_issues": 0,
             "owner": "thefactory",
             "repo": "marathon-logger",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4002,12 +5518,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mesos on Mesos",
+            "homepage": null,
             "id": 26977837,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2015-03-11T18:57:16Z",
+            "open_issues": 7,
             "owner": "d2iq-archive",
             "repo": "mom",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4018,12 +5542,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MOVED: now at https://opendev.org/x/kolla-mesos",
+            "homepage": "http://openstack.org",
             "id": 45545793,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-26T14:28:21Z",
+            "open_issues": 0,
             "owner": "openstack-archive",
             "repo": "kolla-mesos",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4034,12 +5563,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample mesos executor",
+            "homepage": null,
             "id": 11435772,
             "language": "Scala",
+            "license": null,
             "last_commit": "2013-07-15T23:20:25Z",
+            "open_issues": 1,
             "owner": "d2iq-archive",
             "repo": "sample_mesos_executor",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4050,12 +5587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Patched version of Cloudera's Distribution of Hadoop with Mesos support",
+            "homepage": null,
             "id": 1391647,
             "language": "Java",
+            "license": null,
             "last_commit": "2011-11-06T01:54:20Z",
+            "open_issues": 0,
             "owner": "mesos",
             "repo": "cdh-mesos",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4066,12 +5608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple REST service for Apache Aurora scheduler",
+            "homepage": null,
             "id": 23176462,
             "language": "Python",
+            "license": null,
             "last_commit": "2014-11-14T08:00:08Z",
+            "open_issues": 0,
             "owner": "misho-kr",
             "repo": "mesos-aurora-restful",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4082,12 +5629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deployment of mesos via NixOps",
+            "homepage": null,
             "id": 23268085,
             "language": "Nix",
+            "license": null,
             "last_commit": "2015-03-08T21:35:11Z",
+            "open_issues": 0,
             "owner": "wmertens",
             "repo": "nixops-mesos",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4098,12 +5650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Storm 0.9.3-rc1 Docker cluster deployed on Apache Mesos with Marathon.",
+            "homepage": null,
             "id": 28765412,
             "language": "Shell",
+            "license": null,
             "last_commit": "2015-01-05T20:48:38Z",
+            "open_issues": 3,
             "owner": "obaidsalikeen",
             "repo": "storm-marathon",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4114,12 +5671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Apache Mesos Framework that allows for replaying load over and over and over (and over) again",
+            "homepage": null,
             "id": 36248694,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-08-10T16:34:02Z",
+            "open_issues": 0,
             "owner": "stealthly",
             "repo": "punxsutawney",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4130,12 +5692,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Spring Cloud Data Flow Implementation for Apache Mesos",
+            "homepage": "http://cloud.spring.io/spring-cloud-dataflow-server-mesos/",
             "id": 47134212,
             "language": "XSLT",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-08T21:54:06Z",
+            "open_issues": 23,
             "owner": "spring-attic",
             "repo": "spring-cloud-dataflow-server-mesos",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4146,12 +5713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos-in-Hadoop: allows launching a Mesos cluster as a Hadoop job",
+            "homepage": null,
             "id": 2146035,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2011-08-26T21:44:39Z",
+            "open_issues": 0,
             "owner": "mesos",
             "repo": "mih",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4162,12 +5734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load driver to orchestrate automated load tests on Marathon/Mesos.",
+            "homepage": null,
             "id": 18160730,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2014-03-31T17:16:50Z",
+            "open_issues": 0,
             "owner": "mohitsoni",
             "repo": "mammoth",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4178,12 +5755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Running Mesos on CoreOS!",
+            "homepage": "https://github.com/tnolet/mesos_on_coreos",
             "id": 22994544,
             "language": "Shell",
+            "license": null,
             "last_commit": "2014-08-27T15:28:46Z",
+            "open_issues": 1,
             "owner": "tnolet",
             "repo": "mesos_on_coreos",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4194,12 +5776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker blue-green/deployment/management supporting Mesos/Marathon and Compose.  THIS IS A FORK - SEE ORIGINAL REPO",
+            "homepage": "http://depcon.containx.io",
             "id": 57869977,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2016-09-15T06:36:28Z",
+            "open_issues": 0,
             "owner": "gondor",
             "repo": "depcon",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4210,12 +5797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker definition for a Mesos Marathon instance",
+            "homepage": null,
             "id": 20235702,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-02-20T00:43:43Z",
+            "open_issues": 0,
             "owner": "thefactory",
             "repo": "docker-marathon",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4226,12 +5818,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 20581160,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2017-08-08T01:10:37Z",
+            "open_issues": 5,
             "owner": "d2iq-archive",
             "repo": "chronos-pkg",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4242,12 +5842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrating Weave with Mesos",
+            "homepage": null,
             "id": 48067432,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-12-27T22:28:41Z",
+            "open_issues": 1,
             "owner": "TrentBrown",
             "repo": "weave-into-mesos",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4258,12 +5863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Mesos Kafka Consumer",
+            "homepage": null,
             "id": 43302573,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2016-04-24T08:29:11Z",
+            "open_issues": 1,
             "owner": "elodina",
             "repo": "gonzo",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4274,12 +5884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small script to write nginx configuration from mesos or kubernetes api",
+            "homepage": null,
             "id": 22046443,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2014-07-21T00:03:21Z",
+            "open_issues": 0,
             "owner": "jbdalido",
             "repo": "hecate",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4290,12 +5905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuous integration system build using Mesos platform",
+            "homepage": null,
             "id": 20328528,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-14T14:43:03Z",
+            "open_issues": 1,
             "owner": "nlamirault",
             "repo": "magneto",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4306,12 +5926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a clone of the Mesos project. The main contribution is an implementation of virtual machine container inside the slave directory. My intention is to just fold the modified launcher and vm-container code into the Mesos project.",
+            "homepage": null,
             "id": 3938791,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2012-04-16T03:29:50Z",
+            "open_issues": 0,
             "owner": "charlescearl",
             "repo": "VirtualMesos",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4322,12 +5947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nix derivations to build Mesos clusters",
+            "homepage": null,
             "id": 50991375,
             "language": "Nix",
+            "license": null,
             "last_commit": "2016-10-11T13:49:29Z",
+            "open_issues": 0,
             "owner": "kamilchm",
             "repo": "nix-mesos",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4338,12 +5968,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "papi performance counters for mesos and cloud applications",
+            "homepage": null,
             "id": 78487982,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-01-10T02:31:25Z",
+            "open_issues": 4,
             "owner": "ct-clmsn",
             "repo": "mesos-papi",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cloud",
+              "cloud-computing",
+              "hardware-topology",
+              "mesos",
+              "numa",
+              "performance-counter",
+              "performance-counters"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4354,12 +5997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos-Spark Virtual machines",
+            "homepage": null,
             "id": 24092852,
             "language": "Shell",
+            "license": null,
             "last_commit": "2014-11-19T09:59:32Z",
+            "open_issues": 0,
             "owner": "ptorrestr",
             "repo": "mesos-spark",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4370,12 +6018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos cluster: Hadoop + Spark + R",
+            "homepage": null,
             "id": 20966722,
             "language": "Shell",
+            "license": null,
             "last_commit": "2014-06-22T13:32:31Z",
+            "open_issues": 0,
             "owner": "jayusor",
             "repo": "mesos",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4386,12 +6039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MesosCon 2015 Hackathon project to automatically scale AWS Mesos cluster size depending on cluster load",
+            "homepage": null,
             "id": 43949399,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-10-14T12:41:11Z",
+            "open_issues": 0,
             "owner": "datastrophic",
             "repo": "mesos-scaler-ec2",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4402,12 +6060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Few semi-automated tests of mesos in various network failure conditions ",
+            "homepage": null,
             "id": 29388321,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2015-02-10T19:32:30Z",
+            "open_issues": 0,
             "owner": "tailhook",
             "repo": "mesos-tests",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4418,12 +6081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesos scheduler for Replme",
+            "homepage": null,
             "id": 24922763,
             "language": "Clojure",
+            "license": "AGPL-3.0",
             "last_commit": "2014-10-29T03:13:13Z",
+            "open_issues": 0,
             "owner": "replme",
             "repo": "repl-mesos",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4434,12 +6102,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mirrors changes in Marathon to ServiceNet",
+            "homepage": null,
             "id": 20346846,
             "language": "Scala",
+            "license": null,
             "last_commit": "2014-06-06T20:36:41Z",
+            "open_issues": 7,
             "owner": "d2iq-archive",
             "repo": "service-bridge",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4450,12 +6126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chef-mesos",
+            "homepage": null,
             "id": 14923503,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2014-12-12T15:41:49Z",
+            "open_issues": 0,
             "owner": "JasonGiedymin",
             "repo": "chef-mesos",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4466,12 +6147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrating nerve with mesos",
+            "homepage": null,
             "id": 14332691,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2013-11-13T10:56:43Z",
+            "open_issues": 0,
             "owner": "ortoo",
             "repo": "mesos-nerve",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4482,12 +6168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts to generate and deploy Hashicorp Vault in a Docker container on Mesos using Zookeeper as the back end.",
+            "homepage": null,
             "id": 45641533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-11-23T06:02:25Z",
+            "open_issues": 0,
             "owner": "jmspring",
             "repo": "vault-on-mesos",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4498,12 +6189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple JIRA on Mesos",
+            "homepage": null,
             "id": 34821543,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2015-05-01T20:32:28Z",
+            "open_issues": 0,
             "owner": "elodina",
             "repo": "mesos-jira",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4514,12 +6210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modification of Mesos to run in client mode from AKAROS",
+            "homepage": null,
             "id": 19722575,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2014-05-13T02:10:20Z",
+            "open_issues": 0,
             "owner": "alfongj",
             "repo": "mesos-akaros",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4530,12 +6231,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools to run a mesos cluster under Vagrant or GCE",
+            "homepage": null,
             "id": 24227876,
             "language": "Shell",
+            "license": null,
             "last_commit": "2014-09-19T11:49:05Z",
+            "open_issues": 0,
             "owner": "smarthall",
             "repo": "packer-mesos",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         },
@@ -4546,12 +6252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to interact with RogerOS (roger-mesos)",
+            "homepage": null,
             "id": 52420584,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-02-27T16:28:32Z",
+            "open_issues": 2,
             "owner": "seomoz",
             "repo": "roger-mesos-tools",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
         }
@@ -4560,15 +6271,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:38:51.217Z",
+    "last_updated": "2026-08-29T04:43:59.144Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Everything about Apache Mesos",
+      "homepage": null,
       "id": 24783000,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2021-01-04T02:26:42Z",
+      "open_issues": 1,
       "owner": "dharmeshkakadia",
       "repo": "awesome-mesos",
-      "stars": 536
+      "stars": 536,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mesos"
+      ]
     },
     "original_repository_sha": "047320c2b59ece63ae0488ae94ef70b59348102d",
     "enhanced_repository": "enhansome/enhansome-mesos",
