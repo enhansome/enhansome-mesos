@@ -23,7 +23,7 @@
                     "open_issues": 370,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26301,
+                    "stars": 26302,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 116,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8210,
+                "stars": 8209,
                 "topics": [
                   "cron",
                   "database",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:59.144Z",
+    "last_updated": "2026-08-29T11:05:37.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",

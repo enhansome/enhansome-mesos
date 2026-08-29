@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,301 | 🐛 370 | 🌐 Java | 📅 2026-08-28
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,302 | 🐛 370 | 🌐 Java | 📅 2026-08-28
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,210 | 🐛 116 | 🌐 Java | 📅 2026-07-29
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,209 | 🐛 116 | 🌐 Java | 📅 2026-07-29
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,376 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 826 | 🐛 38 | 🌐 Java | 📅 2023-06-02
