@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T19:10:03Z",
-                    "open_issues": 372,
+                    "last_commit": "2026-08-30T14:14:19Z",
+                    "open_issues": 374,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26304,
+                    "stars": 26306,
                     "topics": [
                       "big-data",
                       "flink",
@@ -818,7 +818,7 @@
                 "open_issues": 7,
                 "owner": "mesos",
                 "repo": "cloudfoundry-mesos",
-                "stars": 106,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -1424,7 +1424,7 @@
                 "open_issues": 3,
                 "owner": "AgilData",
                 "repo": "mesos-docker-tutorial",
-                "stars": 71,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:56:39.470Z",
+    "last_updated": "2026-08-31T10:51:49.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",

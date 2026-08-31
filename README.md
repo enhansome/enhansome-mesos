@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,304 | 🐛 372 | 🌐 Java | 📅 2026-08-29
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,306 | 🐛 374 | 🌐 Java | 📅 2026-08-30
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -132,7 +132,7 @@ What can you expect to see here?
 * [Cook Scheduler](https://github.com/twosigma/Cook) ⚠️ Archived
 * [Myriad - Elastic YARN on Mesos](https://github.com/apache/incubator-myriad) ⭐ 155 | 🐛 20 | 🌐 Java | 📅 2026-05-15
 * [Metronome](https://github.com/dcos/metronome) ⭐ 112 | 🐛 29 | 🌐 Scala | 📅 2022-10-05
-* [CloudFoundry](https://github.com/mesos/cloudfoundry-mesos) ⭐ 106 | 🐛 7 | 🌐 Go | 📅 2016-03-01
+* [CloudFoundry](https://github.com/mesos/cloudfoundry-mesos) ⭐ 105 | 🐛 7 | 🌐 Go | 📅 2016-03-01
 * [Scale](https://github.com/ngageoint/scale) ⭐ 104 | 🐛 96 | 🌐 Python | 📅 2022-01-10
 * [Waiter - Runs, manages, and autoscales web services](https://github.com/twosigma/waiter) ⚠️ Archived
 * [Apache Aurora](http://aurora.incubator.apache.org/)
@@ -181,7 +181,7 @@ What can you expect to see here?
 * [Portainer](https://github.com/duedil-ltd/portainer) ⚠️ Archived - builds docker images using Mesos cluster
 * [Exelixi](https://github.com/ceteri/exelixi) ⚠️ Archived
 * [Bitcoin Miner](https://github.com/derekchiang/Mesos-Bitcoin-Miner) ⭐ 91 | 🐛 2 | 🌐 Go | 📅 2017-12-06
-* [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial) ⭐ 71 | 🐛 3 | 🌐 Java | 📅 2014-10-01
+* [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial) ⭐ 70 | 🐛 3 | 🌐 Java | 📅 2014-10-01
 * [Gozer](https://github.com/twitter/gozer) ⚠️ Archived - Prototype with low-level go API
 * [SSSP](https://github.com/mesosphere/sssp) ⭐ 60 | 🐛 4 | 🌐 Scala | 📅 2015-04-25
 * [Mesosaurus](https://github.com/mesosphere/mesosaurus) ⚠️ Archived
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
