@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,306 | 🐛 374 | 🌐 Java | 📅 2026-08-30
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,313 | 🐛 379 | 🌐 Java | 📅 2026-09-01
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -124,7 +124,7 @@ What can you expect to see here?
 ### Service/Meta Schedulers/ PaaS
 
 * [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,209 | 🐛 116 | 🌐 Java | 📅 2026-07-29
-* [Chronos](https://github.com/mesos/chronos) ⭐ 4,376 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
+* [Chronos](https://github.com/mesos/chronos) ⭐ 4,377 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 826 | 🐛 38 | 🌐 Java | 📅 2023-06-02
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos) ⚠️ Archived
@@ -197,7 +197,7 @@ What can you expect to see here?
 * [Logo Generator](https://github.com/remembertoplay/logo-generator) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-19
 * [Changes Mesos Framework](https://github.com/dropbox/changes-mesos-framework) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2016-11-05
 * [Example framework for Apache Mesos Essentials book](https://github.com/dharmeshkakadia/MonteCarloArea) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2017-07-03
-* [openvdc](https://github.com/axsh/openvdc) ⭐ 12 | 🐛 18 | 🌐 Go | 📅 2018-10-09
+* [openvdc](https://github.com/axsh/openvdc) ⭐ 13 | 🐛 18 | 🌐 Go | 📅 2018-10-09
 * [Charmander](https://github.com/att-innovate/charmander-scheduler) ⭐ 9 | 🐛 0 | 🌐 Protocol Buffer | 📅 2015-10-13
 * [Anagram Finder](https://github.com/mesosphere/ANAGRAMMER) ⚠️ Archived
 * [QoSon](https://github.com/akshshar/QoSon) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2015-08-24
@@ -221,7 +221,7 @@ What can you expect to see here?
 
 ## Language Bindings
 
-* [Go](https://github.com/mesos/mesos-go) ⭐ 540 | 🐛 46 | 🌐 Go | 📅 2021-08-05
+* [Go](https://github.com/mesos/mesos-go) ⭐ 539 | 🐛 46 | 🌐 Go | 📅 2021-08-05
   * [mesos-go-http](https://github.com/ondrej-smola/mesos-go-http) ⭐ 18 | 🐛 2 | 🌐 Go | 📅 2019-03-02 - HTTP Go
 * [JavaScript](https://github.com/tobilg/mesos-framework) ⚠️ Archived
 * [Haskell](https://github.com/iand675/hs-mesos) ⭐ 34 | 🐛 0 | 🌐 Haskell | 📅 2015-10-29
@@ -299,7 +299,7 @@ What can you expect to see here?
 * [Fig Mesos](https://github.com/breerly/fig-mesos) ⭐ 69 | 🐛 6 | 📅 2015-12-17
 * [Compose Mesos](https://github.com/dontrebootme/compose-mesos) ⚠️ Archived
 * [Mesoscope](https://github.com/schibsted/mesoscope) ⭐ 34 | 🐛 1 | 🌐 Shell | 📅 2016-09-18
-* [Docker Mesos](https://github.com/yaronr/docker-mesos) ⭐ 25 | 🐛 3 | 🌐 Shell | 📅 2014-09-09
+* [Docker Mesos](https://github.com/yaronr/docker-mesos) ⭐ 25 | 🐛 2 | 🌐 Shell | 📅 2014-09-09
 * [Mesos workshop](https://github.com/datastrophic/mesos-workshop) ⭐ 24 | 🐛 0 | 🌐 Scala | 📅 2016-06-13
 * [Mesos Docker containers](https://github.com/datastrophic/mesos-docker-containers) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2018-03-02
 
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,223 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 405 | 🌐 Python | 📅 2026-08-30
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 407 | 🌐 Python | 📅 2026-08-31
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
