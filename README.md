@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,313 | 🐛 379 | 🌐 Java | 📅 2026-09-01
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,318 | 🐛 381 | 🌐 Java | 📅 2026-09-02
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -124,7 +124,7 @@ What can you expect to see here?
 ### Service/Meta Schedulers/ PaaS
 
 * [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,209 | 🐛 116 | 🌐 Java | 📅 2026-07-29
-* [Chronos](https://github.com/mesos/chronos) ⭐ 4,377 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
+* [Chronos](https://github.com/mesos/chronos) ⭐ 4,375 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 826 | 🐛 38 | 🌐 Java | 📅 2023-06-02
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos) ⚠️ Archived
@@ -387,7 +387,7 @@ What can you expect to see here?
 * [Marathoner](https://github.com/bobrik/marathoner) ⭐ 26 | 🐛 1 | 🌐 Go | 📅 2015-08-25 - Service discovery in Marathon
 * [Ralph](https://github.com/bobrik/ralph) ⭐ 24 | 🐛 0 | 🌐 Go | 📅 2015-03-01
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery) ⚠️ Archived
-* [traefik](https://github.com/emilevauge/traefik) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-08-25
+* [traefik](https://github.com/emilevauge/traefik) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-09-01
 * [Sprinter](https://github.com/lasp-lang/sprinter) ⭐ 10 | 🐛 1 | 🌐 Erlang | 📅 2020-02-24
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo) ⭐ 5 | 🐛 2 | 🌐 Go | 📅 2019-03-19
 * [Surok](https://github.com/Difrex/surok) ⚠️ Archived
@@ -418,9 +418,9 @@ What can you expect to see here?
 
 ## Other projects and Integrations
 
-* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,223 | 🐛 294 | 🌐 Go | 📅 2023-09-02
+* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,222 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 407 | 🌐 Python | 📅 2026-08-31
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 407 | 🌐 Python | 📅 2026-09-01
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
