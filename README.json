@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T04:02:58Z",
-                    "open_issues": 381,
+                    "last_commit": "2026-09-03T06:45:34Z",
+                    "open_issues": 373,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26318,
+                    "stars": 26324,
                     "topics": [
                       "big-data",
                       "flink",
@@ -579,10 +579,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T11:01:30Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8209,
+                "stars": 8210,
                 "topics": [
                   "cron",
                   "database",
@@ -1293,7 +1293,7 @@
                 "open_issues": 15,
                 "owner": "d2iq-archive",
                 "repo": "RENDLER",
-                "stars": 243,
+                "stars": 242,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -2754,7 +2754,7 @@
                 "open_issues": 22,
                 "owner": "Netflix",
                 "repo": "Fenzo",
-                "stars": 699,
+                "stars": 698,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -3346,7 +3346,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2014-09-09T08:47:14Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "yaronr",
                 "repo": "docker-mesos",
                 "stars": 25,
@@ -4739,7 +4739,7 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T11:15:05Z",
+            "last_commit": "2026-09-03T08:07:18Z",
             "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
@@ -4955,7 +4955,7 @@
             "open_issues": 78,
             "owner": "d2iq-archive",
             "repo": "universe",
-            "stars": 308,
+            "stars": 307,
             "topics": [
               "dcos",
               "dcos-data-services-guild",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:46:59.184Z",
+    "last_updated": "2026-09-03T08:56:15.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
