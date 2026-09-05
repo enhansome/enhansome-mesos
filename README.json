@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T07:09:33Z",
-                    "open_issues": 378,
+                    "last_commit": "2026-09-04T16:19:32Z",
+                    "open_issues": 377,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26326,
+                    "stars": 26325,
                     "topics": [
                       "big-data",
                       "flink",
@@ -4739,7 +4739,7 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:07:18Z",
+            "last_commit": "2026-09-04T15:38:16Z",
             "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:51:04.069Z",
+    "last_updated": "2026-09-05T08:21:30.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
