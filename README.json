@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T07:17:54Z",
-                    "open_issues": 374,
+                    "last_commit": "2026-09-09T08:57:53Z",
+                    "open_issues": 377,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26324,
+                    "stars": 26323,
                     "topics": [
                       "big-data",
                       "flink",
@@ -613,7 +613,7 @@
                 "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4374,
+                "stars": 4373,
                 "topics": [
                   "chronos",
                   "chronos-scheduler",
@@ -4739,11 +4739,11 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T08:45:36Z",
+            "last_commit": "2026-09-08T09:03:52Z",
             "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1729,
+            "stars": 1730,
             "topics": [
               "docker",
               "infrastructure",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:52:12.947Z",
+    "last_updated": "2026-09-09T08:58:01.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
