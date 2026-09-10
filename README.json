@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T08:57:53Z",
-                    "open_issues": 377,
+                    "last_commit": "2026-09-10T08:44:58Z",
+                    "open_issues": 368,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26323,
+                    "stars": 26327,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 117,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8210,
+                "stars": 8209,
                 "topics": [
                   "cron",
                   "database",
@@ -613,7 +613,7 @@
                 "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4373,
+                "stars": 4374,
                 "topics": [
                   "chronos",
                   "chronos-scheduler",
@@ -670,7 +670,7 @@
                 "open_issues": 38,
                 "owner": "HubSpot",
                 "repo": "Singularity",
-                "stars": 826,
+                "stars": 827,
                 "topics": [
                   "mesos"
                 ]
@@ -4270,7 +4270,7 @@
             "open_issues": 21,
             "owner": "allegro",
             "repo": "marathon-consul",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "consul",
               "discovery",
@@ -4722,7 +4722,7 @@
             "open_issues": 167,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2973,
+            "stars": 2972,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:58:01.103Z",
+    "last_updated": "2026-09-10T08:57:04.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
