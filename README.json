@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T08:44:58Z",
-                    "open_issues": 368,
+                    "last_commit": "2026-09-10T17:09:48Z",
+                    "open_issues": 365,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26327,
+                    "stars": 26331,
                     "topics": [
                       "big-data",
                       "flink",
@@ -578,8 +578,8 @@
                 "id": 42304749,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-29T11:01:30Z",
-                "open_issues": 117,
+                "last_commit": "2026-09-11T01:49:24Z",
+                "open_issues": 116,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
                 "stars": 8209,
@@ -613,7 +613,7 @@
                 "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4374,
+                "stars": 4373,
                 "topics": [
                   "chronos",
                   "chronos-scheduler",
@@ -2245,7 +2245,7 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Scala API for Mesos",
             "homepage": null,
             "id": 63935564,
@@ -4739,11 +4739,11 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T09:03:52Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-10T11:49:19Z",
+            "open_issues": 110,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "docker",
               "infrastructure",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:57:04.079Z",
+    "last_updated": "2026-09-11T08:55:08.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
