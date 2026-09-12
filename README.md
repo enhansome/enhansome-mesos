@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,331 | 🐛 365 | 🌐 Java | 📅 2026-09-10
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,333 | 🐛 366 | 🌐 Java | 📅 2026-09-11
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 110 | 🌐 Python | 📅 2026-09-10
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 111 | 🌐 Python | 📅 2026-09-11
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 200 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
