@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,333 | 🐛 368 | 🌐 Java | 📅 2026-09-11
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,334 | 🐛 369 | 🌐 Java | 📅 2026-09-14
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -241,7 +241,7 @@ What can you expect to see here?
   * [Python HTTP](https://github.com/osallou/python-mesos-http) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2020-12-16
   * [Pymesos](https://github.com/dangra/pymesos) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2014-09-11
 * Clojure
-  * [mesomatic](https://github.com/pyr/mesomatic) ⭐ 70 | 🐛 11 | 🌐 Clojure | 📅 2018-07-13
+  * [mesomatic](https://github.com/pyr/mesomatic) ⭐ 71 | 🐛 11 | 🌐 Clojure | 📅 2018-07-13
   * [Clojure](https://github.com/dgrnbrg/clj-mesos) ⭐ 30 | 🐛 2 | 🌐 Clojure | 📅 2015-11-05
 
 ## Tools
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

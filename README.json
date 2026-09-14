@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T19:10:47Z",
-                    "open_issues": 368,
+                    "last_commit": "2026-09-14T09:15:08Z",
+                    "open_issues": 369,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26333,
+                    "stars": 26334,
                     "topics": [
                       "big-data",
                       "flink",
@@ -2499,7 +2499,7 @@
                 "open_issues": 11,
                 "owner": "clojusc",
                 "repo": "mesomatic",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "apache-projects",
                   "clojure",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:34:06.035Z",
+    "last_updated": "2026-09-14T09:52:01.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
