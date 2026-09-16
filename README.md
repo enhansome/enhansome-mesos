@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,334 | 🐛 369 | 🌐 Java | 📅 2026-09-14
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,337 | 🐛 371 | 🌐 Java | 📅 2026-09-16
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,209 | 🐛 116 | 🌐 Java | 📅 2026-09-11
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,207 | 🐛 116 | 🌐 Java | 📅 2026-09-11
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,373 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 827 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 111 | 🌐 Python | 📅 2026-09-11
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 111 | 🌐 Python | 📅 2026-09-15
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 200 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -418,7 +418,7 @@ What can you expect to see here?
 
 ## Other projects and Integrations
 
-* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,222 | 🐛 294 | 🌐 Go | 📅 2023-09-02
+* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,221 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
 * [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 407 | 🌐 Python | 📅 2026-09-03
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
