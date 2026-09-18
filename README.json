@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T07:59:18Z",
-                    "open_issues": 373,
+                    "last_commit": "2026-09-18T02:36:51Z",
+                    "open_issues": 382,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26337,
+                    "stars": 26342,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 116,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8207,
+                "stars": 8206,
                 "topics": [
                   "cron",
                   "database",
@@ -4419,7 +4419,7 @@
             "id": 101048096,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T13:36:23Z",
+            "last_commit": "2026-09-17T14:52:00Z",
             "open_issues": 1,
             "owner": "emilevauge",
             "repo": "traefik",
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T08:48:01Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-18T08:37:46Z",
+            "open_issues": 110,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1731,
@@ -4814,7 +4814,7 @@
             "open_issues": 3,
             "owner": "eBayClassifiedsGroup",
             "repo": "PanteraS",
-            "stars": 200,
+            "stars": 199,
             "topics": [
               "consul",
               "docker",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:26:46.796Z",
+    "last_updated": "2026-09-18T09:01:03.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
@@ -6283,7 +6283,7 @@
       "open_issues": 1,
       "owner": "dharmeshkakadia",
       "repo": "awesome-mesos",
-      "stars": 536,
+      "stars": 535,
       "topics": [
         "awesome",
         "awesome-list",

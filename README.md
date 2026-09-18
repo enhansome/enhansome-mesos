@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,337 | 🐛 373 | 🌐 Java | 📅 2026-09-17
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,342 | 🐛 382 | 🌐 Java | 📅 2026-09-18
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,207 | 🐛 116 | 🌐 Java | 📅 2026-09-11
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,206 | 🐛 116 | 🌐 Java | 📅 2026-09-11
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,373 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 827 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -387,7 +387,7 @@ What can you expect to see here?
 * [Marathoner](https://github.com/bobrik/marathoner) ⭐ 26 | 🐛 1 | 🌐 Go | 📅 2015-08-25 - Service discovery in Marathon
 * [Ralph](https://github.com/bobrik/ralph) ⭐ 24 | 🐛 0 | 🌐 Go | 📅 2015-03-01
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery) ⚠️ Archived
-* [traefik](https://github.com/emilevauge/traefik) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-09-03
+* [traefik](https://github.com/emilevauge/traefik) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-09-17
 * [Sprinter](https://github.com/lasp-lang/sprinter) ⭐ 10 | 🐛 1 | 🌐 Erlang | 📅 2020-02-24
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo) ⭐ 5 | 🐛 2 | 🌐 Go | 📅 2019-03-19
 * [Surok](https://github.com/Difrex/surok) ⚠️ Archived
@@ -407,10 +407,10 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 111 | 🌐 Python | 📅 2026-09-17
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 110 | 🌐 Python | 📅 2026-09-18
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
-* [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 200 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
+* [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
 * [Compute platform](https://github.com/sttts/compute-platform) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2015-06-17
 * [DC/OS](https://dcos.io/)
 * [Vamp](http://vamp.io/) - The Very Awesome Microservices Platform
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
