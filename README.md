@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,342 | 🐛 382 | 🌐 Java | 📅 2026-09-18
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,342 | 🐛 374 | 🌐 Java | 📅 2026-09-19
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -144,7 +144,7 @@ What can you expect to see here?
 
 ### Continuous Integration
 
-* [Jenkins](https://github.com/jenkinsci/mesos-plugin) ⭐ 289 | 🐛 2 | 🌐 Java | 📅 2024-08-09 and [Jenkins](https://github.com/mesosphere/jenkins-mesos) ⚠️ Archived
+* [Jenkins](https://github.com/jenkinsci/mesos-plugin) ⭐ 288 | 🐛 2 | 🌐 Java | 📅 2024-08-09 and [Jenkins](https://github.com/mesosphere/jenkins-mesos) ⚠️ Archived
 * [Teamcity Plugin](https://github.com/ankurcha/mesos-teamcity-plugin) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2014-11-17
 * [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 
@@ -283,7 +283,7 @@ What can you expect to see here?
 ### Vagrant based setups
 
 * [Playa Mesos](https://github.com/mesosphere/playa-mesos) ⚠️ Archived
-* [Vagrant Mesos](https://github.com/everpeace/vagrant-mesos) ⭐ 429 | 🐛 22 | 🌐 Ruby | 📅 2016-06-15
+* [Vagrant Mesos](https://github.com/everpeace/vagrant-mesos) ⭐ 428 | 🐛 22 | 🌐 Ruby | 📅 2016-06-15
 * [Vagrant Mesos](https://github.com/ahunnargikar/vagrant-mesos) ⭐ 122 | 🐛 5 | 🌐 Shell | 📅 2014-07-14
 * [Using Atlas](https://github.com/Banno/vagrant-mesos) ⚠️ Archived
 * [Mesos CentOS](https://github.com/rasputnik/mesos-centos) ⭐ 7 | 🐛 2 | 🌐 Shell | 📅 2020-02-18
@@ -408,7 +408,7 @@ What can you expect to see here?
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
 * [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 110 | 🌐 Python | 📅 2026-09-18
-* [Apollo](https://github.com/Capgemini/Apollo) ⭐ 718 | 🐛 84 | 🌐 Python | 📅 2021-12-03
+* [Apollo](https://github.com/Capgemini/Apollo) ⭐ 717 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
 * [Compute platform](https://github.com/sttts/compute-platform) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2015-06-17
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

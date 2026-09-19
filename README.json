@@ -19,8 +19,8 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T02:36:51Z",
-                    "open_issues": 382,
+                    "last_commit": "2026-09-19T03:51:42Z",
+                    "open_issues": 374,
                     "owner": "apache",
                     "repo": "flink",
                     "stars": 26342,
@@ -956,7 +956,7 @@
                 "open_issues": 2,
                 "owner": "jenkinsci",
                 "repo": "mesos-plugin",
-                "stars": 289,
+                "stars": 288,
                 "topics": [
                   "cloud",
                   "cluster-management",
@@ -3045,7 +3045,7 @@
                 "open_issues": 5,
                 "owner": "d2iq-archive",
                 "repo": "playa-mesos",
-                "stars": 436,
+                "stars": 435,
                 "topics": [
                   "dcos",
                   "dcos-compute-guild"
@@ -3069,7 +3069,7 @@
                 "open_issues": 22,
                 "owner": "everpeace",
                 "repo": "vagrant-mesos",
-                "stars": 429,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4739,7 +4739,7 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T08:37:46Z",
+            "last_commit": "2026-09-18T21:05:53Z",
             "open_issues": 110,
             "owner": "Yelp",
             "repo": "paasta",
@@ -4772,7 +4772,7 @@
             "open_issues": 84,
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 718,
+            "stars": 717,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:01:03.588Z",
+    "last_updated": "2026-09-19T08:48:06.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
