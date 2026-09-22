@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,351 | 🐛 383 | 🌐 Java | 📅 2026-09-21
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,355 | 🐛 382 | 🌐 Java | 📅 2026-09-21
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,206 | 🐛 117 | 🌐 Java | 📅 2026-09-20
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,205 | 🐛 118 | 🌐 Java | 📅 2026-09-20
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,373 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 827 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -377,7 +377,7 @@ What can you expect to see here?
 
 ## Service discovery and Load balancing
 
-* [Bamboo](https://github.com/QubitProducts/bamboo) ⭐ 793 | 🐛 44 | 🌐 Go | 📅 2017-09-28 - Automatically configuring HAProxy for Mesos+Marathon
+* [Bamboo](https://github.com/QubitProducts/bamboo) ⚠️ Archived - Automatically configuring HAProxy for Mesos+Marathon
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns) ⚠️ Archived
 * [Mesos-Consul](https://github.com/CiscoCloud/mesos-consul) ⚠️ Archived and [Service Discovery & Orchestration With Mesos and Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
 * [Marathon-Consul](https://github.com/allegro/marathon-consul) ⭐ 200 | 🐛 21 | 🌐 Go | 📅 2025-10-29 - Register Marathon Tasks as Consul Services for service discovery.
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 110 | 🌐 Python | 📅 2026-09-18
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,731 | 🐛 110 | 🌐 Python | 📅 2026-09-22
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 717 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,221 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 407 | 🌐 Python | 📅 2026-09-16
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 409 | 🌐 Python | 📅 2026-09-16
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-21T08:15:56Z",
-                    "open_issues": 383,
+                    "last_commit": "2026-09-21T19:55:53Z",
+                    "open_issues": 382,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26351,
+                    "stars": 26355,
                     "topics": [
                       "big-data",
                       "flink",
@@ -579,10 +579,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T15:33:53Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8206,
+                "stars": 8205,
                 "topics": [
                   "cron",
                   "database",
@@ -4191,7 +4191,7 @@
           "description": "Automatically configuring HAProxy for Mesos+Marathon",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "HAProxy auto configuration and auto service discovery for Mesos Marathon",
             "homepage": null,
             "id": 23346910,
@@ -4739,7 +4739,7 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:05:53Z",
+            "last_commit": "2026-09-22T09:07:28Z",
             "open_issues": 110,
             "owner": "Yelp",
             "repo": "paasta",
@@ -4897,7 +4897,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T21:11:37Z",
-            "open_issues": 407,
+            "open_issues": 409,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:56:27.764Z",
+    "last_updated": "2026-09-22T09:18:13.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
