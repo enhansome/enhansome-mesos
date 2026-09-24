@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,359 | 🐛 379 | 🌐 Java | 📅 2026-09-22
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,358 | 🐛 376 | 🌐 Java | 📅 2026-09-24
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -70,7 +70,7 @@ What can you expect to see here?
 
 * [Heron](https://github.com/twitter/heron) ⚠️ Archived
 * [Apache Storm](https://github.com/mesos/storm) ⭐ 140 | 🐛 27 | 🌐 Java | 📅 2021-08-17
-* [Fabric](https://github.com/olacabs/fabric) ⭐ 57 | 🐛 7 | 🌐 Java | 📅 2023-04-13
+* [Fabric](https://github.com/olacabs/fabric) ⭐ 56 | 🐛 7 | 🌐 Java | 📅 2023-04-13
 * [Samza](https://github.com/Banno/samza-mesos) ⚠️ Archived
 
 ### Storage and Serving
@@ -181,7 +181,7 @@ What can you expect to see here?
 * [Portainer](https://github.com/duedil-ltd/portainer) ⚠️ Archived - builds docker images using Mesos cluster
 * [Exelixi](https://github.com/ceteri/exelixi) ⚠️ Archived
 * [Bitcoin Miner](https://github.com/derekchiang/Mesos-Bitcoin-Miner) ⭐ 91 | 🐛 2 | 🌐 Go | 📅 2017-12-06
-* [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial) ⭐ 70 | 🐛 3 | 🌐 Java | 📅 2014-10-01
+* [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial) ⭐ 71 | 🐛 3 | 🌐 Java | 📅 2014-10-01
 * [Gozer](https://github.com/twitter/gozer) ⚠️ Archived - Prototype with low-level go API
 * [SSSP](https://github.com/mesosphere/sssp) ⭐ 60 | 🐛 4 | 🌐 Scala | 📅 2015-04-25
 * [Mesosaurus](https://github.com/mesosphere/mesosaurus) ⚠️ Archived
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,732 | 🐛 111 | 🌐 Python | 📅 2026-09-22
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,733 | 🐛 111 | 🌐 Python | 📅 2026-09-24
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 717 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,221 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 408 | 🌐 Python | 📅 2026-09-16
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 406 | 🌐 Python | 📅 2026-09-23
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
