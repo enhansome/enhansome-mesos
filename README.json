@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T08:34:15Z",
-                    "open_issues": 377,
+                    "last_commit": "2026-09-25T17:44:57Z",
+                    "open_issues": 375,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26361,
+                    "stars": 26367,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 124,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8206,
+                "stars": 8205,
                 "topics": [
                   "cron",
                   "database",
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T21:59:10Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-25T18:11:57Z",
+            "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1733,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:36:40.460Z",
+    "last_updated": "2026-09-26T09:21:10.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
