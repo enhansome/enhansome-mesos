@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Flink",
-                  "description": null,
+                  "description": "apache/flink",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -19,8 +19,8 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T09:53:53Z",
-                    "open_issues": 381,
+                    "last_commit": "2026-10-03T04:09:46Z",
+                    "open_issues": 383,
                     "owner": "apache",
                     "repo": "flink",
                     "stars": 26378,
@@ -38,7 +38,7 @@
                 {
                   "node_type": "item",
                   "title": "Dpark",
-                  "description": null,
+                  "description": "douban/dpark",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -66,7 +66,7 @@
                 {
                   "node_type": "item",
                   "title": "Apache Hadoop",
-                  "description": null,
+                  "description": "mesos/hadoop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -94,7 +94,7 @@
                 {
                   "node_type": "item",
                   "title": "Heron",
-                  "description": null,
+                  "description": "apache/incubator-heron",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -107,7 +107,7 @@
                     "open_issues": 409,
                     "owner": "apache",
                     "repo": "incubator-heron",
-                    "stars": 3623,
+                    "stars": 3624,
                     "topics": [
                       "heron",
                       "messaging",
@@ -119,7 +119,7 @@
                 {
                   "node_type": "item",
                   "title": "Apache Storm",
-                  "description": null,
+                  "description": "mesos/storm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -144,7 +144,7 @@
                 {
                   "node_type": "item",
                   "title": "Fabric",
-                  "description": null,
+                  "description": "olacabs/fabric",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -165,7 +165,7 @@
                 {
                   "node_type": "item",
                   "title": "Samza",
-                  "description": null,
+                  "description": "Banno/samza-mesos",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "Apache Kafka",
-              "description": null,
+              "description": "mesos/kafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -219,7 +219,7 @@
             {
               "node_type": "item",
               "title": "ElasticSearch",
-              "description": null,
+              "description": "mesos/elasticsearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -240,7 +240,7 @@
             {
               "node_type": "item",
               "title": "Apache Cassandra",
-              "description": null,
+              "description": "mesosphere-backup/cassandra-mesos-deprecated",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "MrRedis - Mesos runs Redis",
-              "description": null,
+              "description": "mesos/mr-redis",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -310,7 +310,7 @@
             {
               "node_type": "item",
               "title": "Tachyon",
-              "description": null,
+              "description": "d2iq-archive/tachyon-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -334,7 +334,7 @@
             {
               "node_type": "item",
               "title": "Crate",
-              "description": null,
+              "description": "crate/crate-mesos-framework",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -355,7 +355,7 @@
             {
               "node_type": "item",
               "title": "Apache Accumulo",
-              "description": null,
+              "description": "aredee/accumulo-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "Riak",
-              "description": null,
+              "description": "basho-labs/riak-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,7 +397,7 @@
             {
               "node_type": "item",
               "title": "DataStax",
-              "description": null,
+              "description": "elodina/datastax-enterprise-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "Apache Drill",
-              "description": null,
+              "description": "mhausenblas/dromedar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -439,7 +439,7 @@
             {
               "node_type": "item",
               "title": "Phoenix",
-              "description": null,
+              "description": "stealthly/phoenix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -460,7 +460,7 @@
             {
               "node_type": "item",
               "title": "Kafaka -> Cassandra mirroring",
-              "description": null,
+              "description": "elodina/stockpile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -481,7 +481,7 @@
             {
               "node_type": "item",
               "title": "Kafka client",
-              "description": null,
+              "description": "elodina/go-kafka-client-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,7 +502,7 @@
             {
               "node_type": "item",
               "title": "Hemlock",
-              "description": null,
+              "description": "spacejam/hemlock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,7 +530,7 @@
             {
               "node_type": "item",
               "title": "TensorFlow",
-              "description": null,
+              "description": "douban/tfmesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -569,7 +569,7 @@
             {
               "node_type": "item",
               "title": "ElasticJob",
-              "description": null,
+              "description": "apache/shardingsphere-elasticjob",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,7 +600,7 @@
             {
               "node_type": "item",
               "title": "Chronos",
-              "description": null,
+              "description": "mesos/chronos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,7 +633,7 @@
             {
               "node_type": "item",
               "title": "Marathon",
-              "description": null,
+              "description": "d2iq-archive/marathon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -657,7 +657,7 @@
             {
               "node_type": "item",
               "title": "Singularity",
-              "description": null,
+              "description": "HubSpot/Singularity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -680,7 +680,7 @@
             {
               "node_type": "item",
               "title": "Kubernetes",
-              "description": null,
+              "description": "d2iq-archive/kubernetes-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "Swan",
-              "description": null,
+              "description": "Dataman-Cloud/swan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -730,7 +730,7 @@
             {
               "node_type": "item",
               "title": "Cook Scheduler",
-              "description": null,
+              "description": "twosigma/Cook",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Myriad - Elastic YARN on Mesos",
-              "description": null,
+              "description": "apache/incubator-myriad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -781,7 +781,7 @@
             {
               "node_type": "item",
               "title": "Metronome",
-              "description": null,
+              "description": "dcos/metronome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "CloudFoundry",
-              "description": null,
+              "description": "mesos/cloudfoundry-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "Scale",
-              "description": null,
+              "description": "ngageoint/scale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -852,7 +852,7 @@
             {
               "node_type": "item",
               "title": "Waiter - Runs, manages, and autoscales web services",
-              "description": null,
+              "description": "twosigma/waiter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "Etcd",
-              "description": null,
+              "description": "mesosphere-backup/etcd-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -968,7 +968,7 @@
             {
               "node_type": "item",
               "title": "Teamcity Plugin",
-              "description": null,
+              "description": "ankurcha/mesos-teamcity-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -996,7 +996,7 @@
             {
               "node_type": "item",
               "title": "Eremetic",
-              "description": null,
+              "description": "eremetic-framework/eremetic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1017,7 +1017,7 @@
             {
               "node_type": "item",
               "title": "R scripts",
-              "description": null,
+              "description": "MohamedBassem/r-cluster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1049,7 +1049,7 @@
             {
               "node_type": "item",
               "title": "Zipkin",
-              "description": null,
+              "description": "elodina/zipkin-mesos-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1077,7 +1077,7 @@
             {
               "node_type": "item",
               "title": "Logstash",
-              "description": null,
+              "description": "mesos/logstash",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1098,7 +1098,7 @@
             {
               "node_type": "item",
               "title": "Kibana",
-              "description": null,
+              "description": "mesos/kibana",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,7 +1119,7 @@
             {
               "node_type": "item",
               "title": "Mesos slave metrics -> Kafka",
-              "description": null,
+              "description": "elodina/syscol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1140,7 +1140,7 @@
             {
               "node_type": "item",
               "title": "Construct - Deploy a single task on all agents of the cluster",
-              "description": null,
+              "description": "ContainerSolutions/construct",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1210,7 +1210,7 @@
             {
               "node_type": "item",
               "title": "Hydra",
-              "description": null,
+              "description": "lake-lerna/hydra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1231,7 +1231,7 @@
             {
               "node_type": "item",
               "title": "YCSB",
-              "description": null,
+              "description": "yanglei99/YCSB_Mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1280,7 +1280,7 @@
             {
               "node_type": "item",
               "title": "RENDLER",
-              "description": null,
+              "description": "d2iq-archive/RENDLER",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1304,7 +1304,7 @@
             {
               "node_type": "item",
               "title": "Volt",
-              "description": null,
+              "description": "VoltFramework/volt",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1325,7 +1325,7 @@
             {
               "node_type": "item",
               "title": "Amazon ECS Integration (proof-of-concept)",
-              "description": null,
+              "description": "amazon-archives/ecs-mesos-scheduler-driver",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1369,7 +1369,7 @@
             {
               "node_type": "item",
               "title": "Exelixi",
-              "description": null,
+              "description": "ceteri/exelixi",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1390,7 +1390,7 @@
             {
               "node_type": "item",
               "title": "Bitcoin Miner",
-              "description": null,
+              "description": "derekchiang/Mesos-Bitcoin-Miner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "Example Mesos framework in Java to launch Docker containers",
-              "description": null,
+              "description": "AgilData/mesos-docker-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1453,7 +1453,7 @@
             {
               "node_type": "item",
               "title": "SSSP",
-              "description": null,
+              "description": "mesosphere-backup/sssp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1474,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "Mesosaurus",
-              "description": null,
+              "description": "d2iq-archive/mesosaurus",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1498,7 +1498,7 @@
             {
               "node_type": "item",
               "title": "OwlCrawler",
-              "description": null,
+              "description": "fmpwizard/owlcrawler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1519,7 +1519,7 @@
             {
               "node_type": "item",
               "title": "Elastic Sentiment Analysis",
-              "description": null,
+              "description": "mhausenblas/elsa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1540,7 +1540,7 @@
             {
               "node_type": "item",
               "title": "Satyr",
-              "description": null,
+              "description": "daskos/mentor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "MPI",
-              "description": null,
+              "description": "mesosphere-backup/mesos-hydra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1589,7 +1589,7 @@
             {
               "node_type": "item",
               "title": "distcc",
-              "description": null,
+              "description": "mesos/mesos-distcc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1610,7 +1610,7 @@
             {
               "node_type": "item",
               "title": "Example Python Framework",
-              "description": null,
+              "description": "tarnfeld/mesos-python-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1631,7 +1631,7 @@
             {
               "node_type": "item",
               "title": "ScaleIO",
-              "description": null,
+              "description": "thecodeteam/scaleio-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1663,7 +1663,7 @@
             {
               "node_type": "item",
               "title": "Retz",
-              "description": null,
+              "description": "retz/retz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1688,7 +1688,7 @@
             {
               "node_type": "item",
               "title": "pinspider",
-              "description": null,
+              "description": "SwathiMystery/mesos-pinspider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1715,7 +1715,7 @@
             {
               "node_type": "item",
               "title": "Logo Generator",
-              "description": null,
+              "description": "remembertoplay/logo-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1736,7 +1736,7 @@
             {
               "node_type": "item",
               "title": "Changes Mesos Framework",
-              "description": null,
+              "description": "dropbox/changes-mesos-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1757,7 +1757,7 @@
             {
               "node_type": "item",
               "title": "Example framework for Apache Mesos Essentials book",
-              "description": null,
+              "description": "dharmeshkakadia/MonteCarloArea",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1780,7 +1780,7 @@
             {
               "node_type": "item",
               "title": "openvdc",
-              "description": null,
+              "description": "axsh/openvdc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1808,7 +1808,7 @@
             {
               "node_type": "item",
               "title": "Charmander",
-              "description": null,
+              "description": "att-innovate/charmander-scheduler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1829,7 +1829,7 @@
             {
               "node_type": "item",
               "title": "Anagram Finder",
-              "description": null,
+              "description": "d2iq-archive/ANAGRAMMER",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1853,7 +1853,7 @@
             {
               "node_type": "item",
               "title": "QoSon",
-              "description": null,
+              "description": "akshshar/QoSon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1874,7 +1874,7 @@
             {
               "node_type": "item",
               "title": "JobTree",
-              "description": null,
+              "description": "kellrott/jobTree-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1895,7 +1895,7 @@
             {
               "node_type": "item",
               "title": "Jetty",
-              "description": null,
+              "description": "guenter/jetty-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1916,7 +1916,7 @@
             {
               "node_type": "item",
               "title": "Autoscaling",
-              "description": null,
+              "description": "sammyas/autoscaling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1937,7 +1937,7 @@
             {
               "node_type": "item",
               "title": "Checkswarm",
-              "description": null,
+              "description": "mbabineau/checkswarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1958,7 +1958,7 @@
             {
               "node_type": "item",
               "title": "Clojure Example",
-              "description": null,
+              "description": "edpaget/hello-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1979,7 +1979,7 @@
             {
               "node_type": "item",
               "title": "Inverse Offer Example Framework",
-              "description": null,
+              "description": "kaysoky/InverseOfferExampleFramework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2000,7 +2000,7 @@
             {
               "node_type": "item",
               "title": "SearchYA - simple distributed textual search engine",
-              "description": null,
+              "description": "dulikvor/SearchYA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2028,7 +2028,7 @@
             {
               "node_type": "item",
               "title": "Sun Grid Engine",
-              "description": null,
+              "description": "kellrott/grid-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +2049,7 @@
             {
               "node_type": "item",
               "title": "Wraxl",
-              "description": null,
+              "description": "kscherer/wraxl-scheduler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2070,7 +2070,7 @@
             {
               "node_type": "item",
               "title": "rexe - Remote Execution tool for Mesos",
-              "description": null,
+              "description": "skytix-dev/rexe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2094,7 +2094,7 @@
             {
               "node_type": "item",
               "title": "Closest-pairs in 2D with divide-and-conquer",
-              "description": null,
+              "description": "chenlily/closest-pair",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2126,7 +2126,7 @@
         {
           "node_type": "item",
           "title": "Go",
-          "description": null,
+          "description": "mesos/mesos-go",
           "children": [
             {
               "node_type": "item",
@@ -2174,7 +2174,7 @@
         {
           "node_type": "item",
           "title": "JavaScript",
-          "description": null,
+          "description": "tobilg/mesos-framework",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2200,7 +2200,7 @@
         {
           "node_type": "item",
           "title": "Haskell",
-          "description": null,
+          "description": "iand675/hs-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2242,7 +2242,7 @@
         {
           "node_type": "item",
           "title": "Scala",
-          "description": null,
+          "description": "nokia/mesos-scala-api",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2263,7 +2263,7 @@
         {
           "node_type": "item",
           "title": "Ruby",
-          "description": null,
+          "description": "burke/mesos-ruby",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2284,7 +2284,7 @@
         {
           "node_type": "item",
           "title": "CLR",
-          "description": null,
+          "description": "bcrusu/mesos-net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2308,7 +2308,7 @@
         {
           "node_type": "item",
           "title": "Perl",
-          "description": null,
+          "description": "mark-5/perl-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2331,7 +2331,7 @@
         {
           "node_type": "item",
           "title": "Rust",
-          "description": null,
+          "description": "iron-oxide/mesos-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2357,7 +2357,7 @@
             {
               "node_type": "item",
               "title": "RxJava",
-              "description": null,
+              "description": "d2iq-archive/mesos-rxjava",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2433,7 +2433,7 @@
             {
               "node_type": "item",
               "title": "Python HTTP",
-              "description": null,
+              "description": "osallou/python-mesos-http",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2458,7 +2458,7 @@
             {
               "node_type": "item",
               "title": "Pymesos",
-              "description": null,
+              "description": "dangra/pymesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2486,7 +2486,7 @@
             {
               "node_type": "item",
               "title": "mesomatic",
-              "description": null,
+              "description": "clojusc/mesomatic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2513,7 +2513,7 @@
             {
               "node_type": "item",
               "title": "Clojure",
-              "description": null,
+              "description": "dgrnbrg/clj-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2544,7 +2544,7 @@
             {
               "node_type": "item",
               "title": "Mesos UI",
-              "description": null,
+              "description": "Capgemini/mesos-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2565,7 +2565,7 @@
             {
               "node_type": "item",
               "title": "Simple Mesos Dasboard",
-              "description": null,
+              "description": "bspaans/simple-mesos-dashboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2586,7 +2586,7 @@
             {
               "node_type": "item",
               "title": "Mesos Visualizer",
-              "description": null,
+              "description": "Clever/mesos-visualizer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2607,7 +2607,7 @@
             {
               "node_type": "item",
               "title": "Mesos UI",
-              "description": null,
+              "description": "triforkse/mesos-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2635,7 +2635,7 @@
             {
               "node_type": "item",
               "title": "Example repository for creating Mesos modules",
-              "description": null,
+              "description": "mesos/modules",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2666,7 +2666,7 @@
             {
               "node_type": "item",
               "title": "Xcode Workspace for Apache Mesos",
-              "description": null,
+              "description": "tillt/xcode-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2687,7 +2687,7 @@
             {
               "node_type": "item",
               "title": "Windows support for Mesos",
-              "description": null,
+              "description": "microsoft/mesos-log",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2713,7 +2713,7 @@
             {
               "node_type": "item",
               "title": "Docker image for Mesos modules",
-              "description": null,
+              "description": "bwplotka/mesos-modules-dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2741,7 +2741,7 @@
             {
               "node_type": "item",
               "title": "Fenzo - Cross framework pluggable task scheduling library",
-              "description": null,
+              "description": "Netflix/Fenzo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2762,7 +2762,7 @@
             {
               "node_type": "item",
               "title": "mini-mesos - Testing infrastructure for Mesos frameworks",
-              "description": null,
+              "description": "ContainerSolutions/minimesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2789,7 +2789,7 @@
             {
               "node_type": "item",
               "title": "Customizable Mesos Executor",
-              "description": null,
+              "description": "allegro/mesos-executor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2815,7 +2815,7 @@
             {
               "node_type": "item",
               "title": "Spring Boot starter for Mesos",
-              "description": null,
+              "description": "ContainerSolutions/mesos-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2836,7 +2836,7 @@
             {
               "node_type": "item",
               "title": "Akka Mesos",
-              "description": null,
+              "description": "drexin/akka-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2857,7 +2857,7 @@
             {
               "node_type": "item",
               "title": "Write a Scala Mesos Framework in 7 Steps",
-              "description": null,
+              "description": "d2iq-archive/scala-sbt-mesos-framework.g8",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2881,7 +2881,7 @@
             {
               "node_type": "item",
               "title": "JavaScript framework boilerplate",
-              "description": null,
+              "description": "tobilg/mesos-framework-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2910,7 +2910,7 @@
             {
               "node_type": "item",
               "title": "Go-Mesos-Utils",
-              "description": null,
+              "description": "elodina/go-mesos-utils",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2931,7 +2931,7 @@
             {
               "node_type": "item",
               "title": "Mesos State Backed Collections",
-              "description": null,
+              "description": "d2iq-archive/mesos-state-backed-collections",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2955,7 +2955,7 @@
             {
               "node_type": "item",
               "title": "Mesos Go Stateful",
-              "description": null,
+              "description": "huawei-cloudfederation/mesos-go-stateful",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2983,7 +2983,7 @@
             {
               "node_type": "item",
               "title": "mesosctl",
-              "description": null,
+              "description": "mesoshq/mesosctl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3004,7 +3004,7 @@
             {
               "node_type": "item",
               "title": "mesos-tail",
-              "description": null,
+              "description": "felixb/mesos-tail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3032,7 +3032,7 @@
             {
               "node_type": "item",
               "title": "Playa Mesos",
-              "description": null,
+              "description": "d2iq-archive/playa-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3045,7 +3045,7 @@
                 "open_issues": 5,
                 "owner": "d2iq-archive",
                 "repo": "playa-mesos",
-                "stars": 435,
+                "stars": 431,
                 "topics": [
                   "dcos",
                   "dcos-compute-guild"
@@ -3056,7 +3056,7 @@
             {
               "node_type": "item",
               "title": "Vagrant Mesos",
-              "description": null,
+              "description": "everpeace/vagrant-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3077,7 +3077,7 @@
             {
               "node_type": "item",
               "title": "Vagrant Mesos",
-              "description": null,
+              "description": "ahunnargikar/vagrant-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3098,7 +3098,7 @@
             {
               "node_type": "item",
               "title": "Using Atlas",
-              "description": null,
+              "description": "Banno/vagrant-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3119,7 +3119,7 @@
             {
               "node_type": "item",
               "title": "Mesos CentOS",
-              "description": null,
+              "description": "rasputnik/mesos-centos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3140,7 +3140,7 @@
             {
               "node_type": "item",
               "title": "CoreOS Mesos Cluster",
-              "description": null,
+              "description": "tobilg/coreos-mesos-cluster",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3161,7 +3161,7 @@
             {
               "node_type": "item",
               "title": "Mesos Marathon Deimos Vagrant",
-              "description": null,
+              "description": "liubin/mesos-marathon-deimos-vagrant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3182,7 +3182,7 @@
             {
               "node_type": "item",
               "title": "Vagrant Mesos Development Environment",
-              "description": null,
+              "description": "mdevilliers/vagrant-mesos-development-environment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3203,7 +3203,7 @@
             {
               "node_type": "item",
               "title": "Vagrant Deimos",
-              "description": null,
+              "description": "bskaggs/vagrant-deimos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3224,7 +3224,7 @@
             {
               "node_type": "item",
               "title": "Vagrant Mesos Spark",
-              "description": null,
+              "description": "aharwood/vagrant-mesos-spark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3245,7 +3245,7 @@
             {
               "node_type": "item",
               "title": "Mesos Playground",
-              "description": null,
+              "description": "antonlindstrom/mesos_playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3273,7 +3273,7 @@
             {
               "node_type": "item",
               "title": "Fig Mesos",
-              "description": null,
+              "description": "HelloGrayson/compose-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3294,7 +3294,7 @@
             {
               "node_type": "item",
               "title": "Compose Mesos",
-              "description": null,
+              "description": "dontrebootme/compose-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3315,7 +3315,7 @@
             {
               "node_type": "item",
               "title": "Mesoscope",
-              "description": null,
+              "description": "schibsted/mesoscope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3336,7 +3336,7 @@
             {
               "node_type": "item",
               "title": "Docker Mesos",
-              "description": null,
+              "description": "yaronr/docker-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3357,7 +3357,7 @@
             {
               "node_type": "item",
               "title": "Mesos workshop",
-              "description": null,
+              "description": "datastrophic/mesos-workshop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3378,7 +3378,7 @@
             {
               "node_type": "item",
               "title": "Mesos Docker containers",
-              "description": null,
+              "description": "datastrophic/mesos-docker-containers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3406,7 +3406,7 @@
             {
               "node_type": "item",
               "title": "Mesos tracing",
-              "description": null,
+              "description": "d2iq-archive/mesos-tracing",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3430,7 +3430,7 @@
             {
               "node_type": "item",
               "title": "Mesos traces vis",
-              "description": null,
+              "description": "tnachen/mesos_traces_vis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3464,7 +3464,7 @@
             {
               "node_type": "item",
               "title": "Ansible Mesos",
-              "description": null,
+              "description": "AnsibleShipyard/ansible-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3485,7 +3485,7 @@
             {
               "node_type": "item",
               "title": "Anisble Marathon",
-              "description": null,
+              "description": "AnsibleShipyard/ansible-marathon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3506,7 +3506,7 @@
             {
               "node_type": "item",
               "title": "Ansible Mesos cluster",
-              "description": null,
+              "description": "frankhinek/ansible-mesos-cluster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3527,7 +3527,7 @@
             {
               "node_type": "item",
               "title": "Anisble Mesos Docker",
-              "description": null,
+              "description": "AnsibleShipyard/ansible-mesos-docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3548,7 +3548,7 @@
             {
               "node_type": "item",
               "title": "Deploy apps on marathon from ansible",
-              "description": null,
+              "description": "Topface/ansible-marathon_app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3569,7 +3569,7 @@
             {
               "node_type": "item",
               "title": "roger-mesos with Bamboo",
-              "description": null,
+              "description": "seomoz/roger-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3590,7 +3590,7 @@
             {
               "node_type": "item",
               "title": "Ansible Chronos",
-              "description": null,
+              "description": "AnsibleShipyard/ansible-chronos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3611,7 +3611,7 @@
             {
               "node_type": "item",
               "title": "Ansible Mesos",
-              "description": null,
+              "description": "fupelaqu/ansible-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3632,7 +3632,7 @@
             {
               "node_type": "item",
               "title": "Ansible MMD",
-              "description": null,
+              "description": "ccollicutt/ansible-mmd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3660,7 +3660,7 @@
             {
               "node_type": "item",
               "title": "Mesos Cookbook",
-              "description": null,
+              "description": "mdsol/mesos_cookbook",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3683,7 +3683,7 @@
             {
               "node_type": "item",
               "title": "Cookbook Mesos",
-              "description": null,
+              "description": "everpeace/cookbook-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3711,7 +3711,7 @@
             {
               "node_type": "item",
               "title": "Puppet Mesos",
-              "description": null,
+              "description": "deric/puppet-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3742,7 +3742,7 @@
             {
               "node_type": "item",
               "title": "Mesos Babushka",
-              "description": null,
+              "description": "parolkar/mesos-babushka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3770,7 +3770,7 @@
             {
               "node_type": "item",
               "title": "Cloudformation Mesos",
-              "description": null,
+              "description": "thefactory/cloudformation-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3798,7 +3798,7 @@
             {
               "node_type": "item",
               "title": "Terraform Mesos",
-              "description": null,
+              "description": "ContainerSolutions/terraform-mesos",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3826,7 +3826,7 @@
             {
               "node_type": "item",
               "title": "Mesos SystemD",
-              "description": null,
+              "description": "adobe-platform/mesos-systemd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3854,7 +3854,7 @@
             {
               "node_type": "item",
               "title": "Mesos on Eucalyptus Private Cloud",
-              "description": null,
+              "description": "strat0sphere/spark-euca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3882,7 +3882,7 @@
             {
               "node_type": "item",
               "title": "Mesos DEB packaging",
-              "description": null,
+              "description": "d2iq-archive/mesos-deb-packaging",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3906,7 +3906,7 @@
             {
               "node_type": "item",
               "title": "Mesos DEB packaging",
-              "description": null,
+              "description": "deric/mesos-deb-packaging",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3927,7 +3927,7 @@
             {
               "node_type": "item",
               "title": "RPM Mesos",
-              "description": null,
+              "description": "nmilford/rpm-mesos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3948,7 +3948,7 @@
             {
               "node_type": "item",
               "title": "Mesos RPM",
-              "description": null,
+              "description": "berngp/mesos-rpm",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3976,7 +3976,7 @@
             {
               "node_type": "item",
               "title": "Project Calico",
-              "description": null,
+              "description": "projectcalico/netmodules-plugin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4008,7 +4008,7 @@
         {
           "node_type": "item",
           "title": "Satellite",
-          "description": null,
+          "description": "twosigma/satellite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4021,7 +4021,7 @@
             "open_issues": 26,
             "owner": "twosigma",
             "repo": "satellite",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4029,7 +4029,7 @@
         {
           "node_type": "item",
           "title": "Complainer",
-          "description": null,
+          "description": "cloudflare/complainer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4050,7 +4050,7 @@
         {
           "node_type": "item",
           "title": "Docker CollecD Mesos",
-          "description": ")",
+          "description": "bobrik/docker-collectd-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4071,7 +4071,7 @@
         {
           "node_type": "item",
           "title": "Prometheus",
-          "description": null,
+          "description": "prometheus-junkyard/mesos_exporter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4092,7 +4092,7 @@
         {
           "node_type": "item",
           "title": "marathon-slack",
-          "description": null,
+          "description": "tobilg/marathon-slack",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4119,7 +4119,7 @@
         {
           "node_type": "item",
           "title": "CollecD Mesos task",
-          "description": null,
+          "description": "bobrik/collectd-mesos-tasks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4140,7 +4140,7 @@
         {
           "node_type": "item",
           "title": "Mesos InfluxDB Collector",
-          "description": null,
+          "description": "kpacha/mesos-influxdb-collector",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4161,7 +4161,7 @@
         {
           "node_type": "item",
           "title": "Prometheus",
-          "description": null,
+          "description": "wndhydrnt/mesos-task-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4212,7 +4212,7 @@
         {
           "node_type": "item",
           "title": "DNS based Service Discovery for Mesos",
-          "description": null,
+          "description": "d2iq-archive/mesos-dns",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4249,7 +4249,7 @@
             "open_issues": 39,
             "owner": "mantl",
             "repo": "mesos-consul",
-            "stars": 337,
+            "stars": 336,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4284,7 +4284,7 @@
         {
           "node_type": "item",
           "title": "Aurproxy",
-          "description": null,
+          "description": "tellapart/aurproxy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4305,7 +4305,7 @@
         {
           "node_type": "item",
           "title": "Zoidberg",
-          "description": null,
+          "description": "bobrik/zoidberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4326,7 +4326,7 @@
         {
           "node_type": "item",
           "title": "Automated HAProxy reconfiguration for Marathon",
-          "description": null,
+          "description": "Wizcorp/frontrunner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4368,7 +4368,7 @@
         {
           "node_type": "item",
           "title": "Ralph",
-          "description": null,
+          "description": "bobrik/ralph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4389,7 +4389,7 @@
         {
           "node_type": "item",
           "title": "Service Discovery script for Mesos and Marathon",
-          "description": null,
+          "description": "opencredo/mesos_service_discovery",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4410,7 +4410,7 @@
         {
           "node_type": "item",
           "title": "traefik",
-          "description": null,
+          "description": "emilevauge/traefik",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4419,7 +4419,7 @@
             "id": 101048096,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-30T15:22:25Z",
+            "last_commit": "2026-10-02T15:17:04Z",
             "open_issues": 1,
             "owner": "emilevauge",
             "repo": "traefik",
@@ -4431,7 +4431,7 @@
         {
           "node_type": "item",
           "title": "Sprinter",
-          "description": null,
+          "description": "lasp-lang/sprinter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4452,7 +4452,7 @@
         {
           "node_type": "item",
           "title": "roger-bamboo",
-          "description": null,
+          "description": "seomoz/roger-bamboo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4473,7 +4473,7 @@
         {
           "node_type": "item",
           "title": "Surok",
-          "description": null,
+          "description": "Difrex/surok",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4500,7 +4500,7 @@
         {
           "node_type": "item",
           "title": "Docker Volume Driver Isolator",
-          "description": null,
+          "description": "thecodeteam/mesos-module-dvdi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4521,7 +4521,7 @@
         {
           "node_type": "item",
           "title": "Serenity",
-          "description": null,
+          "description": "d2iq-archive/serenity",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4545,7 +4545,7 @@
         {
           "node_type": "item",
           "title": "Metaswitch",
-          "description": null,
+          "description": "d2iq-archive/net-modules",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4569,7 +4569,7 @@
         {
           "node_type": "item",
           "title": "Network Isolator",
-          "description": null,
+          "description": "d2iq-archive/net-modules",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4593,7 +4593,7 @@
         {
           "node_type": "item",
           "title": "Flocker volumes",
-          "description": null,
+          "description": "ClusterHQ/mesos-module-flocker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4614,7 +4614,7 @@
         {
           "node_type": "item",
           "title": "Threshold-based Mesos Oversubscription",
-          "description": null,
+          "description": "blue-yonder/mesos-threshold-oversubscription",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4640,7 +4640,7 @@
         {
           "node_type": "item",
           "title": "A customer allocator module",
-          "description": null,
+          "description": "elodina/alligator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4661,7 +4661,7 @@
         {
           "node_type": "item",
           "title": "Remote Commands Execution",
-          "description": null,
+          "description": "massenz/execute-module",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4682,7 +4682,7 @@
         {
           "node_type": "item",
           "title": "Allocator module with Offer Filtering",
-          "description": null,
+          "description": "gettyimages/mesos_offer_filtering_allocator_module",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4709,7 +4709,7 @@
         {
           "node_type": "item",
           "title": "Mantl",
-          "description": null,
+          "description": "mantl/mantl",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4730,7 +4730,7 @@
         {
           "node_type": "item",
           "title": "PaaSTA",
-          "description": null,
+          "description": "Yelp/paasta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:33:55Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-02T13:14:21Z",
+            "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1734,
@@ -4759,7 +4759,7 @@
         {
           "node_type": "item",
           "title": "Apollo",
-          "description": null,
+          "description": "Capgemini/Apollo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4772,7 +4772,7 @@
             "open_issues": 84,
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 717,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4780,7 +4780,7 @@
         {
           "node_type": "item",
           "title": "Peloton from Uber",
-          "description": null,
+          "description": "uber/peloton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4830,7 +4830,7 @@
         {
           "node_type": "item",
           "title": "Compute platform",
-          "description": null,
+          "description": "sttts/compute-platform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4857,7 +4857,7 @@
         {
           "node_type": "item",
           "title": "REX-Ray storage orchestration engine",
-          "description": null,
+          "description": "rexray/rexray",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4887,7 +4887,7 @@
         {
           "node_type": "item",
           "title": "Toil - workflow engine",
-          "description": null,
+          "description": "DataBiosphere/toil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4896,8 +4896,8 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T22:34:33Z",
-            "open_issues": 407,
+            "last_commit": "2026-10-02T23:30:04Z",
+            "open_issues": 409,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936,
@@ -4921,7 +4921,7 @@
         {
           "node_type": "item",
           "title": "Vamp",
-          "description": null,
+          "description": "CircleCI-Archived/vamp",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4970,7 +4970,7 @@
         {
           "node_type": "item",
           "title": "Marathon Python",
-          "description": null,
+          "description": "thefactory/marathon-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4991,7 +4991,7 @@
         {
           "node_type": "item",
           "title": "Ochopod",
-          "description": null,
+          "description": "autodesk-cloud/ochopod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5012,7 +5012,7 @@
         {
           "node_type": "item",
           "title": "Mesos CLI",
-          "description": null,
+          "description": "mesosphere-backup/mesos-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5033,7 +5033,7 @@
         {
           "node_type": "item",
           "title": "BigDataScript",
-          "description": null,
+          "description": "pcingola/BigDataScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5054,7 +5054,7 @@
         {
           "node_type": "item",
           "title": "Autoscaling Mesos",
-          "description": null,
+          "description": "thefactory/autoscale-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5075,7 +5075,7 @@
         {
           "node_type": "item",
           "title": "Charmander",
-          "description": null,
+          "description": "att-innovate/charmander",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5096,7 +5096,7 @@
         {
           "node_type": "item",
           "title": "CoreOS Mesos Marathon",
-          "description": null,
+          "description": "jwerak/coreos-mesos-marathon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5117,7 +5117,7 @@
         {
           "node_type": "item",
           "title": "Sample FluentD on Mesos Docker",
-          "description": null,
+          "description": "riywo/sample-fluentd-on-mesos-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5138,7 +5138,7 @@
         {
           "node_type": "item",
           "title": "megos - Go(lang) client library for accessing information of a Apache Mesos cluster",
-          "description": null,
+          "description": "andygrunwald/megos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5159,7 +5159,7 @@
         {
           "node_type": "item",
           "title": "Foundry bagrant Mesos Kafka cluster",
-          "description": null,
+          "description": "theclaymethod/Foundry-vagrant-mesos-kafka-cluster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5180,7 +5180,7 @@
         {
           "node_type": "item",
           "title": "Relay.Mesos",
-          "description": null,
+          "description": "sailthru/relay.mesos",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5201,7 +5201,7 @@
         {
           "node_type": "item",
           "title": "Chronos",
-          "description": null,
+          "description": "cashoefman/chronos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5222,7 +5222,7 @@
         {
           "node_type": "item",
           "title": "Compose-executor",
-          "description": null,
+          "description": "mohitsoni/compose-executor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5243,7 +5243,7 @@
         {
           "node_type": "item",
           "title": "Chronos utils",
-          "description": null,
+          "description": "d2iq-archive/chronos-utils",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5267,7 +5267,7 @@
         {
           "node_type": "item",
           "title": "Presto Marathon Docker",
-          "description": null,
+          "description": "sheepkiller/presto-marathon-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5288,7 +5288,7 @@
         {
           "node_type": "item",
           "title": "Dask Mesos backend",
-          "description": null,
+          "description": "daskos/daskos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5315,7 +5315,7 @@
         {
           "node_type": "item",
           "title": "Mesos BOSHrelease",
-          "description": null,
+          "description": "vmware-archive/mesos-boshrelease",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5336,7 +5336,7 @@
         {
           "node_type": "item",
           "title": "Mesos Utils",
-          "description": null,
+          "description": "d2iq-archive/mesos-utils",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5360,7 +5360,7 @@
         {
           "node_type": "item",
           "title": "Apache Mesos Platform as a Service Deploy",
-          "description": null,
+          "description": "elodina/stack-deploy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5381,7 +5381,7 @@
         {
           "node_type": "item",
           "title": "GoMarathon",
-          "description": null,
+          "description": "jbdalido/gomarathon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5402,7 +5402,7 @@
         {
           "node_type": "item",
           "title": "Triathlon - Marathon wrapper for distributed Mesos cluster selection",
-          "description": null,
+          "description": "schibsted/triathlon",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5423,7 +5423,7 @@
         {
           "node_type": "item",
           "title": "Mesos BOSHrelease",
-          "description": null,
+          "description": "CloudCredo/mesos-boshrelease",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5444,7 +5444,7 @@
         {
           "node_type": "item",
           "title": "Mesosphere pkg",
-          "description": null,
+          "description": "d2iq-archive/marathon-pkg",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5468,7 +5468,7 @@
         {
           "node_type": "item",
           "title": "deathnode - Gracefully kill Mesos nodes for autoscaling",
-          "description": null,
+          "description": "alanbover/deathnode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5493,7 +5493,7 @@
         {
           "node_type": "item",
           "title": "Marathon Logger",
-          "description": null,
+          "description": "thefactory/marathon-logger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5514,7 +5514,7 @@
         {
           "node_type": "item",
           "title": "Mesos on Mesos",
-          "description": null,
+          "description": "d2iq-archive/mom",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5538,7 +5538,7 @@
         {
           "node_type": "item",
           "title": "OpenStack Kolla",
-          "description": null,
+          "description": "openstack-archive/kolla-mesos",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5559,7 +5559,7 @@
         {
           "node_type": "item",
           "title": "Sample Mesos Executor",
-          "description": null,
+          "description": "d2iq-archive/sample_mesos_executor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5625,7 +5625,7 @@
         {
           "node_type": "item",
           "title": "NixOps Mesos",
-          "description": null,
+          "description": "wmertens/nixops-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5646,7 +5646,7 @@
         {
           "node_type": "item",
           "title": "Storm Marathon",
-          "description": null,
+          "description": "obaidsalikeen/storm-marathon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5667,7 +5667,7 @@
         {
           "node_type": "item",
           "title": "Load replaying",
-          "description": null,
+          "description": "stealthly/punxsutawney",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5688,7 +5688,7 @@
         {
           "node_type": "item",
           "title": "Spring Cloud Data Flow",
-          "description": null,
+          "description": "spring-attic/spring-cloud-dataflow-server-mesos",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5709,7 +5709,7 @@
         {
           "node_type": "item",
           "title": "Mesos in Hadoop",
-          "description": null,
+          "description": "mesos/mih",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5730,7 +5730,7 @@
         {
           "node_type": "item",
           "title": "Mammoth",
-          "description": null,
+          "description": "mohitsoni/mammoth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5751,7 +5751,7 @@
         {
           "node_type": "item",
           "title": "Mesos on CoreOS",
-          "description": null,
+          "description": "tnolet/mesos_on_coreos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5772,7 +5772,7 @@
         {
           "node_type": "item",
           "title": "Depcon",
-          "description": null,
+          "description": "gondor/depcon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5793,7 +5793,7 @@
         {
           "node_type": "item",
           "title": "Docker Marathon",
-          "description": null,
+          "description": "thefactory/docker-marathon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5814,7 +5814,7 @@
         {
           "node_type": "item",
           "title": "Chronos pkg",
-          "description": null,
+          "description": "d2iq-archive/chronos-pkg",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5838,7 +5838,7 @@
         {
           "node_type": "item",
           "title": "Weave Mesos Integration",
-          "description": null,
+          "description": "TrentBrown/weave-into-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5859,7 +5859,7 @@
         {
           "node_type": "item",
           "title": "Go Mesos Kafka Consumer",
-          "description": null,
+          "description": "elodina/gonzo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5880,7 +5880,7 @@
         {
           "node_type": "item",
           "title": "Hecate",
-          "description": null,
+          "description": "jbdalido/hecate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5901,7 +5901,7 @@
         {
           "node_type": "item",
           "title": "Magneto",
-          "description": null,
+          "description": "nlamirault/magneto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5943,7 +5943,7 @@
         {
           "node_type": "item",
           "title": "Nix",
-          "description": null,
+          "description": "kamilchm/nix-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5964,7 +5964,7 @@
         {
           "node_type": "item",
           "title": "PAPI performance counters for Mesos",
-          "description": null,
+          "description": "ct-clmsn/mesos-papi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5993,7 +5993,7 @@
         {
           "node_type": "item",
           "title": "Mesos Spark",
-          "description": null,
+          "description": "ptorrestr/mesos-spark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6014,7 +6014,7 @@
         {
           "node_type": "item",
           "title": "Mesos",
-          "description": null,
+          "description": "jayusor/mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6035,7 +6035,7 @@
         {
           "node_type": "item",
           "title": "datastrophic/mesos-scaler-ec2",
-          "description": null,
+          "description": "datastrophic/mesos-scaler-ec2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6056,7 +6056,7 @@
         {
           "node_type": "item",
           "title": "tailhook/mesos-tests",
-          "description": null,
+          "description": "tailhook/mesos-tests",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6077,7 +6077,7 @@
         {
           "node_type": "item",
           "title": "REPL-MESOS",
-          "description": null,
+          "description": "replme/repl-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6098,7 +6098,7 @@
         {
           "node_type": "item",
           "title": "Service Bridge",
-          "description": null,
+          "description": "d2iq-archive/service-bridge",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6122,7 +6122,7 @@
         {
           "node_type": "item",
           "title": "Packer Mesos",
-          "description": null,
+          "description": "JasonGiedymin/chef-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6143,7 +6143,7 @@
         {
           "node_type": "item",
           "title": "Mesos Nerve",
-          "description": null,
+          "description": "ortoo/mesos-nerve",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6164,7 +6164,7 @@
         {
           "node_type": "item",
           "title": "Vault",
-          "description": null,
+          "description": "jmspring/vault-on-mesos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6185,7 +6185,7 @@
         {
           "node_type": "item",
           "title": "JIRA on Mesos",
-          "description": null,
+          "description": "elodina/mesos-jira",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6206,7 +6206,7 @@
         {
           "node_type": "item",
           "title": "Mesos Akaros",
-          "description": null,
+          "description": "alfongj/mesos-akaros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6227,7 +6227,7 @@
         {
           "node_type": "item",
           "title": "Packer Mesos",
-          "description": null,
+          "description": "smarthall/packer-mesos",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6248,7 +6248,7 @@
         {
           "node_type": "item",
           "title": "RogerOS",
-          "description": null,
+          "description": "seomoz/roger-mesos-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:30:26.054Z",
+    "last_updated": "2026-10-03T04:59:38.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
