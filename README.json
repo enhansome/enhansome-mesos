@@ -20,7 +20,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-03T07:10:47Z",
-                    "open_issues": 381,
+                    "open_issues": 382,
                     "owner": "apache",
                     "repo": "flink",
                     "stars": 26378,
@@ -865,7 +865,7 @@
                 "open_issues": 61,
                 "owner": "twosigma",
                 "repo": "waiter",
-                "stars": 86,
+                "stars": 85,
                 "topics": [
                   "autoscaling",
                   "http-proxy",
@@ -2700,7 +2700,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "mesos-log",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "documentation",
                   "mesos",
@@ -4896,8 +4896,8 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T07:29:12Z",
-            "open_issues": 407,
+            "last_commit": "2026-10-04T09:48:21Z",
+            "open_issues": 405,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:52:04.421Z",
+    "last_updated": "2026-10-04T10:34:48.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
