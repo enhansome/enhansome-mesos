@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,378 | 🐛 382 | 🌐 Java | 📅 2026-10-03
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,381 | 🐛 384 | 🌐 Java | 📅 2026-10-05
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -126,7 +126,7 @@ What can you expect to see here?
 * [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,206 | 🐛 114 | 🌐 Java | 📅 2026-10-02
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,373 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
-* [Singularity](https://github.com/HubSpot/Singularity) ⭐ 827 | 🐛 38 | 🌐 Java | 📅 2023-06-02
+* [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos) ⚠️ Archived
 * [Swan](https://github.com/Dataman-Cloud/swan) ⭐ 405 | 🐛 19 | 🌐 Go | 📅 2018-01-29
 * [Cook Scheduler](https://github.com/twosigma/Cook) ⚠️ Archived
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

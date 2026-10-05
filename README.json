@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T07:10:47Z",
-                    "open_issues": 382,
+                    "last_commit": "2026-10-05T11:21:10Z",
+                    "open_issues": 384,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26378,
+                    "stars": 26381,
                     "topics": [
                       "big-data",
                       "flink",
@@ -670,7 +670,7 @@
                 "open_issues": 38,
                 "owner": "HubSpot",
                 "repo": "Singularity",
-                "stars": 827,
+                "stars": 828,
                 "topics": [
                   "mesos"
                 ]
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:34:48.930Z",
+    "last_updated": "2026-10-05T11:29:04.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
