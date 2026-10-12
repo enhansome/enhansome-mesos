@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T12:38:07Z",
-                    "open_issues": 403,
+                    "last_commit": "2026-10-12T11:16:37Z",
+                    "open_issues": 398,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26398,
+                    "stars": 26401,
                     "topics": [
                       "big-data",
                       "flink",
@@ -578,11 +578,11 @@
                 "id": 42304749,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T14:18:25Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-12T06:00:51Z",
+                "open_issues": 114,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8203,
+                "stars": 8202,
                 "topics": [
                   "cron",
                   "database",
@@ -4201,7 +4201,7 @@
             "open_issues": 44,
             "owner": "QubitProducts",
             "repo": "bamboo",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "ceh",
               "infra"
@@ -4419,7 +4419,7 @@
             "id": 101048096,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T14:51:01Z",
+            "last_commit": "2026-10-12T07:59:02Z",
             "open_issues": 1,
             "owner": "emilevauge",
             "repo": "traefik",
@@ -4896,11 +4896,11 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T06:09:06Z",
-            "open_issues": 402,
+            "last_commit": "2026-10-12T10:35:57Z",
+            "open_issues": 403,
             "owner": "DataBiosphere",
             "repo": "toil",
-            "stars": 936,
+            "stars": 935,
             "topics": [
               "aws",
               "common-workflow-language",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:49:16.882Z",
+    "last_updated": "2026-10-12T11:59:06.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
