@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,401 | 🐛 398 | 🌐 Java | 📅 2026-10-12
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,405 | 🐛 399 | 🌐 Java | 📅 2026-10-13
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,202 | 🐛 114 | 🌐 Java | 📅 2026-10-12
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,202 | 🐛 113 | 🌐 Java | 📅 2026-10-13
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,373 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
