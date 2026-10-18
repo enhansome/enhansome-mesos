@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,412 | 🐛 401 | 🌐 Java | 📅 2026-10-16
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,412 | 🐛 403 | 🌐 Java | 📅 2026-10-17
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,204 | 🐛 114 | 🌐 Java | 📅 2026-10-13
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,203 | 🐛 114 | 🌐 Java | 📅 2026-10-13
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,374 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -366,7 +366,7 @@ What can you expect to see here?
 ## Monitoring and alerting
 
 * [Satellite](https://github.com/twosigma/satellite) ⚠️ Archived
-* [Complainer](https://github.com/cloudflare/complainer) ⭐ 81 | 🐛 8 | 🌐 Go | 📅 2026-04-24
+* [Complainer](https://github.com/cloudflare/complainer) ⭐ 80 | 🐛 8 | 🌐 Go | 📅 2026-04-24
 * [Docker CollecD Mesos](https://github.com/bobrik/docker-collectd-mesos) ⭐ 55 | 🐛 3 | 🌐 Smarty | 📅 2016-09-19)
 * [Prometheus](https://github.com/prometheus/mesos_exporter) ⚠️ Archived
 * [marathon-slack](https://github.com/tobilg/marathon-slack) ⚠️ Archived
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

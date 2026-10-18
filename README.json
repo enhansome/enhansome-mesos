@@ -19,8 +19,8 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T15:14:47Z",
-                    "open_issues": 401,
+                    "last_commit": "2026-10-17T19:44:00Z",
+                    "open_issues": 403,
                     "owner": "apache",
                     "repo": "flink",
                     "stars": 26412,
@@ -582,7 +582,7 @@
                 "open_issues": 114,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8204,
+                "stars": 8203,
                 "topics": [
                   "cron",
                   "database",
@@ -4042,7 +4042,7 @@
             "open_issues": 8,
             "owner": "cloudflare",
             "repo": "complainer",
-            "stars": 81,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:33:27.639Z",
+    "last_updated": "2026-10-18T08:50:59.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
