@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T06:46:25Z",
-                    "open_issues": 397,
+                    "last_commit": "2026-10-24T03:56:34Z",
+                    "open_issues": 400,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26421,
+                    "stars": 26422,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 114,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8199,
+                "stars": 8198,
                 "topics": [
                   "cron",
                   "database",
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4025,
+                "stars": 4024,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -693,7 +693,7 @@
                 "open_issues": 208,
                 "owner": "d2iq-archive",
                 "repo": "kubernetes-mesos",
-                "stars": 633,
+                "stars": 632,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -1630,38 +1630,6 @@
             },
             {
               "node_type": "item",
-              "title": "ScaleIO",
-              "description": "thecodeteam/scaleio-framework",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The ScaleIO Framework implements an Apache Mesos Framework to manage the lifecycle of ScaleIO, a scale-out software-based block storage platform.",
-                "homepage": null,
-                "id": 67536239,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2017-02-28T17:30:17Z",
-                "open_issues": 9,
-                "owner": "thecodeteam",
-                "repo": "scaleio-framework",
-                "stars": 25,
-                "topics": [
-                  "containers",
-                  "dell-emc",
-                  "docker",
-                  "go",
-                  "kubernetes",
-                  "mesos",
-                  "mesos-framework",
-                  "scaleio",
-                  "scaleio-framework",
-                  "storage-platform"
-                ]
-              },
-              "first_seen": "2026-08-28T16:38:51.217Z"
-            },
-            {
-              "node_type": "item",
               "title": "Retz",
               "description": "retz/retz",
               "children": [],
@@ -1681,6 +1649,38 @@
                   "asakusa",
                   "gpu",
                   "mesos"
+                ]
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ScaleIO",
+              "description": "thecodeteam/scaleio-framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The ScaleIO Framework implements an Apache Mesos Framework to manage the lifecycle of ScaleIO, a scale-out software-based block storage platform.",
+                "homepage": null,
+                "id": 67536239,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2017-02-28T17:30:17Z",
+                "open_issues": 9,
+                "owner": "thecodeteam",
+                "repo": "scaleio-framework",
+                "stars": 24,
+                "topics": [
+                  "containers",
+                  "dell-emc",
+                  "docker",
+                  "go",
+                  "kubernetes",
+                  "mesos",
+                  "mesos-framework",
+                  "scaleio",
+                  "scaleio-framework",
+                  "storage-platform"
                 ]
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -2775,7 +2775,7 @@
                 "open_issues": 23,
                 "owner": "ContainerSolutions",
                 "repo": "minimesos",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "cloudnative",
                   "cluster",
@@ -4419,7 +4419,7 @@
             "id": 101048096,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-23T09:02:30Z",
+            "last_commit": "2026-10-23T13:06:26Z",
             "open_issues": 1,
             "owner": "emilevauge",
             "repo": "traefik",
@@ -4722,7 +4722,7 @@
             "open_issues": 166,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2970,
+            "stars": 2969,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4743,7 +4743,7 @@
             "open_issues": 110,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1734,
+            "stars": 1733,
             "topics": [
               "docker",
               "infrastructure",
@@ -4934,7 +4934,7 @@
             "open_issues": 106,
             "owner": "CircleCI-Archived",
             "repo": "vamp",
-            "stars": 620,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:20:50.883Z",
+    "last_updated": "2026-10-24T08:52:30.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",

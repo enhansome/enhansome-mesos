@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,421 | 🐛 397 | 🌐 Java | 📅 2026-10-23
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,422 | 🐛 400 | 🌐 Java | 📅 2026-10-24
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,199 | 🐛 114 | 🌐 Java | 📅 2026-10-13
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,198 | 🐛 114 | 🌐 Java | 📅 2026-10-13
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,372 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -191,8 +191,8 @@ What can you expect to see here?
 * [MPI](https://github.com/mesosphere/mesos-hydra) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2014-02-09
 * [distcc](https://github.com/mesos/mesos-distcc) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2016-08-31
 * [Example Python Framework](https://github.com/tarnfeld/mesos-python-framework) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2014-08-28
-* [ScaleIO](https://github.com/codedellemc/scaleio-framework) ⭐ 25 | 🐛 9 | 🌐 Go | 📅 2017-02-28
 * [Retz](https://github.com/retz/retz) ⭐ 24 | 🐛 25 | 🌐 Java | 📅 2017-12-31
+* [ScaleIO](https://github.com/codedellemc/scaleio-framework) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2017-02-28
 * [pinspider](https://github.com/SwathiMystery/mesos-pinspider) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2014-12-30
 * [Logo Generator](https://github.com/remembertoplay/logo-generator) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-19
 * [Changes Mesos Framework](https://github.com/dropbox/changes-mesos-framework) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2016-11-05
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,734 | 🐛 110 | 🌐 Python | 📅 2026-10-22
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,733 | 🐛 110 | 🌐 Python | 📅 2026-10-22
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 716 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
