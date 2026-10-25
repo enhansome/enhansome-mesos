@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T03:56:34Z",
-                    "open_issues": 400,
+                    "last_commit": "2026-10-24T23:17:19Z",
+                    "open_issues": 401,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26422,
+                    "stars": 26424,
                     "topics": [
                       "big-data",
                       "flink",
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4024,
+                "stars": 4023,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -3045,7 +3045,7 @@
                 "open_issues": 5,
                 "owner": "d2iq-archive",
                 "repo": "playa-mesos",
-                "stars": 431,
+                "stars": 430,
                 "topics": [
                   "dcos",
                   "dcos-compute-guild"
@@ -4870,7 +4870,7 @@
             "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2219,
+            "stars": 2218,
             "topics": [
               "containers",
               "docker",
@@ -4983,7 +4983,7 @@
             "open_issues": 25,
             "owner": "thefactory",
             "repo": "marathon-python",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:52:30.902Z",
+    "last_updated": "2026-10-25T09:09:34.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
@@ -6283,7 +6283,7 @@
       "open_issues": 1,
       "owner": "dharmeshkakadia",
       "repo": "awesome-mesos",
-      "stars": 536,
+      "stars": 535,
       "topics": [
         "awesome",
         "awesome-list",

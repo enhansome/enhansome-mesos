@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,422 | 🐛 400 | 🌐 Java | 📅 2026-10-24
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,424 | 🐛 401 | 🌐 Java | 📅 2026-10-24
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -418,7 +418,7 @@ What can you expect to see here?
 
 ## Other projects and Integrations
 
-* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,219 | 🐛 294 | 🌐 Go | 📅 2023-09-02
+* [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,218 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
 * [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 406 | 🌐 Python | 📅 2026-10-23
 
@@ -426,7 +426,7 @@ What can you expect to see here?
 
 * [Universe](https://github.com/mesosphere/universe) ⚠️ Archived - Mesos package repository
 
-* [Marathon Python](https://github.com/thefactory/marathon-python) ⭐ 196 | 🐛 25 | 🌐 Python | 📅 2020-10-26
+* [Marathon Python](https://github.com/thefactory/marathon-python) ⭐ 195 | 🐛 25 | 🌐 Python | 📅 2020-10-26
 
 * [Ochopod](https://github.com/autodesk-cloud/ochopod) ⭐ 122 | 🐛 9 | 🌐 Python | 📅 2016-03-29
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
