@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,424 | 🐛 401 | 🌐 Java | 📅 2026-10-24
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,425 | 🐛 403 | 🌐 Java | 📅 2026-10-26
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,198 | 🐛 114 | 🌐 Java | 📅 2026-10-13
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,197 | 🐛 114 | 🌐 Java | 📅 2026-10-13
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,372 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -380,7 +380,7 @@ What can you expect to see here?
 * [Bamboo](https://github.com/QubitProducts/bamboo) ⚠️ Archived - Automatically configuring HAProxy for Mesos+Marathon
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns) ⚠️ Archived
 * [Mesos-Consul](https://github.com/CiscoCloud/mesos-consul) ⚠️ Archived and [Service Discovery & Orchestration With Mesos and Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
-* [Marathon-Consul](https://github.com/allegro/marathon-consul) ⭐ 200 | 🐛 21 | 🌐 Go | 📅 2025-10-29 - Register Marathon Tasks as Consul Services for service discovery.
+* [Marathon-Consul](https://github.com/allegro/marathon-consul) ⭐ 200 | 🐛 22 | 🌐 Go | 📅 2025-10-29 - Register Marathon Tasks as Consul Services for service discovery.
 * [Aurproxy](https://github.com/tellapart/aurproxy) ⚠️ Archived
 * [Zoidberg](https://github.com/bobrik/zoidberg) ⭐ 60 | 🐛 2 | 🌐 Go | 📅 2017-08-29
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner) ⭐ 57 | 🐛 3 | 🌐 JavaScript | 📅 2016-01-08
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,218 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 406 | 🌐 Python | 📅 2026-10-23
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 405 | 🌐 Python | 📅 2026-10-26
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
