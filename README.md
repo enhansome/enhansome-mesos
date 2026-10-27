@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,425 | 🐛 403 | 🌐 Java | 📅 2026-10-26
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,428 | 🐛 415 | 🌐 Java | 📅 2026-10-27
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,197 | 🐛 114 | 🌐 Java | 📅 2026-10-13
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,197 | 🐛 111 | 🌐 Java | 📅 2026-10-27
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,372 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -407,9 +407,9 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,733 | 🐛 110 | 🌐 Python | 📅 2026-10-22
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,733 | 🐛 111 | 🌐 Python | 📅 2026-10-27
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 716 | 🐛 84 | 🌐 Python | 📅 2021-12-03
-* [Peloton from Uber](https://github.com/uber/peloton) ⭐ 647 | 🐛 20 | 🌐 Go | 📅 2023-05-20
+* [Peloton from Uber](https://github.com/uber/peloton) ⭐ 648 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
 * [Compute platform](https://github.com/sttts/compute-platform) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2015-06-17
 * [DC/OS](https://dcos.io/)
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
