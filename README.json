@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T08:48:29Z",
+                    "last_commit": "2026-10-28T10:09:13Z",
                     "open_issues": 415,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26428,
+                    "stars": 26432,
                     "topics": [
                       "big-data",
                       "flink",
@@ -297,7 +297,7 @@
                 "open_issues": 20,
                 "owner": "mesos",
                 "repo": "mr-redis",
-                "stars": 126,
+                "stars": 125,
                 "topics": [
                   "framework",
                   "golang",
@@ -579,7 +579,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T08:38:30Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
                 "stars": 8197,
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4023,
+                "stars": 4022,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -2557,7 +2557,7 @@
                 "open_issues": 47,
                 "owner": "Capgemini",
                 "repo": "mesos-ui",
-                "stars": 217,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -3307,7 +3307,7 @@
                 "open_issues": 3,
                 "owner": "dontrebootme",
                 "repo": "compose-mesos",
-                "stars": 54,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4249,7 +4249,7 @@
             "open_issues": 39,
             "owner": "mantl",
             "repo": "mesos-consul",
-            "stars": 336,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4722,7 +4722,7 @@
             "open_issues": 166,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2969,
+            "stars": 2968,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4743,7 +4743,7 @@
             "open_issues": 111,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1733,
+            "stars": 1732,
             "topics": [
               "docker",
               "infrastructure",
@@ -4772,7 +4772,7 @@
             "open_issues": 84,
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 716,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4870,7 +4870,7 @@
             "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2218,
+            "stars": 2217,
             "topics": [
               "containers",
               "docker",
@@ -4897,7 +4897,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T07:59:31Z",
-            "open_issues": 405,
+            "open_issues": 404,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:48:39.919Z",
+    "last_updated": "2026-10-28T10:34:45.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
