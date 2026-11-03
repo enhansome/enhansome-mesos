@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,444 | 🐛 435 | 🌐 Java | 📅 2026-11-02
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,443 | 🐛 428 | 🌐 Java | 📅 2026-11-03
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,197 | 🐛 113 | 🌐 Java | 📅 2026-10-27
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,198 | 🐛 113 | 🌐 Java | 📅 2026-10-27
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,372 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 828 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -237,7 +237,7 @@ What can you expect to see here?
   * [Java](http://mesos.apache.org/api/latest/java/)
   * [Jesos](https://github.com/groupon/jesos) - Pure Java
 * Python
-  * [Pesos](https://github.com/wickman/pesos) ⭐ 47 | 🐛 16 | 🌐 Python | 📅 2015-10-06 - Pure Python
+  * [Pesos](https://github.com/wickman/pesos) ⭐ 46 | 🐛 16 | 🌐 Python | 📅 2015-10-06 - Pure Python
   * [Python HTTP](https://github.com/osallou/python-mesos-http) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2020-12-16
   * [Pymesos](https://github.com/dangra/pymesos) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2014-09-11
 * Clojure
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,732 | 🐛 110 | 🌐 Python | 📅 2026-10-29
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,732 | 🐛 111 | 🌐 Python | 📅 2026-11-02
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 715 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 648 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,217 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 409 | 🌐 Python | 📅 2026-11-02
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 410 | 🌐 Python | 📅 2026-11-03
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
