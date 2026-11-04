@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T10:58:50Z",
-                    "open_issues": 428,
+                    "last_commit": "2026-11-04T11:33:11Z",
+                    "open_issues": 425,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26443,
+                    "stars": 26447,
                     "topics": [
                       "big-data",
                       "flink",
@@ -107,7 +107,7 @@
                     "open_issues": 409,
                     "owner": "apache",
                     "repo": "incubator-heron",
-                    "stars": 3624,
+                    "stars": 3623,
                     "topics": [
                       "heron",
                       "messaging",
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4022,
+                "stars": 4021,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -4270,7 +4270,7 @@
             "open_issues": 22,
             "owner": "allegro",
             "repo": "marathon-consul",
-            "stars": 200,
+            "stars": 199,
             "topics": [
               "consul",
               "discovery",
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T21:07:47Z",
-            "open_issues": 111,
+            "last_commit": "2026-11-03T22:16:31Z",
+            "open_issues": 112,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1732,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:56:11.225Z",
+    "last_updated": "2026-11-04T12:08:09.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",

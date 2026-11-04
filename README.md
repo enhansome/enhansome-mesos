@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,443 | 🐛 428 | 🌐 Java | 📅 2026-11-03
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,447 | 🐛 425 | 🌐 Java | 📅 2026-11-04
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -380,7 +380,7 @@ What can you expect to see here?
 * [Bamboo](https://github.com/QubitProducts/bamboo) ⚠️ Archived - Automatically configuring HAProxy for Mesos+Marathon
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns) ⚠️ Archived
 * [Mesos-Consul](https://github.com/CiscoCloud/mesos-consul) ⚠️ Archived and [Service Discovery & Orchestration With Mesos and Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
-* [Marathon-Consul](https://github.com/allegro/marathon-consul) ⭐ 200 | 🐛 22 | 🌐 Go | 📅 2025-10-29 - Register Marathon Tasks as Consul Services for service discovery.
+* [Marathon-Consul](https://github.com/allegro/marathon-consul) ⭐ 199 | 🐛 22 | 🌐 Go | 📅 2025-10-29 - Register Marathon Tasks as Consul Services for service discovery.
 * [Aurproxy](https://github.com/tellapart/aurproxy) ⚠️ Archived
 * [Zoidberg](https://github.com/bobrik/zoidberg) ⭐ 60 | 🐛 2 | 🌐 Go | 📅 2017-08-29
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner) ⭐ 57 | 🐛 3 | 🌐 JavaScript | 📅 2016-01-08
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,732 | 🐛 111 | 🌐 Python | 📅 2026-11-02
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,732 | 🐛 112 | 🌐 Python | 📅 2026-11-03
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 715 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 648 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
