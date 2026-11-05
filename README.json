@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T11:33:11Z",
-                    "open_issues": 425,
+                    "last_commit": "2026-11-05T12:13:40Z",
+                    "open_issues": 420,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26447,
+                    "stars": 26449,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 113,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8198,
+                "stars": 8197,
                 "topics": [
                   "cron",
                   "database",
@@ -613,7 +613,7 @@
                 "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4372,
+                "stars": 4371,
                 "topics": [
                   "chronos",
                   "chronos-scheduler",
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T22:16:31Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-05T10:47:43Z",
+            "open_issues": 113,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1732,
@@ -4897,7 +4897,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T00:32:16Z",
-            "open_issues": 410,
+            "open_issues": 412,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:08:09.273Z",
+    "last_updated": "2026-11-05T12:19:53.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
