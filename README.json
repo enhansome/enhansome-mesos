@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T11:18:57Z",
-                    "open_issues": 424,
+                    "last_commit": "2026-11-10T11:43:50Z",
+                    "open_issues": 421,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26458,
+                    "stars": 26461,
                     "topics": [
                       "big-data",
                       "flink",
@@ -613,7 +613,7 @@
                 "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4371,
+                "stars": 4370,
                 "topics": [
                   "chronos",
                   "chronos-scheduler",
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4021,
+                "stars": 4020,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T11:48:51Z",
-            "open_issues": 114,
+            "last_commit": "2026-11-09T22:15:57Z",
+            "open_issues": 115,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1732,
@@ -4896,11 +4896,11 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T13:26:20Z",
-            "open_issues": 415,
+            "last_commit": "2026-11-09T17:04:12Z",
+            "open_issues": 409,
             "owner": "DataBiosphere",
             "repo": "toil",
-            "stars": 936,
+            "stars": 937,
             "topics": [
               "aws",
               "common-workflow-language",
@@ -4955,7 +4955,7 @@
             "open_issues": 78,
             "owner": "d2iq-archive",
             "repo": "universe",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "dcos",
               "dcos-data-services-guild",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:52:16.974Z",
+    "last_updated": "2026-11-10T12:39:13.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
