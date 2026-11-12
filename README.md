@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,463 | 🐛 423 | 🌐 Java | 📅 2026-11-11
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,467 | 🐛 408 | 🌐 Java | 📅 2026-11-12
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,733 | 🐛 115 | 🌐 Python | 📅 2026-11-10
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,733 | 🐛 114 | 🌐 Python | 📅 2026-11-12
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 715 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 648 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,217 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 937 | 🐛 409 | 🌐 Python | 📅 2026-11-10
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 937 | 🐛 412 | 🌐 Python | 📅 2026-11-12
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
