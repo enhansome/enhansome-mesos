@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T12:27:48Z",
-                    "open_issues": 408,
+                    "last_commit": "2026-11-13T10:58:46Z",
+                    "open_issues": 413,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26467,
+                    "stars": 26469,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 111,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8198,
+                "stars": 8197,
                 "topics": [
                   "cron",
                   "database",
@@ -613,7 +613,7 @@
                 "open_issues": 232,
                 "owner": "mesos",
                 "repo": "chronos",
-                "stars": 4370,
+                "stars": 4369,
                 "topics": [
                   "chronos",
                   "chronos-scheduler",
@@ -4739,11 +4739,11 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T09:57:46Z",
-            "open_issues": 114,
+            "last_commit": "2026-11-13T01:41:02Z",
+            "open_issues": 113,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1733,
+            "stars": 1734,
             "topics": [
               "docker",
               "infrastructure",
@@ -4896,8 +4896,8 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T04:04:25Z",
-            "open_issues": 412,
+            "last_commit": "2026-11-13T08:56:31Z",
+            "open_issues": 419,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 937,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:42:41.124Z",
+    "last_updated": "2026-11-13T12:12:22.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
