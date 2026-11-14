@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T10:58:46Z",
-                    "open_issues": 413,
+                    "last_commit": "2026-11-13T19:05:10Z",
+                    "open_issues": 416,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26469,
+                    "stars": 26471,
                     "topics": [
                       "big-data",
                       "flink",
@@ -743,7 +743,7 @@
                 "open_issues": 129,
                 "owner": "twosigma",
                 "repo": "Cook",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "cluster",
                   "gke",
@@ -865,7 +865,7 @@
                 "open_issues": 61,
                 "owner": "twosigma",
                 "repo": "waiter",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "autoscaling",
                   "http-proxy",
@@ -956,7 +956,7 @@
                 "open_issues": 2,
                 "owner": "jenkinsci",
                 "repo": "mesos-plugin",
-                "stars": 288,
+                "stars": 287,
                 "topics": [
                   "cloud",
                   "cluster-management",
@@ -4722,7 +4722,7 @@
             "open_issues": 166,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2967,
+            "stars": 2966,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4739,7 +4739,7 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T01:41:02Z",
+            "last_commit": "2026-11-13T17:00:34Z",
             "open_issues": 113,
             "owner": "Yelp",
             "repo": "paasta",
@@ -4870,7 +4870,7 @@
             "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2217,
+            "stars": 2216,
             "topics": [
               "containers",
               "docker",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:12:22.481Z",
+    "last_updated": "2026-11-14T11:28:02.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
