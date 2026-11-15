@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T19:05:10Z",
-                    "open_issues": 416,
+                    "last_commit": "2026-11-15T02:57:10Z",
+                    "open_issues": 428,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26471,
+                    "stars": 26473,
                     "topics": [
                       "big-data",
                       "flink",
@@ -107,7 +107,7 @@
                     "open_issues": 409,
                     "owner": "apache",
                     "repo": "incubator-heron",
-                    "stars": 3623,
+                    "stars": 3622,
                     "topics": [
                       "heron",
                       "messaging",
@@ -578,8 +578,8 @@
                 "id": 42304749,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T15:20:29Z",
-                "open_issues": 111,
+                "last_commit": "2026-11-14T12:38:15Z",
+                "open_issues": 114,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
                 "stars": 8197,
@@ -670,7 +670,7 @@
                 "open_issues": 38,
                 "owner": "HubSpot",
                 "repo": "Singularity",
-                "stars": 828,
+                "stars": 829,
                 "topics": [
                   "mesos"
                 ]
@@ -1431,27 +1431,6 @@
             },
             {
               "node_type": "item",
-              "title": "Gozer",
-              "description": "Prototype with low-level go API",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Prototype mesos framework using new low-level API built in Go",
-                "homepage": null,
-                "id": 21957965,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2014-11-17T18:18:49Z",
-                "open_issues": 1,
-                "owner": "twitter-archive",
-                "repo": "gozer",
-                "stars": 61,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:38:51.217Z"
-            },
-            {
-              "node_type": "item",
               "title": "SSSP",
               "description": "mesosphere-backup/sssp",
               "children": [],
@@ -1466,6 +1445,27 @@
                 "open_issues": 4,
                 "owner": "mesosphere-backup",
                 "repo": "sssp",
+                "stars": 60,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:38:51.217Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gozer",
+              "description": "Prototype with low-level go API",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Prototype mesos framework using new low-level API built in Go",
+                "homepage": null,
+                "id": 21957965,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2014-11-17T18:18:49Z",
+                "open_issues": 1,
+                "owner": "twitter-archive",
+                "repo": "gozer",
                 "stars": 60,
                 "topics": []
               },
@@ -4772,7 +4772,7 @@
             "open_issues": 84,
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4870,7 +4870,7 @@
             "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2216,
+            "stars": 2215,
             "topics": [
               "containers",
               "docker",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:28:02.784Z",
+    "last_updated": "2026-11-15T11:57:01.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
