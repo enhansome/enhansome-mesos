@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T12:02:39Z",
-                    "open_issues": 428,
+                    "last_commit": "2026-11-17T09:32:57Z",
+                    "open_issues": 439,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26472,
+                    "stars": 26475,
                     "topics": [
                       "big-data",
                       "flink",
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4020,
+                "stars": 4021,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -4739,11 +4739,11 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:43:51Z",
+            "last_commit": "2026-11-17T13:00:36Z",
             "open_issues": 113,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1734,
+            "stars": 1735,
             "topics": [
               "docker",
               "infrastructure",
@@ -4870,7 +4870,7 @@
             "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2215,
+            "stars": 2216,
             "topics": [
               "containers",
               "docker",
@@ -4896,8 +4896,8 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T08:56:31Z",
-            "open_issues": 419,
+            "last_commit": "2026-11-16T18:48:44Z",
+            "open_issues": 417,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 937,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:44:52.985Z",
+    "last_updated": "2026-11-17T13:26:01.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
