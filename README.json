@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T12:42:29Z",
-                    "open_issues": 433,
+                    "last_commit": "2026-11-19T09:00:51Z",
+                    "open_issues": 440,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26480,
+                    "stars": 26483,
                     "topics": [
                       "big-data",
                       "flink",
@@ -582,7 +582,7 @@
                 "open_issues": 114,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8197,
+                "stars": 8196,
                 "topics": [
                   "cron",
                   "database",
@@ -4739,11 +4739,11 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:05:05Z",
+            "last_commit": "2026-11-18T16:16:15Z",
             "open_issues": 113,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "docker",
               "infrastructure",
@@ -4896,8 +4896,8 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T22:44:18Z",
-            "open_issues": 417,
+            "last_commit": "2026-11-19T11:46:53Z",
+            "open_issues": 414,
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 937,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:01:55.623Z",
+    "last_updated": "2026-11-19T13:05:56.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",

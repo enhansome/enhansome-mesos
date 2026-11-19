@@ -60,7 +60,7 @@ What can you expect to see here?
 
 #### Batch Processing
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,480 | 🐛 433 | 🌐 Java | 📅 2026-11-18
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos) ⭐ 26,483 | 🐛 440 | 🌐 Java | 📅 2026-11-19
 * [Dpark](https://github.com/douban/dpark) ⚠️ Archived
 * [Apache Hadoop](https://github.com/mesos/hadoop) ⭐ 176 | 🐛 19 | 🌐 Java | 📅 2022-10-04
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
@@ -123,7 +123,7 @@ What can you expect to see here?
 
 ### Service/Meta Schedulers/ PaaS
 
-* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,197 | 🐛 114 | 🌐 Java | 📅 2026-11-15
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job) ⭐ 8,196 | 🐛 114 | 🌐 Java | 📅 2026-11-15
 * [Chronos](https://github.com/mesos/chronos) ⭐ 4,369 | 🐛 232 | 🌐 Scala | 📅 2022-06-29
 * [Marathon](https://github.com/mesosphere/marathon) ⚠️ Archived
 * [Singularity](https://github.com/HubSpot/Singularity) ⭐ 829 | 🐛 38 | 🌐 Java | 📅 2023-06-02
@@ -407,7 +407,7 @@ What can you expect to see here?
 ## Platforms and microservice architectures
 
 * [Mantl](https://github.com/CiscoCloud/mantl) ⚠️ Archived
-* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,735 | 🐛 113 | 🌐 Python | 📅 2026-11-17
+* [PaaSTA](https://github.com/Yelp/paasta) ⭐ 1,736 | 🐛 113 | 🌐 Python | 📅 2026-11-18
 * [Apollo](https://github.com/Capgemini/Apollo) ⭐ 716 | 🐛 84 | 🌐 Python | 📅 2021-12-03
 * [Peloton from Uber](https://github.com/uber/peloton) ⭐ 648 | 🐛 20 | 🌐 Go | 📅 2023-05-20
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) ⭐ 199 | 🐛 3 | 🌐 Shell | 📅 2021-10-20 - PanteraS - Platform as a Service in a box
@@ -420,7 +420,7 @@ What can you expect to see here?
 
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray) ⭐ 2,216 | 🐛 294 | 🌐 Go | 📅 2023-09-02
 
-* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 937 | 🐛 417 | 🌐 Python | 📅 2026-11-17
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil) ⭐ 937 | 🐛 414 | 🌐 Python | 📅 2026-11-19
 
 * [Vamp](https://github.com/magneticio/vamp) ⚠️ Archived
 
@@ -576,4 +576,4 @@ What can you expect to see here?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
