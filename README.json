@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T09:00:51Z",
-                    "open_issues": 440,
+                    "last_commit": "2026-11-20T11:55:33Z",
+                    "open_issues": 443,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26483,
+                    "stars": 26485,
                     "topics": [
                       "big-data",
                       "flink",
@@ -51,7 +51,7 @@
                     "open_issues": 1,
                     "owner": "douban",
                     "repo": "dpark",
-                    "stars": 2661,
+                    "stars": 2660,
                     "topics": [
                       "bigdata",
                       "dpark",
@@ -107,7 +107,7 @@
                     "open_issues": 409,
                     "owner": "apache",
                     "repo": "incubator-heron",
-                    "stars": 3622,
+                    "stars": 3621,
                     "topics": [
                       "heron",
                       "messaging",
@@ -582,7 +582,7 @@
                 "open_issues": 114,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
-                "stars": 8196,
+                "stars": 8197,
                 "topics": [
                   "cron",
                   "database",
@@ -646,7 +646,7 @@
                 "open_issues": 29,
                 "owner": "d2iq-archive",
                 "repo": "marathon",
-                "stars": 4021,
+                "stars": 4020,
                 "topics": [
                   "dcos",
                   "dcos-orchestration-guild"
@@ -670,7 +670,7 @@
                 "open_issues": 38,
                 "owner": "HubSpot",
                 "repo": "Singularity",
-                "stars": 829,
+                "stars": 828,
                 "topics": [
                   "mesos"
                 ]
@@ -1403,7 +1403,7 @@
                 "open_issues": 2,
                 "owner": "derekchiang",
                 "repo": "Mesos-Bitcoin-Miner",
-                "stars": 91,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4722,7 +4722,7 @@
             "open_issues": 166,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2966,
+            "stars": 2965,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4739,11 +4739,11 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:16:15Z",
-            "open_issues": 113,
+            "last_commit": "2026-11-20T10:44:42Z",
+            "open_issues": 115,
             "owner": "Yelp",
             "repo": "paasta",
-            "stars": 1736,
+            "stars": 1735,
             "topics": [
               "docker",
               "infrastructure",
@@ -4772,7 +4772,7 @@
             "open_issues": 84,
             "owner": "Capgemini",
             "repo": "Apollo",
-            "stars": 716,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4870,7 +4870,7 @@
             "open_issues": 294,
             "owner": "rexray",
             "repo": "rexray",
-            "stars": 2216,
+            "stars": 2215,
             "topics": [
               "containers",
               "docker",
@@ -4896,11 +4896,11 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:46:53Z",
+            "last_commit": "2026-11-20T10:11:32Z",
             "open_issues": 414,
             "owner": "DataBiosphere",
             "repo": "toil",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "aws",
               "common-workflow-language",
@@ -4955,7 +4955,7 @@
             "open_issues": 78,
             "owner": "d2iq-archive",
             "repo": "universe",
-            "stars": 308,
+            "stars": 307,
             "topics": [
               "dcos",
               "dcos-data-services-guild",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T13:05:56.754Z",
+    "last_updated": "2026-11-20T12:53:15.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
