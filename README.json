@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T14:06:32Z",
-                    "open_issues": 449,
+                    "last_commit": "2026-11-25T14:14:05Z",
+                    "open_issues": 446,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26494,
+                    "stars": 26497,
                     "topics": [
                       "big-data",
                       "flink",
@@ -107,7 +107,7 @@
                     "open_issues": 409,
                     "owner": "apache",
                     "repo": "incubator-heron",
-                    "stars": 3621,
+                    "stars": 3620,
                     "topics": [
                       "heron",
                       "messaging",
@@ -4722,7 +4722,7 @@
             "open_issues": 166,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2965,
+            "stars": 2964,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4739,8 +4739,8 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T12:26:51Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-25T13:11:04Z",
+            "open_issues": 118,
             "owner": "Yelp",
             "repo": "paasta",
             "stars": 1735,
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:52:06.896Z",
+    "last_updated": "2026-11-25T14:21:43.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
