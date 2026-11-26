@@ -19,11 +19,11 @@
                     "id": 20587599,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T14:14:05Z",
-                    "open_issues": 446,
+                    "last_commit": "2026-11-26T13:38:35Z",
+                    "open_issues": 460,
                     "owner": "apache",
                     "repo": "flink",
-                    "stars": 26497,
+                    "stars": 26498,
                     "topics": [
                       "big-data",
                       "flink",
@@ -579,7 +579,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T17:28:30Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "apache",
                 "repo": "shardingsphere-elasticjob",
                 "stars": 8194,
@@ -4419,7 +4419,7 @@
             "id": 101048096,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-23T13:06:26Z",
+            "last_commit": "2026-11-26T13:48:25Z",
             "open_issues": 1,
             "owner": "emilevauge",
             "repo": "traefik",
@@ -4722,7 +4722,7 @@
             "open_issues": 166,
             "owner": "mantl",
             "repo": "mantl",
-            "stars": 2964,
+            "stars": 2963,
             "topics": []
           },
           "first_seen": "2026-08-28T16:38:51.217Z"
@@ -4739,7 +4739,7 @@
             "id": 44998824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T13:11:04Z",
+            "last_commit": "2026-11-26T13:38:39Z",
             "open_issues": 118,
             "owner": "Yelp",
             "repo": "paasta",
@@ -4896,7 +4896,7 @@
             "id": 33148320,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T06:43:19Z",
+            "last_commit": "2026-11-26T08:54:41Z",
             "open_issues": 416,
             "owner": "DataBiosphere",
             "repo": "toil",
@@ -6271,7 +6271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:21:43.343Z",
+    "last_updated": "2026-11-26T13:53:41.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Apache Mesos",
